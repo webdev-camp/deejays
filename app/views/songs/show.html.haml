@@ -1,0 +1,27 @@
+%p#notice= notice
+
+%p
+  %b Title:
+  = @song.title
+%p
+  %b Artist:
+  = @song.artist
+%p
+  %b Album:
+  = @song.album
+%p
+  %b Speed:
+  = @song.speed
+%p
+  %b Genre:
+  = @song.genre
+%p
+  %b Link:
+  = @song.link
+%p
+  %b Info:
+  = @song.info
+
+= link_to 'Edit', edit_song_path(@song)
+\|
+= link_to 'Back', songs_path
