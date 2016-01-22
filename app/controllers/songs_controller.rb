@@ -4,7 +4,9 @@ class SongsController < ApplicationController
   # GET /songs
   # GET /songs.json
   def index
-    @songs = Song.all
+    @q = Song.search( params[:q] )
+    @song_scope = @q.result(:distinct => true)
+    @songs = @song_scope.paginate( :page => params[:page], :per_page => 20 )
   end
 
   # GET /songs/1
