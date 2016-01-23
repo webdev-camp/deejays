@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160122043612) do
+ActiveRecord::Schema.define(version: 20160123200536) do
 
   create_table "songs", force: :cascade do |t|
     t.string   "title"
@@ -23,6 +23,8 @@ ActiveRecord::Schema.define(version: 20160122043612) do
     t.string   "info"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer  "user_id"
+    t.string   "user_name"
   end
 
   create_table "users", force: :cascade do |t|
@@ -51,6 +53,14 @@ ActiveRecord::Schema.define(version: 20160122043612) do
     t.integer  "invited_by_id"
     t.string   "invited_by_type"
     t.integer  "invitations_count",      default: 0
+    t.string   "added"
+    t.string   "city"
+    t.string   "country"
+    t.string   "hear"
+    t.string   "info"
+    t.string   "group"
+    t.string   "link"
+    t.integer  "admin"
   end
 
   add_index "users", ["email"], name: "index_users_on_email", unique: true
