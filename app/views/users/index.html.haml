@@ -1,0 +1,11 @@
+.container
+  .row
+    %h3 Users
+    .column
+      %table.table
+        %tbody
+          - @users.each do |user|
+            %tr
+              %td= link_to user.name, user
+              %td= link_to user.email, user
+              %td= user.city
