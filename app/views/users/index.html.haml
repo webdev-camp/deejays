@@ -1,11 +1,40 @@
-.container
-  .row
-    %h3 Users
-    .column
-      %table.table
-        %tbody
-          - @users.each do |user|
-            %tr
-              %td= link_to user.name, user
-              %td= link_to user.email, user
-              %td= user.city
+.row
+  .col-md-3
+    %div
+      %h1 Users
+  .col-md-9
+    = search_form_for @q, :html => { :class => "form-inline" }, :method => :get do |f|
+      .form-group
+        .input-group
+          = f.text_field :name_cont , :class => "form-control" , :placeholder => "Name" , :size => 10
+      .form-group
+        .input-group
+          = f.text_field :email_cont , :class => "form-control" , :placeholder => "Email"
+      .form-group
+        .input-group
+          = f.text_field :city_cont , :class => "form-control" , :placeholder => "City" , :size => 12
+      .form-group
+        .input-group
+          = f.text_field :country_cont , :class => "form-control" , :placeholder => "Country" , :size => 12
+      = f.submit "Search", :class => "btn btn-success" , :id => :filter
+      = link_to  "Cancel", songs_path, :class => "btn btn-warning"
+.row
+  .col-md-12
+    %table.table.table-condensed
+      %thead
+        %tr
+          %th= sort_link @q , :name
+          %th= sort_link @q , :email
+          %th= sort_link @q , :city
+          %th Country
+          %th Info
+          %th= @user_scope.length.to_s + " Users"
+      %tbody
+        - @users.each do |user|
+          %tr{:class => "line-#{cycle("1","2")}"}
+            %td= link_to user.name, user
+            %td= link_to user.email, user
+            %td= user.city
+            %td= user.country
+            %td= user.info
+  = paginate @users

@@ -1,45 +1,51 @@
 .row
-  .col-md-9
+  .col-md-3
     %div
       %h1 Listing songs
-      %table.table.table-condensed
-        %thead
-          %tr
-            %th= sort_link @q , :title
-            %th= sort_link @q , :artist
-            %th= sort_link @q , :album
-            %th= sort_link @q , :speed
-            %th= sort_link @q , :genre
-            %th Link
-            %th Info
-            %th
-              %label.checkbox
-                = @song_scope.length.to_s + " Songs"
-        %tbody
-          - @songs.each do |song|
-            %tr{:class => "line-#{cycle("1","2")}"}
-              %td.title= song.title
-              %td.title= song.artist
-              %td.title= song.album
-              %td.title= song.speed
-              %td.title= song.genre
-              %td.title= song.link
-              %td.title= song.info
-              %td= link_to 'Edit', edit_song_path(song)
-
-    = paginate @songs
-  .col-md-3
-    = search_form_for @q, :html => { :class => "form-horizontal" }, :method => :get do |f|
+  .col-md-9
+    = search_form_for @q, :html => { :class => "form-inline" }, :method => :get do |f|
+      .form-group
+        .input-group
+          = f.text_field :user_name_cont , :class => "form-control" , :placeholder => "User" , :size => 10
       .form-group
         .input-group
           = f.text_field :title_cont , :class => "form-control" , :placeholder => "Title"
       .form-group
         .input-group
           = f.text_field :artist_cont , :class => "form-control" , :placeholder => "Artist"
+      .form-group
+        .input-group
+          = f.text_field :genre_cont , :class => "form-control" , :placeholder => "Genre"
       = f.submit "Search", :class => "btn btn-success" , :id => :filter
       = link_to  "Cancel", songs_path, :class => "btn btn-warning"
+.row
+  .col-md-12
+    %table.table.table-condensed
+      %thead
+        %tr
+          %th= sort_link @q , :user_name
+          %th= sort_link @q , :title
+          %th= sort_link @q , :artist
+          %th= sort_link @q , :album
+          %th= sort_link @q , :speed
+          %th= sort_link @q , :genre
+          %th Link
+          %th Info
+          %th= @song_scope.length.to_s + " Songs"
+      %tbody
+        - @songs.each do |song|
+          %tr{:class => "line-#{cycle("1","2")}"}
+            %td.title= song.user_name
+            %td.title= song.title
+            %td.title= song.artist
+            %td.title= song.album
+            %td.title= song.speed
+            %td.title= song.genre
+            %td.title= song.link
+            %td.title= song.info
+            %td= link_to 'Edit', edit_song_path(song)
 
+    = paginate @songs
+  %br
 
-%br
-
-= link_to 'New Song', new_song_path
+  = link_to 'New Song', new_song_path

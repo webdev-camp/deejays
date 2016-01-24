@@ -2,14 +2,15 @@ class UsersController < ApplicationController
   before_action :authenticate_user! , :only => :index
 
   def index
-    @users = User.all
+    @q = User.search( params[:q] )
+    @user_scope = @q.result(:distinct => true)
+    @users = @user_scope.paginate( :page => params[:page], :per_page => 20 )
   end
 
   def show
-    @user = current_user
-    show = User.find(params[:id])
-    puts @user.inspect
-    unless show == @user or (@user.email == "sanctuarydance@aol.com")
+    @user = User.find(params[:id])
+    current = current_user
+    unless current == @user or (current.email == "sanctuarydance@aol.com")
       redirect_to :back, :alert => "Access denied."
     end
   end
