@@ -24,6 +24,7 @@ gem 'haml-rails'
 gem 'high_voltage'
 gem 'simple_form'
 gem 'thin'
+
 group :development do
   gem 'better_errors'
   gem 'guard-bundler'
