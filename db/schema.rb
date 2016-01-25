@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160123200536) do
+ActiveRecord::Schema.define(version: 20160125171927) do
 
   create_table "songs", force: :cascade do |t|
     t.string   "title"
@@ -61,6 +61,9 @@ ActiveRecord::Schema.define(version: 20160123200536) do
     t.string   "group"
     t.string   "link"
     t.integer  "admin"
+    t.date     "used"
+    t.integer  "count",                  default: 0
+    t.date     "given"
   end
 
   add_index "users", ["email"], name: "index_users_on_email", unique: true

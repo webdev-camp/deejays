@@ -8,6 +8,7 @@ class SongsController < ApplicationController
     @q = Song.search( params[:q] )
     @song_scope = @q.result(:distinct => true)
     @songs = @song_scope.paginate( :page => params[:page], :per_page => 20 )
+    tag_used
   end
 
   # GET /songs/1
@@ -36,6 +37,7 @@ class SongsController < ApplicationController
       else
         format.html { render :new }
         format.json { render json: @song.errors, status: :unprocessable_entity }
+        tag_given
       end
     end
   end
@@ -50,6 +52,7 @@ class SongsController < ApplicationController
       else
         format.html { render :edit }
         format.json { render json: @song.errors, status: :unprocessable_entity }
+        tag_given
       end
     end
   end
@@ -57,6 +60,9 @@ class SongsController < ApplicationController
   # DELETE /songs/1
   # DELETE /songs/1.json
   def destroy
+    unless current_user.admin
+      return redirect_to :back, :alert => "Access denied."
+    end
     @song.destroy
     respond_to do |format|
       format.html { redirect_to songs_url, notice: 'Song was successfully destroyed.' }
@@ -65,6 +71,20 @@ class SongsController < ApplicationController
   end
 
   private
+    def tag_used
+      user = current_user
+      user.used = Date.today
+      user.count += 1
+      user.save!
+    end
+
+    def tag_used
+      user = current_user
+      user.given = Date.today
+      user.count = 0
+      user.save!
+    end
+
     # Use callbacks to share common setup or constraints between actions.
     def set_song
       @song = Song.find(params[:id])
