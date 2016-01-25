@@ -1,3 +1,9 @@
+GIT
+  remote: git://github.com/dancinglightning/db_fixtures_dump.git
+  revision: 339495475e7542b5586bb9066755507a060b7431
+  specs:
+    db_fixtures_dump (0.1.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -310,6 +316,7 @@ DEPENDENCIES
   capybara
   coffee-rails (~> 4.1.0)
   database_cleaner
+  db_fixtures_dump!
   devise
   devise_invitable
   factory_girl_rails

@@ -1,0 +1,3605 @@
+---
+User_1:
+  id: 1
+  email: sanctuarydance@aol.com
+  encrypted_password: "$2a$10$JtiTqSVBzUzHVw7XvZIBEONtMycpqdXBR/MPuCCQst4.TQmwO2xrG"
+  sign_in_count: 1
+  current_sign_in_at: 2016-01-24 02:30:20.062707000 Z
+  last_sign_in_at: 2016-01-24 02:30:20.062707000 Z
+  current_sign_in_ip: 127.0.0.1
+  last_sign_in_ip: 127.0.0.1
+  created_at: 2016-01-23 23:32:40.907261000 Z
+  updated_at: 2016-01-24 02:30:20.063932000 Z
+  name: Zach
+  confirmed_at: 2016-01-23 23:32:40.895612000 Z
+  invitations_count: 0
+  added: September-07
+  city: Berkeley, CA
+User_2:
+  id: 2
+  email: zpine2@yahoo.com
+  encrypted_password: "$2a$10$T9rcz46KDKQPqsgYjcuIR.PIdyQCSKr9aHMThkRHJS7dXdcwdKenu"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:40.997053000 Z
+  updated_at: 2016-01-23 23:32:40.997053000 Z
+  name: Zach
+  confirmed_at: 2016-01-23 23:32:40.995541000 Z
+  invitations_count: 0
+  added: September-07
+  city: Berkeley, CA
+User_3:
+  id: 3
+  email: bella@bodyjoy.net
+  encrypted_password: "$2a$10$xVpYBoutNfcLhC.zNTNFKupiUIDICxhhUs9LzUvuj4R00KGqDrlBS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:41.092984000 Z
+  updated_at: 2016-01-23 23:32:41.092984000 Z
+  name: stacey bella
+  confirmed_at: 2016-01-23 23:32:41.091262000 Z
+  invitations_count: 0
+  added: September-07
+  city: Sacramento, CA
+User_4:
+  id: 4
+  email: djstpat@yahoo.com
+  encrypted_password: "$2a$10$l8vd/h/JSLlaLdwlNw5RFeHGfcc70Q5vBLodZ9FQTz2tcN09GZDTC"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:41.191384000 Z
+  updated_at: 2016-01-23 23:32:41.191384000 Z
+  name: Patrick Numair
+  confirmed_at: 2016-01-23 23:32:41.188919000 Z
+  invitations_count: 0
+  added: September-07
+  city: Mill Valley, CA
+User_5:
+  id: 5
+  email: mark@waywebby.com
+  encrypted_password: "$2a$10$OPGM.mGaBZM9SoCHGA0f4eb0c9t8P5uLUYhSJ62iNqOVCHHnlH/2u"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:41.289713000 Z
+  updated_at: 2016-01-23 23:32:41.289713000 Z
+  name: Mark Neal
+  confirmed_at: 2016-01-23 23:32:41.288460000 Z
+  invitations_count: 0
+  added: September-07
+  city: Ventura, CA
+User_6:
+  id: 6
+  email: huggeejim2@yahoo.com
+  encrypted_password: "$2a$10$7fIqWl6u.hAGioII9I4VLu1ZYXUNUVQzAXm9f969sayALgZFVoxOy"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:41.392660000 Z
+  updated_at: 2016-01-23 23:32:41.392660000 Z
+  name: Huggy Jim Bement
+  confirmed_at: 2016-01-23 23:32:41.388574000 Z
+  invitations_count: 0
+  added: September-07
+  city: Santa Barbara, CA
+User_7:
+  id: 7
+  email: julieju@mailnew.com
+  encrypted_password: "$2a$10$uuM.v3FDRLRUi0yJjkAUvOC2Zekq9pHEpgOBsySIqCL6QfBPYKcuW"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:41.490560000 Z
+  updated_at: 2016-01-23 23:32:41.490560000 Z
+  name: Julie Masters
+  confirmed_at: 2016-01-23 23:32:41.489295000 Z
+  invitations_count: 0
+  added: October-07
+  city: Salem, Oregon www.embodydancesantafe.org
+User_8:
+  id: 8
+  email: renegademom3@msn.com
+  encrypted_password: "$2a$10$Iq15oArWrGvYfs2E3WxK6OLsl8qvT8ZwNuuu087i2heU.YfmLa7bO"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:41.585821000 Z
+  updated_at: 2016-01-23 23:32:41.585821000 Z
+  name: Kathleen Fallon
+  confirmed_at: 2016-01-23 23:32:41.580990000 Z
+  invitations_count: 0
+  added: October-07
+  city: Santa Fe, NM
+User_9:
+  id: 9
+  email: jo@movinground.com
+  encrypted_password: "$2a$10$6jMdwi.rFNpCcMqq95x4aesMNPDnj8SVPIo5BuqYz5Kgdlt0.p4Q."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:41.672323000 Z
+  updated_at: 2016-01-23 23:32:41.672323000 Z
+  name: jo cobbett
+  confirmed_at: 2016-01-23 23:32:41.671065000 Z
+  invitations_count: 0
+  added: October-07
+  city: Los Angeles, CA
+User_10:
+  id: 10
+  email: david@davidfranklin.org
+  encrypted_password: "$2a$10$NuQJT0ygsigKCK83AEyqbOW61Jj04hFm4dVX7F60UHyqmOkB3u84u"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:41.757105000 Z
+  updated_at: 2016-01-23 23:32:41.757105000 Z
+  name: David Franklin
+  confirmed_at: 2016-01-23 23:32:41.755846000 Z
+  invitations_count: 0
+  added: October-07
+  city: Portland, OR
+User_11:
+  id: 11
+  email: herod@jpcohousing.org
+  encrypted_password: "$2a$10$jU6RG2Vbi4fT0eCsHunpseRcIywWUjUVeHg0UfWXsK4K3vMzTXAZS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:41.850581000 Z
+  updated_at: 2016-01-23 23:32:41.850581000 Z
+  name: David Hero
+  confirmed_at: 2016-01-23 23:32:41.849120000 Z
+  invitations_count: 0
+  added: October-07
+  city: Watertown, MA
+User_12:
+  id: 12
+  email: donna@niaspace.com
+  encrypted_password: "$2a$10$PAoan.pCnjkb7SGlCl35terRhkcmQ6ar.7fpH7RZ2updMQryS6Hgi"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:41.950681000 Z
+  updated_at: 2016-01-23 23:32:41.950681000 Z
+  name: Donna Starnes
+  confirmed_at: 2016-01-23 23:32:41.949268000 Z
+  invitations_count: 0
+  added: October-07
+  city: Austin, TX
+User_13:
+  id: 13
+  email: sylvia@sylviabrallier.com
+  encrypted_password: "$2a$10$0WdITggQ92gGMUQHS/bDl.Vjn/ADvxtWE6muNcoxVIw/gradvqYL6"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:42.056227000 Z
+  updated_at: 2016-01-23 23:32:42.056227000 Z
+  name: Sylvia Brallier
+  confirmed_at: 2016-01-23 23:32:42.054914000 Z
+  invitations_count: 0
+  added: October-07
+  city: Las Vegas, NV
+User_14:
+  id: 14
+  email: mativ2@sbcglobal.net
+  encrypted_password: "$2a$10$RS0d4ogZ8Jf.KEBdfj6nDuWHse6A0DV8OUDK6xW07sueDL8m.P0fe"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:42.145743000 Z
+  updated_at: 2016-01-23 23:32:42.145743000 Z
+  name: Mati Vargas-Gibson
+  confirmed_at: 2016-01-23 23:32:42.144433000 Z
+  invitations_count: 0
+  added: October-07
+  city: ", TX"
+User_15:
+  id: 15
+  email: kim14p@yahoo.com
+  encrypted_password: "$2a$10$qaOiMC2AdNyjtR1obxXD0eOCZX0w10vPop2KC./1H0jpl/URuLH/e"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:42.249739000 Z
+  updated_at: 2016-01-23 23:32:42.249739000 Z
+  name: Kim
+  confirmed_at: 2016-01-23 23:32:42.248291000 Z
+  invitations_count: 0
+  added: October-07
+  city: Austin, TX
+User_16:
+  id: 16
+  email: turtle_productions01@yahoo.co.uk
+  encrypted_password: "$2a$10$.QyOr85z4ZKKk1oQT30aVu6lBtP6wXgZJVRrIBYUxrb62kR4x3C4e"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:42.349064000 Z
+  updated_at: 2016-01-23 23:32:42.349064000 Z
+  name: Emma Schade-Stylli
+  confirmed_at: 2016-01-23 23:32:42.345223000 Z
+  invitations_count: 0
+  added: October-07
+  city: North West Of Wales, UK
+User_17:
+  id: 17
+  email: anthony_cody@hotmail.com
+  encrypted_password: "$2a$10$Tm.GNHLtyzZ.IfscUII7Ie4gX20S3MxMxT0uja.cNjfm8NhsWbwu6"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:42.442491000 Z
+  updated_at: 2016-01-23 23:32:42.442491000 Z
+  name: Anthony Cody
+  confirmed_at: 2016-01-23 23:32:42.441175000 Z
+  invitations_count: 0
+  added: October-07
+  city: Berkeley, CA
+User_18:
+  id: 18
+  email: scrappywilliams@yahoo.com
+  encrypted_password: "$2a$10$MRPf/wOl362f/IQlk927a.jLqt2B9giwnpAjpvinUUM0vyjWT7ENm"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:42.542395000 Z
+  updated_at: 2016-01-23 23:32:42.542395000 Z
+  name: Tanya Williams (dj teacup)
+  confirmed_at: 2016-01-23 23:32:42.540730000 Z
+  invitations_count: 0
+  added: November-07
+  city: Kitchener, Ontario, CANADA
+User_19:
+  id: 19
+  email: djalkemi@aol.com
+  encrypted_password: "$2a$10$4Ft8SDayqHCsfpd8trIIe.sR2Mw28/7h/k0TVmnf8ln5Qv0r5OlOC"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:42.634644000 Z
+  updated_at: 2016-01-23 23:32:42.634644000 Z
+  name: DJ Alkemi
+  confirmed_at: 2016-01-23 23:32:42.631141000 Z
+  invitations_count: 0
+  added: November-07
+  city: Cambridge, MA
+User_20:
+  id: 20
+  email: emmaross03@hotmail.com
+  encrypted_password: "$2a$10$Zs83deiYkqj50Pk4dLnZt.0tkcKUbgZkG9h74gV9.6Ii.JNQjW14."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:42.739506000 Z
+  updated_at: 2016-01-23 23:32:42.739506000 Z
+  name: 'Emma (NOTE: NAME ALERT)'
+  confirmed_at: 2016-01-23 23:32:42.738253000 Z
+  invitations_count: 0
+  added: November-07
+  city: Norwich/Norfolk UK
+User_21:
+  id: 21
+  email: jayne@pacific.net
+  encrypted_password: "$2a$10$KkIcBEY8BQRbAOGo1nhsCenh3wRvVEE8Sh55d54Gidu1w3vioIMx6"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:42.826025000 Z
+  updated_at: 2016-01-23 23:32:42.826025000 Z
+  name: Jayne Ellen
+  confirmed_at: 2016-01-23 23:32:42.824765000 Z
+  invitations_count: 0
+  added: November-07
+  city: Willits, CA
+User_22:
+  id: 22
+  email: eliezering@comcast.net
+  encrypted_password: "$2a$10$MEDDlMaN.DUZXvoaLt3fNOiqrgMVw1U9LG.KM3IPNVHH2wR/ksmva"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:42.923417000 Z
+  updated_at: 2016-01-23 23:32:42.923417000 Z
+  name: Eliezer Sobel
+  confirmed_at: 2016-01-23 23:32:42.921483000 Z
+  invitations_count: 0
+  added: November-07
+  city: Richmond, VA
+User_23:
+  id: 23
+  email: liztheurbandoctor@yahoo.co.uk
+  encrypted_password: "$2a$10$gBfTycqUJ20aKShVWhyQcePrOC1Sc6EtubHM0P4sC82UNTdxgJjLC"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:43.011758000 Z
+  updated_at: 2016-01-23 23:32:43.011758000 Z
+  name: fly
+  confirmed_at: 2016-01-23 23:32:43.009737000 Z
+  invitations_count: 0
+  added: November-07
+  city: London, UK
+User_24:
+  id: 24
+  email: pinnock.neil@virgin.net
+  encrypted_password: "$2a$10$NPo1rw57n5YyRjlY4d1VFuo96aYekgL/IqhAEB9mmd5EmmBPdvH6q"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:43.110976000 Z
+  updated_at: 2016-01-23 23:32:43.110976000 Z
+  name: Eight (Neil Pinnock)
+  confirmed_at: 2016-01-23 23:32:43.109696000 Z
+  invitations_count: 0
+  added: November-07
+  city: 'UK - '
+User_25:
+  id: 25
+  email: berniceraabis@gmail.com
+  encrypted_password: "$2a$10$ms515USncscEXW.FQzGwX.h0IPEhGJeTrEPo.hz4vHHr0GrDsVmai"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:43.219746000 Z
+  updated_at: 2016-01-23 23:32:43.219746000 Z
+  name: Bernice Raabis
+  confirmed_at: 2016-01-23 23:32:43.218153000 Z
+  invitations_count: 0
+  added: December-07
+  city: Nelson BC Canada
+User_26:
+  id: 26
+  email: gerry@gerrystarnes.com
+  encrypted_password: "$2a$10$TyLnYdd9wW6TUx9UyDc9EeYy9rVYyz127K/87/dBGxs88HOy/Bopm"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:43.307418000 Z
+  updated_at: 2016-01-23 23:32:43.307418000 Z
+  name: Gerry (DJ Falcon)
+  confirmed_at: 2016-01-23 23:32:43.306071000 Z
+  invitations_count: 0
+  added: December-07
+  city: Austin, TX
+User_27:
+  id: 27
+  email: erica@danceourwayhome.com
+  encrypted_password: "$2a$10$MTdjBHW9/zBmj7x3JJTMmOliYvq72k.6wUL34yNFZ8NMtX7lN4uBm"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:43.395688000 Z
+  updated_at: 2016-01-23 23:32:43.395688000 Z
+  name: Erica Ross
+  confirmed_at: 2016-01-23 23:32:43.394437000 Z
+  invitations_count: 0
+  added: January-08
+  city: Toronto, CA
+User_28:
+  id: 28
+  email: aletia@a3resources.org
+  encrypted_password: "$2a$10$lIAlrQ.IB3TXuGtNwkiAV.r4ccG1vhs6wGDBnZspQ3AcNfgZJhNi6"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:43.494319000 Z
+  updated_at: 2016-01-23 23:32:43.494319000 Z
+  name: Aletia Alvarez
+  confirmed_at: 2016-01-23 23:32:43.492761000 Z
+  invitations_count: 0
+  added: January-08
+  city: Port Townsend, WA
+User_29:
+  id: 29
+  email: fireurchin@gmail.com
+  encrypted_password: "$2a$10$AxCsCneAzXbs8Ry03vgt1.qnWdMyXF04ImQM9pfHrlTafEB090rlC"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:43.598604000 Z
+  updated_at: 2016-01-23 23:32:43.598604000 Z
+  name: Bonnie Lambourn
+  confirmed_at: 2016-01-23 23:32:43.594629000 Z
+  invitations_count: 0
+  added: January-08
+  city: Houston, TX
+User_30:
+  id: 30
+  email: media@nianow.com
+  encrypted_password: "$2a$10$./wZG2wxqksbqWhBKShxkOFIvrci8TGPWhfwID9rYSd6/ntnxWK3m"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:43.695778000 Z
+  updated_at: 2016-01-23 23:32:43.695778000 Z
+  name: Shannon Day
+  confirmed_at: 2016-01-23 23:32:43.694391000 Z
+  invitations_count: 0
+  added: January-08
+  city: Portland, OR
+User_31:
+  id: 31
+  email: niamauidancer@yahoo.com
+  encrypted_password: "$2a$10$4htbrmuTXnPYzbXjTazVS.tbMG1z6dXEwP/AGJuvbzPkxLUl0lheq"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:43.795878000 Z
+  updated_at: 2016-01-23 23:32:43.795878000 Z
+  name: DJ Ease (Erin Graue-Whitley )
+  confirmed_at: 2016-01-23 23:32:43.794584000 Z
+  invitations_count: 0
+  added: January-08
+  city: Maui, HI
+User_32:
+  id: 32
+  email: lucid_mz@hotmail.com
+  encrypted_password: "$2a$10$OTkg4VXB5ScWhOPD8cUluOzSIFfh.ubHgEnB8wTs6DjOu6W6i6Y/y"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:43.897426000 Z
+  updated_at: 2016-01-23 23:32:43.897426000 Z
+  name: Michael Z.
+  confirmed_at: 2016-01-23 23:32:43.895678000 Z
+  invitations_count: 0
+  added: January-08
+  city: Oakland, CA
+User_33:
+  id: 33
+  email: mari@niastpete.com
+  encrypted_password: "$2a$10$HSNF/Z6zlTj3rhX.aKVOr.WfgaolyCfPU7aTS/vS71D/XjPo1MgTS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:43.994658000 Z
+  updated_at: 2016-01-23 23:32:43.994658000 Z
+  name: Mari Solomon
+  confirmed_at: 2016-01-23 23:32:43.993203000 Z
+  invitations_count: 0
+  added: January-08
+  city: ST. Petersburg, FL
+User_34:
+  id: 34
+  email: inthedance@gmail.com
+  encrypted_password: "$2a$10$djtsH6dKELgIARdFzsQmHOoon1XnEA2XGMKmYD03oWvf/tQ2efGca"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:44.093013000 Z
+  updated_at: 2016-01-23 23:32:44.093013000 Z
+  name: Molly
+  confirmed_at: 2016-01-23 23:32:44.091609000 Z
+  invitations_count: 0
+  added: February-08
+  city: OR
+User_35:
+  id: 35
+  email: lloyd@well.com
+  encrypted_password: "$2a$10$rMNT.rU.xrSs8F6g2NyF1.booYblYMTOMGopH9oiXc1B2C622luZe"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:44.194019000 Z
+  updated_at: 2016-01-23 23:32:44.194019000 Z
+  name: Lloyd Barde / DJ Heartbeat
+  confirmed_at: 2016-01-23 23:32:44.192510000 Z
+  invitations_count: 0
+  added: February-08
+  city: San Anselmo, CA
+User_36:
+  id: 36
+  email: gracellewellyn@gmail.com
+  encrypted_password: "$2a$10$hDirM6Nz9JB3kZXfACDQ.OANQuLHJGIB55NwgZfclsKpiyyTXtOv."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:44.302480000 Z
+  updated_at: 2016-01-23 23:32:44.302480000 Z
+  name: Grace Llewellyn
+  confirmed_at: 2016-01-23 23:32:44.301049000 Z
+  invitations_count: 0
+  added: February-08
+  city: Eugene, OR
+User_37:
+  id: 37
+  email: rubyjaguar@gmail.com
+  encrypted_password: "$2a$10$Rz7eLK5cguXeOTW6vwePKOJhQnoHf/qC43/TXldWlxwkDIXENOhke"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:44.407603000 Z
+  updated_at: 2016-01-23 23:32:44.407603000 Z
+  name: Jessica Ruby Hernandez
+  confirmed_at: 2016-01-23 23:32:44.406363000 Z
+  invitations_count: 0
+  added: March-08
+  city: Half Moon Bay, CA
+User_38:
+  id: 38
+  email: melaynam@yahoo.com
+  encrypted_password: "$2a$10$w6c0Uy.Fdpa7MPHOYdrTZ./tzrUCxGjLFIoCadJYIIzg1JvUEiCk6"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:44.493387000 Z
+  updated_at: 2016-01-23 23:32:44.493387000 Z
+  name: Melayna
+  confirmed_at: 2016-01-23 23:32:44.492080000 Z
+  invitations_count: 0
+  added: March-08
+  city: Ferndale, Michigan
+User_39:
+  id: 39
+  email: annahata@rogers.com
+  encrypted_password: "$2a$10$u/xwJPtaMvy4e2sAyUFIFulobXJMjuYUJE5kiybKeoFi1GQ2KAAUm"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:44.588798000 Z
+  updated_at: 2016-01-23 23:32:44.588798000 Z
+  name: Anne Pitman
+  confirmed_at: 2016-01-23 23:32:44.587569000 Z
+  invitations_count: 0
+  added: March-08
+  city: Ottawa, Canada
+User_40:
+  id: 40
+  email: junaguetter@yahoo.ca
+  encrypted_password: "$2a$10$AQD7mAJtja/3b6DNt0mh7.xLqZzpUHUKIBJvGkAUdvPGNeu6z8voW"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:44.675176000 Z
+  updated_at: 2016-01-23 23:32:44.675176000 Z
+  name: Juna Guetter
+  confirmed_at: 2016-01-23 23:32:44.673905000 Z
+  invitations_count: 0
+  added: March-08
+  city: London, UK
+User_41:
+  id: 41
+  email: selene@spiritmoving.com
+  encrypted_password: "$2a$10$pIwOf8Sy0WLCw6nF7Jb23u8yprDlcg6NHtInySa3kRmlyyKCtQZjW"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:44.769507000 Z
+  updated_at: 2016-01-23 23:32:44.769507000 Z
+  name: Selene Vega (spiritmoving)
+  confirmed_at: 2016-01-23 23:32:44.768043000 Z
+  invitations_count: 0
+  added: May-08
+  city: Seattle, WA (moving to Santa Cruz, CA)
+User_42:
+  id: 42
+  email: mecarges@aol.com
+  encrypted_password: "$2a$10$PMm0xYCYj3B9GZTmIE7EUe06YC07WXpcommq0h1bCR0GheFW9M1Ee"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:44.864652000 Z
+  updated_at: 2016-01-23 23:32:44.864652000 Z
+  name: Mary Ellen Carges
+  confirmed_at: 2016-01-23 23:32:44.863271000 Z
+  invitations_count: 0
+  added: May-08
+  city: Hamburg, NY
+User_43:
+  id: 43
+  email: onedancepdx@yahoo.com
+  encrypted_password: "$2a$10$nffCj7vOK25P4ea4260Ogu12lU5pDZHeMGDk4R6ef4jXLTiDBu2US"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:44.960387000 Z
+  updated_at: 2016-01-23 23:32:44.960387000 Z
+  name: Paula Byrne (DJ Mojo)
+  confirmed_at: 2016-01-23 23:32:44.958802000 Z
+  invitations_count: 0
+  added: May-08
+  city: Portland, OR
+User_44:
+  id: 44
+  email: unafree@yahoo.com
+  encrypted_password: "$2a$10$lOZ80O9fdE7uzVLrzsUN.OOADNaLPIF/B0RiaalSOl2g8Uv0fBZsy"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:45.058892000 Z
+  updated_at: 2016-01-23 23:32:45.058892000 Z
+  name: Una Starbuck
+  confirmed_at: 2016-01-23 23:32:45.057610000 Z
+  invitations_count: 0
+  added: May-08
+  city: Maui, HI
+User_45:
+  id: 45
+  email: shakti@massageandmovement.com
+  encrypted_password: "$2a$10$920pliF3EqWsdiZrEiWAJuHAGAEar/Fb9tCG9F38JoiiNR7mGRnUa"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:45.159089000 Z
+  updated_at: 2016-01-23 23:32:45.159089000 Z
+  name: Shakti Andrea Smith (DJ Shakti)
+  confirmed_at: 2016-01-23 23:32:45.157734000 Z
+  invitations_count: 0
+  added: May-08
+  city: New York City,  NY
+User_46:
+  id: 46
+  email: brunato@mac.com
+  encrypted_password: "$2a$10$rypnnWKtBiSMgMZkejBCGepqDLNxkcfmWc0W7roxBd3X0lVvwKSwu"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:45.257296000 Z
+  updated_at: 2016-01-23 23:32:45.257296000 Z
+  name: BaChi Brunato
+  confirmed_at: 2016-01-23 23:32:45.253363000 Z
+  invitations_count: 0
+  added: June-08
+  city: Berkeley, CA
+User_47:
+  id: 47
+  email: andrea@andreaolson.com
+  encrypted_password: "$2a$10$BDMysVC0mz5SbF0uFYzvFe.8cYPkcw2FC3p15Mx/1RTlcetu5VSRG"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:45.354966000 Z
+  updated_at: 2016-01-23 23:32:45.354966000 Z
+  name: Andrea Olson
+  confirmed_at: 2016-01-23 23:32:45.352482000 Z
+  invitations_count: 0
+  added: June-08
+  city: Fairfax, CA
+User_48:
+  id: 48
+  email: ncdcdancer@yahoo.com
+  encrypted_password: "$2a$10$T4ddHGjl7hGUGzL00lC2e.KLfsjGO1b6m37efB8BTRVnHgNkhdzse"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:45.440976000 Z
+  updated_at: 2016-01-23 23:32:45.440976000 Z
+  name: Christina Tuccillo
+  confirmed_at: 2016-01-23 23:32:45.439684000 Z
+  invitations_count: 0
+  added: June-08
+  city: Berkeley, CA
+User_49:
+  id: 49
+  email: wstewart@buistmoore.com
+  encrypted_password: "$2a$10$qeojyHy.61oo1t0lAeu4H.CoiHSkoruHnPnXdcUaeXkwlS5ezPL6m"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:45.532856000 Z
+  updated_at: 2016-01-23 23:32:45.532856000 Z
+  name: Bill Stewart
+  confirmed_at: 2016-01-23 23:32:45.531587000 Z
+  invitations_count: 0
+  added: June-08
+  city: "?"
+User_50:
+  id: 50
+  email: lisa@playful-spirit.com
+  encrypted_password: "$2a$10$txZ6M1pGN93o2cdQvDQIqur1XvT/UQZvyD0pmR5DmmCYJoJJ7m/hi"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:45.626228000 Z
+  updated_at: 2016-01-23 23:32:45.626228000 Z
+  name: Lisa Evans
+  confirmed_at: 2016-01-23 23:32:45.624966000 Z
+  invitations_count: 0
+  added: June-08
+  city: Cannon Beach, Oregon
+User_51:
+  id: 51
+  email: asergi@earthlink.net
+  encrypted_password: "$2a$10$pVoFMu51tobn1Nn5JVH88uAdeoOE4hThH/fmZLtVE39YxTt9rvJbC"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:45.720394000 Z
+  updated_at: 2016-01-23 23:32:45.720394000 Z
+  name: Annamaria Sergi
+  confirmed_at: 2016-01-23 23:32:45.718947000 Z
+  invitations_count: 0
+  added: July-08
+  city: Austin, TX
+User_52:
+  id: 52
+  email: brookdancer@hotmail.com
+  encrypted_password: "$2a$10$HA5mcKdezV5K1mhCHmLbQ.wwUOd4d07AGiY4TyhaMJlwI5Da/K9K."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:45.807491000 Z
+  updated_at: 2016-01-23 23:32:45.807491000 Z
+  name: Michele Brooks
+  confirmed_at: 2016-01-23 23:32:45.806215000 Z
+  invitations_count: 0
+  added: July-08
+  city: San Antonio, TX
+User_53:
+  id: 53
+  email: reaneespratt@yahoo.com
+  encrypted_password: "$2a$10$yQXVv7l8gUS.tgAuhml3Z.zF5qU6mUszmmIj6V02FJJkTaWHCQbji"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:45.894826000 Z
+  updated_at: 2016-01-23 23:32:45.894826000 Z
+  name: Reanee Spratt
+  confirmed_at: 2016-01-23 23:32:45.893524000 Z
+  invitations_count: 0
+  added: July-08
+  city: Dallas, TX
+User_54:
+  id: 54
+  email: sedmonds@cableone.net
+  encrypted_password: "$2a$10$H0kYKl7isyZSgIs8exTbk.IUMjLBkyFoSLEcRX8f/apBbmOh1srAK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:45.991256000 Z
+  updated_at: 2016-01-23 23:32:45.991256000 Z
+  name: Sarah Edmonds
+  confirmed_at: 2016-01-23 23:32:45.990026000 Z
+  invitations_count: 0
+  added: July-08
+  city: Prescott, AZ
+User_55:
+  id: 55
+  email: davidndell@gmail.com
+  encrypted_password: "$2a$10$cT9VHuNvQlGlwyblbN.5W.X.KOuic9zT.5if7RtTsJj4wNo8MZKQi"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:46.081054000 Z
+  updated_at: 2016-01-23 23:32:46.081054000 Z
+  name: David Dell (DjAdama)
+  confirmed_at: 2016-01-23 23:32:46.079848000 Z
+  invitations_count: 0
+  added: July-08
+  city: Berkeley, CA
+User_56:
+  id: 56
+  email: julie@dancingbotanicals.com
+  encrypted_password: "$2a$10$4FIkuXrl8tlZM/z1/3hRzOZA7FU/nXvlsW2vKyjD176of4xojzQbm"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:46.177549000 Z
+  updated_at: 2016-01-23 23:32:46.177549000 Z
+  name: Julie Alessio, jmalessio, Ruby Sue (Deejay name)
+  confirmed_at: 2016-01-23 23:32:46.176109000 Z
+  invitations_count: 0
+  added: July-08
+  city: Hawaii, HI
+User_57:
+  id: 57
+  email: eminent_b@yahoo.com
+  encrypted_password: "$2a$10$LJQrV9xPxN/xHzLzbZg7buo7x3dOzPA8gyP/qIcEvbl7o0PkHGCsq"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:46.274708000 Z
+  updated_at: 2016-01-23 23:32:46.274708000 Z
+  name: Emmett Brady
+  confirmed_at: 2016-01-23 23:32:46.271653000 Z
+  invitations_count: 0
+  added: July-08
+  city: Berkeley, CA
+User_58:
+  id: 58
+  email: lakshmi@transremo.com
+  encrypted_password: "$2a$10$/uaU89DyCNbvWeTlieGaYuyub.hNtqNq8BzMELMqeP8kXgfo4SLX6"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:46.374113000 Z
+  updated_at: 2016-01-23 23:32:46.374113000 Z
+  name: Lakshmi Jackman
+  confirmed_at: 2016-01-23 23:32:46.372747000 Z
+  invitations_count: 0
+  added: July-08
+  city: Austin, TX
+User_59:
+  id: 59
+  email: cyseely@yahoo.com
+  encrypted_password: "$2a$10$gdhHXzYbElkNJl/e5Hxo4uxL6Az3V7LDi/25H4XZaFMkYfalHI8C2"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:46.458816000 Z
+  updated_at: 2016-01-23 23:32:46.458816000 Z
+  name: Elia
+  confirmed_at: 2016-01-23 23:32:46.457582000 Z
+  invitations_count: 0
+  added: July-08
+  city: Astoria, OR
+User_60:
+  id: 60
+  email: igalanos@yahoo.com
+  encrypted_password: "$2a$10$.0R7mmicvwk5b06VtOKME..SnNtDZX55vCKLXRQe3kEEMm.90UN2a"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:46.544626000 Z
+  updated_at: 2016-01-23 23:32:46.544626000 Z
+  name: DJ Iorgos
+  confirmed_at: 2016-01-23 23:32:46.543360000 Z
+  invitations_count: 0
+  added: July-08
+  city: Utrecht, Holland
+User_61:
+  id: 61
+  email: katebiodanza@iafrica.com
+  encrypted_password: "$2a$10$tewC3UUi6rkQBJpliFqrPeIWDihbcycMZC1oF.jnTjgE.MarywXA."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:46.629582000 Z
+  updated_at: 2016-01-23 23:32:46.629582000 Z
+  name: Kate Clement
+  confirmed_at: 2016-01-23 23:32:46.628349000 Z
+  invitations_count: 0
+  added: August-08
+  city: Johannesberg, South Africa
+User_62:
+  id: 62
+  email: efflux@sonic.net
+  encrypted_password: "$2a$10$oGB5ET43hr1zTKBayRl7KOF2vIIlkFeocWlhhdjD3NEH4/fvIYuCa"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:46.725409000 Z
+  updated_at: 2016-01-23 23:32:46.725409000 Z
+  name: Daniel Ari
+  confirmed_at: 2016-01-23 23:32:46.724170000 Z
+  invitations_count: 0
+  added: August-08
+  city: Berkeley, CA
+User_63:
+  id: 63
+  email: fdulc@4dirs.com
+  encrypted_password: "$2a$10$m4VjoHuzgMo48U1JIIK54uOt84xFMYiJLVkUCVS24zyH0gVcFwTf."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:46.812523000 Z
+  updated_at: 2016-01-23 23:32:46.812523000 Z
+  name: Don Titus AKA DJ Permiedon
+  confirmed_at: 2016-01-23 23:32:46.811293000 Z
+  invitations_count: 0
+  added: November-08
+  city: Scottsdale, AZ
+User_64:
+  id: 64
+  email: eva@coreconnexion.net
+  encrypted_password: "$2a$10$gAuvrxYV6AfiHVEHK5qiFukMkIhVg8Ffp5ja6M7NMXvoHxpaRbb.2"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:46.910572000 Z
+  updated_at: 2016-01-23 23:32:46.910572000 Z
+  name: Eva Vigran
+  confirmed_at: 2016-01-23 23:32:46.909083000 Z
+  invitations_count: 0
+  added: November-08
+  city: Berkeley, CA
+User_65:
+  id: 65
+  email: nadineleahbolliger@yahoo.com
+  encrypted_password: "$2a$10$4lkkwiXXMnAGEmCenUmfP.UFk9BRaztOuNcbgc4UbCUsOW0fKdzVS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:47.005440000 Z
+  updated_at: 2016-01-23 23:32:47.005440000 Z
+  name: Nadine Bolliger
+  confirmed_at: 2016-01-23 23:32:47.002846000 Z
+  invitations_count: 0
+  added: November-08
+  city: Redmond, WA
+User_66:
+  id: 66
+  email: gimpagain@yahoo.com
+  encrypted_password: "$2a$10$hvRdP/EIzpfmxyzUdwT3BugEbuk51yXte/IZvVea8BE/VnA1OT2XK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:47.093836000 Z
+  updated_at: 2016-01-23 23:32:47.093836000 Z
+  name: Celeste
+  confirmed_at: 2016-01-23 23:32:47.092600000 Z
+  invitations_count: 0
+  added: January-09
+  city: Oklahoma City, OK
+User_67:
+  id: 67
+  email: ikolle@web.de
+  encrypted_password: "$2a$10$DTE79nwXR9u3fL5vKOBdmOlDn5NHJ77qpOpw1UQNJyCfiFrCNd7oK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:47.192206000 Z
+  updated_at: 2016-01-23 23:32:47.192206000 Z
+  name: Ingrid
+  confirmed_at: 2016-01-23 23:32:47.190772000 Z
+  invitations_count: 0
+  added: January-09
+  city: Wellington, NZ
+User_68:
+  id: 68
+  email: ahvalenay@gmail.com
+  encrypted_password: "$2a$10$Qkzy6t.6PItqSbTcpIaNoOp/skAbctJkxR5oXzO2lV2.bk9k4vlVi"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:47.282278000 Z
+  updated_at: 2016-01-23 23:32:47.282278000 Z
+  name: Ahva Lenay
+  confirmed_at: 2016-01-23 23:32:47.280658000 Z
+  invitations_count: 0
+  added: February-09
+  city: Boulder and Denver, CO
+User_69:
+  id: 69
+  email: mark@consciousdancer.com
+  encrypted_password: "$2a$10$apdx/YqONUuwKklF0n08sOEWBuue2VFUW4niHiClKnwFl1r8ZYAw."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:47.381192000 Z
+  updated_at: 2016-01-23 23:32:47.381192000 Z
+  name: Mark Metz
+  confirmed_at: 2016-01-23 23:32:47.379957000 Z
+  invitations_count: 0
+  added: February-09
+  city: El Sobrante, CA
+User_70:
+  id: 70
+  email: ho-ote@oldkachinas.com
+  encrypted_password: "$2a$10$4wueNTsSArM/FrEQZESexuoyKyZ3lu4kRAdZg/z9bAOQfINiM6sOq"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:47.474257000 Z
+  updated_at: 2016-01-23 23:32:47.474257000 Z
+  name: John
+  confirmed_at: 2016-01-23 23:32:47.472960000 Z
+  invitations_count: 0
+  added: February-09
+  city: Santa Fe, NM
+User_71:
+  id: 71
+  email: berniebarefoot@aol.com
+  encrypted_password: "$2a$10$bGbPDCKavC/8R3Ko1D7iv.0VnAzz78EwWuVgkNQB54RbfmfWQMpzS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:47.561629000 Z
+  updated_at: 2016-01-23 23:32:47.561629000 Z
+  name: Bernie
+  confirmed_at: 2016-01-23 23:32:47.560334000 Z
+  invitations_count: 0
+  added: March-09
+  city: Minneapolis, MN
+User_72:
+  id: 72
+  email: read.benjamin@yahoo.com
+  encrypted_password: "$2a$10$leLj/UA36xnaoO60TCF5Tef/hQTgGjWZurDPUx7q4QulGIF58BG6C"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:47.657841000 Z
+  updated_at: 2016-01-23 23:32:47.657841000 Z
+  name: Ben Read
+  confirmed_at: 2016-01-23 23:32:47.656659000 Z
+  invitations_count: 0
+  added: April-09
+  city: "?"
+User_73:
+  id: 73
+  email: beth.hird@mac.com
+  encrypted_password: "$2a$10$GiWA9F5e.qDFiGzzZERDt.DSVgXNHEd76sKgM1oEl9ni.hxRg63mu"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:47.745853000 Z
+  updated_at: 2016-01-23 23:32:47.745853000 Z
+  name: Beth Hird
+  confirmed_at: 2016-01-23 23:32:47.744554000 Z
+  invitations_count: 0
+  added: June-09
+  city: Berkeley, CA
+User_74:
+  id: 74
+  email: trinitydances@gmail.com
+  encrypted_password: "$2a$10$KBwJ5BJlJ8g7tw3JoDDiJ.A8g9GYKoYBNhJ.HZfw87AttJC7vzXY2"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:47.839418000 Z
+  updated_at: 2016-01-23 23:32:47.839418000 Z
+  name: Trinity
+  confirmed_at: 2016-01-23 23:32:47.838187000 Z
+  invitations_count: 0
+  added: June-09
+  city: New York City,  NY
+User_75:
+  id: 75
+  email: jessejazzmen@hotmail.com
+  encrypted_password: "$2a$10$ykS4fkfIKfz4y8bYHs8djO9kmaWyFqTTMFeSOfVsmF/zjtKpIoF9y"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:47.931634000 Z
+  updated_at: 2016-01-23 23:32:47.931634000 Z
+  name: JesseJazzMan
+  confirmed_at: 2016-01-23 23:32:47.930361000 Z
+  invitations_count: 0
+  added: July-09
+  city: Santa Rosa, CA
+User_76:
+  id: 76
+  email: breelillies@hotmail.com
+  encrypted_password: "$2a$10$oWr2EXFaHtTSvKlMxG5mhut85/28mD1veMIoop/MHX0uEpN2enIaK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:48.028155000 Z
+  updated_at: 2016-01-23 23:32:48.028155000 Z
+  name: Bree
+  confirmed_at: 2016-01-23 23:32:48.026864000 Z
+  invitations_count: 0
+  added: June-09
+  city: Kootenay, BC
+User_77:
+  id: 77
+  email: angelfire@cosms.org
+  encrypted_password: "$2a$10$DFTPGV4cf/dJYUFFf00d.eCj65rNR6IZtTGcTP5iSzjdhf1.3pDhO"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:48.124710000 Z
+  updated_at: 2016-01-23 23:32:48.124710000 Z
+  name: James Frazier (Angelfire)
+  confirmed_at: 2016-01-23 23:32:48.123526000 Z
+  invitations_count: 0
+  added: July-09
+  city: Port Townsend, WA
+User_78:
+  id: 78
+  email: redrussian97@yahoo.com
+  encrypted_password: "$2a$10$RZnbPB9KfvVJxHOfw4pZ..r6BtBUU1YzO0FGYqgu6VpWykj6x6eW."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:48.211806000 Z
+  updated_at: 2016-01-23 23:32:48.211806000 Z
+  name: Marina
+  confirmed_at: 2016-01-23 23:32:48.210556000 Z
+  invitations_count: 0
+  added: July-09
+  city: Rockville, MD
+User_79:
+  id: 79
+  email: jileigh@freespace.net
+  encrypted_password: "$2a$10$sBoaYjqPvbJaIb6tBBSUKuBrw8GYw61Cs/x.BJ2oIinSPgIgbCz6y"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:48.306201000 Z
+  updated_at: 2016-01-23 23:32:48.306201000 Z
+  name: Jill
+  confirmed_at: 2016-01-23 23:32:48.304471000 Z
+  invitations_count: 0
+  added: September-09
+  city: Guelph, Ontario, Canada
+User_80:
+  id: 80
+  email: suzi@orcasmandala.com
+  encrypted_password: "$2a$10$VRTPZMeTooZwVZGqPM9Q/ua8EKr5mParpafkQ.gD9RaOLsLClWvRS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:48.393629000 Z
+  updated_at: 2016-01-23 23:32:48.393629000 Z
+  name: Suzi Zobrist
+  confirmed_at: 2016-01-23 23:32:48.391930000 Z
+  invitations_count: 0
+  added: September-09
+  city: Orca's Island, WA
+User_81:
+  id: 81
+  email: momcat412@yahoo.com
+  encrypted_password: "$2a$10$NsWVFHe0vI3jk1Ds7WTOdO0Lz82zbAnnVvR5W1svxQvY8tLGZlD8e"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:48.484097000 Z
+  updated_at: 2016-01-23 23:32:48.484097000 Z
+  name: "?"
+  confirmed_at: 2016-01-23 23:32:48.482766000 Z
+  invitations_count: 0
+  added: September-09
+  city: "?"
+User_82:
+  id: 82
+  email: johardy@freeuk.com
+  encrypted_password: "$2a$10$Yh1xM2mgEzhcJrZtdsjl3eT8Hs/Z3KlhvpZ7bTz4ovwBxtixHK2JK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:48.587652000 Z
+  updated_at: 2016-01-23 23:32:48.587652000 Z
+  name: jo hardy
+  confirmed_at: 2016-01-23 23:32:48.585715000 Z
+  invitations_count: 0
+  added: 10 / 10 /2009
+  city: totnes
+User_83:
+  id: 83
+  email: joshuawcross@gmail.com
+  encrypted_password: "$2a$10$2CkQw3fWCO6J4QwP34J34ulmcYQhrk5C9VnnlJvl7p5ILZzmiCi7C"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:48.680346000 Z
+  updated_at: 2016-01-23 23:32:48.680346000 Z
+  name: Joshua Cross
+  confirmed_at: 2016-01-23 23:32:48.679132000 Z
+  invitations_count: 0
+  added: October-09
+  city: San Francisco
+User_84:
+  id: 84
+  email: johnwjohnson@gmail.com
+  encrypted_password: "$2a$10$S7.Tf11mzedgt6alPuTYde/xZi0uOgx8NfCU2B2cboFa8sHsHixZK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:48.778716000 Z
+  updated_at: 2016-01-23 23:32:48.778716000 Z
+  name: John W. Johnson
+  confirmed_at: 2016-01-23 23:32:48.777349000 Z
+  invitations_count: 0
+  added: October-09
+  city: Portland OR
+User_85:
+  id: 85
+  email: sherrycam@hotmail.com
+  encrypted_password: "$2a$10$8QswHwcXxCRp6ZXnOs9Nl.HrJV1tRvwfRPb4fuaKTJ1DyPyu2sc9."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:48.871615000 Z
+  updated_at: 2016-01-23 23:32:48.871615000 Z
+  name: Sherry
+  confirmed_at: 2016-01-23 23:32:48.870243000 Z
+  invitations_count: 0
+  added: October-09
+  city: Sydney
+User_86:
+  id: 86
+  email: anna.schricker@gmx.de
+  encrypted_password: "$2a$10$bICZI5WNoyBSbdBGz5WSe.FDAHGMV/oikliPVnBTMFjb8zL27uk0G"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:48.967653000 Z
+  updated_at: 2016-01-23 23:32:48.967653000 Z
+  name: braindance
+  confirmed_at: 2016-01-23 23:32:48.966318000 Z
+  invitations_count: 0
+  added: 26/10/2009
+  city: Feldkirch
+User_87:
+  id: 87
+  email: krystalle33@gmail.com
+  encrypted_password: "$2a$10$BbcAKw0YU.sg3KF0kPo/Ku6u1BxUlOQuR4XbVwRpv61zmMfS1IHOq"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:49.067916000 Z
+  updated_at: 2016-01-23 23:32:49.067916000 Z
+  name: Krystalle Keszainn
+  confirmed_at: 2016-01-23 23:32:49.066417000 Z
+  invitations_count: 0
+  added: October-09
+  city: Austin, TX
+User_88:
+  id: 88
+  email: mermaidgrace24@yahoo.com
+  encrypted_password: "$2a$10$qMP/xC8xs.fEXJuh9fJUYu66d39VfxlWDV/aGfSBD8TawnAinLoha"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:49.168600000 Z
+  updated_at: 2016-01-23 23:32:49.168600000 Z
+  name: Bella Grace
+  confirmed_at: 2016-01-23 23:32:49.167109000 Z
+  invitations_count: 0
+  added: November-09
+  city: Hawaii, HI
+User_89:
+  id: 89
+  email: thomas.hochgesang@t-online.de
+  encrypted_password: "$2a$10$ghBT/YwHD55LUgpfGfCiseflz0WpZI7b.CSZc9sAZo01RpNZew/dW"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:49.272712000 Z
+  updated_at: 2016-01-23 23:32:49.272712000 Z
+  name: Thomas Hochgesang (Core ConneXion)
+  confirmed_at: 2016-01-23 23:32:49.271268000 Z
+  invitations_count: 0
+  added: November-09
+  city: Heidelberg (Germany)
+User_90:
+  id: 90
+  email: spiritofcintoi@gmail.com
+  encrypted_password: "$2a$10$PT3r.Ypt1TwE2Jj8/kxBjuLTpFDJzbs3krEQAJgu03Ym3R6dGxsFe"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:49.357902000 Z
+  updated_at: 2016-01-23 23:32:49.357902000 Z
+  name: Cynthia Kennedy
+  confirmed_at: 2016-01-23 23:32:49.356591000 Z
+  invitations_count: 0
+  added: November-09
+  city: Olympia, Washington
+User_91:
+  id: 91
+  email: theo@coyotedreams.com
+  encrypted_password: "$2a$10$1ovIMns8Hyo8CApZgBY2behvVRU8n5P6ZRFVAmpm9TEfHCJw2smPi"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:49.446208000 Z
+  updated_at: 2016-01-23 23:32:49.446208000 Z
+  name: Theo Althuiszes
+  confirmed_at: 2016-01-23 23:32:49.444902000 Z
+  invitations_count: 0
+  added: November-09
+  city: Corralitos
+User_92:
+  id: 92
+  email: beniciadancejam@gmail.com
+  encrypted_password: "$2a$10$PPMKRU5d6URZdq3r6UzjqOOnS7CGeT5tDZ4P7lvxQMJ4TvDTE.yCK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:49.534656000 Z
+  updated_at: 2016-01-23 23:32:49.534656000 Z
+  name: Dtox & Cran-B (Deborah and Tanya)
+  confirmed_at: 2016-01-23 23:32:49.532971000 Z
+  invitations_count: 0
+  added: November-09
+  city: Benicia, CA
+User_93:
+  id: 93
+  email: dance@jilsarah.com
+  encrypted_password: "$2a$10$5tcGADniBqw9uEguTgFZzekP/WEtfn/cD3MTDbQ/hQcxFysWFHK4S"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:49.627565000 Z
+  updated_at: 2016-01-23 23:32:49.627565000 Z
+  name: Jilsarah
+  confirmed_at: 2016-01-23 23:32:49.626081000 Z
+  invitations_count: 0
+  added: December-09
+  city: Jersey City, NJ
+User_94:
+  id: 94
+  email: elizcerv@gmail.com
+  encrypted_password: "$2a$10$J4uHz6A2/KHURmtH4KLovOh.wm6o6yyRYWZ5vU1Y1IzqkwP/2slwq"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:49.716736000 Z
+  updated_at: 2016-01-23 23:32:49.716736000 Z
+  name: Elizabeth Cervantes
+  confirmed_at: 2016-01-23 23:32:49.715349000 Z
+  invitations_count: 0
+  added: January-10
+  city: Albuqerque, NM
+User_95:
+  id: 95
+  email: mawisto@hotmail.com
+  encrypted_password: "$2a$10$vzUIRLBBjSMfoRtNOsL56ue6/CtaszqKZnY1.CcT7WPGb5v9iRWai"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:49.810926000 Z
+  updated_at: 2016-01-23 23:32:49.810926000 Z
+  name: Margarete Winker-Stock
+  confirmed_at: 2016-01-23 23:32:49.809736000 Z
+  invitations_count: 0
+  added: February-10
+  city: Tübingen, Deutschland
+User_96:
+  id: 96
+  email: lisarost@comcast.net
+  encrypted_password: "$2a$10$2LXOaKfZoFLH.pdFZe2fJOMpzfE8r5ebZ4vT7rXYVQMuoSkSlxC4a"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:49.907693000 Z
+  updated_at: 2016-01-23 23:32:49.907693000 Z
+  name: Lisa Rost
+  confirmed_at: 2016-01-23 23:32:49.906448000 Z
+  invitations_count: 0
+  added: February-10
+  city: Sebastopol, CA
+User_97:
+  id: 97
+  email: valentina@valentinaaragon.com
+  encrypted_password: "$2a$10$Rn1DO0TMoUadCinxmM7hZ.H8yLQ5NuA8y4at1gxpxkk4q9t5z2WMK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:49.994240000 Z
+  updated_at: 2016-01-23 23:32:49.994240000 Z
+  name: Valentina
+  confirmed_at: 2016-01-23 23:32:49.991956000 Z
+  invitations_count: 0
+  added: March-10
+  city: Albuquerque, NM
+User_98:
+  id: 98
+  email: stillandmovingcenter@gmail.com
+  encrypted_password: "$2a$10$YmCJqe8AYltDTCYOtbvpi.SFHXRhww9FZsGaqwdsym1zAreA6plUi"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:50.093644000 Z
+  updated_at: 2016-01-23 23:32:50.093644000 Z
+  name: Heeraa Sazevich
+  confirmed_at: 2016-01-23 23:32:50.092433000 Z
+  invitations_count: 0
+  added: March-10
+  city: Honolulu, HI
+User_99:
+  id: 99
+  email: racheljordana@gmail.com
+  encrypted_password: "$2a$10$oFOfzABkRN0H.o4fXM8ZiOxYm2RQFsRLv/H5u51yWn6sTL/1HEqKC"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:50.183713000 Z
+  updated_at: 2016-01-23 23:32:50.183713000 Z
+  name: Rachel Jordana
+  confirmed_at: 2016-01-23 23:32:50.182496000 Z
+  invitations_count: 0
+  added: March-10
+  city: Santa Cruz, CA
+User_100:
+  id: 100
+  email: ckleinwohl@aol.com
+  encrypted_password: "$2a$10$ifc8/aRVWybcaZvYjiCEMufI92R65sk0ZNR6DYg/nhvjvr2eyiZ4y"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:50.277525000 Z
+  updated_at: 2016-01-23 23:32:50.277525000 Z
+  name: carol
+  confirmed_at: 2016-01-23 23:32:50.276289000 Z
+  invitations_count: 0
+  added: March-10
+  city: Burlington, VT
+User_101:
+  id: 101
+  email: music@markbonder.org
+  encrypted_password: "$2a$10$eAsYstZKlMpheumUjkPxCepUQ/7v9VeJ31VrK7XU6lwSFRFZ0wYc6"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:50.367511000 Z
+  updated_at: 2016-01-23 23:32:50.367511000 Z
+  name: Mark Bonder
+  confirmed_at: 2016-01-23 23:32:50.364498000 Z
+  invitations_count: 0
+  added: March-10
+  city: New York / Long Island
+User_102:
+  id: 102
+  email: dorine@nsteuntjeinderug.nl
+  encrypted_password: "$2a$10$IUIhxPGD7S4rFm43KQmoJupI.yvW9bm2ssvH0QxciXNYAvu6qN5Wu"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:50.471886000 Z
+  updated_at: 2016-01-23 23:32:50.471886000 Z
+  name: Dorine Hoog
+  confirmed_at: 2016-01-23 23:32:50.470473000 Z
+  invitations_count: 0
+  added: 29-03-2010
+  city: Leiden, NL
+User_103:
+  id: 103
+  email: shaunadevlin1@gmail.com
+  encrypted_password: "$2a$10$bOlCRlYw3HiUQ.I.ls7nbOVTFeIuO7UEO6wRPQZWKyBbnPytFQemq"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:50.576647000 Z
+  updated_at: 2016-01-23 23:32:50.576647000 Z
+  name: Shauna Devlin
+  confirmed_at: 2016-01-23 23:32:50.575427000 Z
+  invitations_count: 0
+  added: March-10
+  city: Duncan, BC
+User_104:
+  id: 104
+  email: emiella.maya@gmail.com
+  encrypted_password: "$2a$10$uA27W4BG3vJpclGp66W2ZuloRJ6N8emE0usN01RTvSBF8P1TA6X.2"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:50.666178000 Z
+  updated_at: 2016-01-23 23:32:50.666178000 Z
+  name: 'Emiella '
+  confirmed_at: 2016-01-23 23:32:50.664892000 Z
+  invitations_count: 0
+  added: March 29th, 2010
+  city: Vancouver, BC
+User_105:
+  id: 105
+  email: thierryfrancois92@orange.fr
+  encrypted_password: "$2a$10$VXvxfoWynvb4mu1Mdt3Nvee5CRDEEc.DvW9s4.xCQTKV/4ICRPmM2"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:50.766411000 Z
+  updated_at: 2016-01-23 23:32:50.766411000 Z
+  name: Thierry Francois
+  confirmed_at: 2016-01-23 23:32:50.765163000 Z
+  invitations_count: 0
+  added: 29.03.2010
+  city: Paris, France
+User_106:
+  id: 106
+  email: karianamika@yahoo.no
+  encrypted_password: "$2a$10$Dp7OX2jFke79qFAQEjaS9uy6N/ZCqLc5L.0pkUNIJpxKTvAoQjBFG"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:50.865394000 Z
+  updated_at: 2016-01-23 23:32:50.865394000 Z
+  name: Kari Holten
+  confirmed_at: 2016-01-23 23:32:50.864188000 Z
+  invitations_count: 0
+  added: 29.03.2010
+  city: Oslo, Norway
+User_107:
+  id: 107
+  email: djmike@eclecticdjs.com
+  encrypted_password: "$2a$10$VIHWPiuVKlpymeUKXV74sue624KhBq/Yr70qTzh/aZy7VdQwQVmcK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:50.972338000 Z
+  updated_at: 2016-01-23 23:32:50.972338000 Z
+  name: DJ Mike
+  confirmed_at: 2016-01-23 23:32:50.970991000 Z
+  invitations_count: 0
+  added: March-10
+  city: Isla Vista, CA
+User_108:
+  id: 108
+  email: poetcrab@gmail.com
+  encrypted_password: "$2a$10$U/NeEfQOPzPoKWbZI2lyfOYXOCLBmDPxeDj/NGBoNveMJ3.zWR0DK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:51.071447000 Z
+  updated_at: 2016-01-23 23:32:51.071447000 Z
+  name: marcelino
+  confirmed_at: 2016-01-23 23:32:51.070166000 Z
+  invitations_count: 0
+  added: March-10
+  city: santa barbara, CA
+User_109:
+  id: 109
+  email: alisondowneyacupuncture@gmail.com
+  encrypted_password: "$2a$10$QSY1PMoHf7K0aZuhtf3ml.6lVwi4N7V13cIxVWyi5LDw6Hpg8v/ZC"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:51.164950000 Z
+  updated_at: 2016-01-23 23:32:51.164950000 Z
+  name: Alison Downey
+  confirmed_at: 2016-01-23 23:32:51.163528000 Z
+  invitations_count: 0
+  added: April-10
+  city: Asheville, NC
+User_110:
+  id: 110
+  email: tismansimon@hotmail.com
+  encrypted_password: "$2a$10$/99h2Xo5YAIkz18hBJ9qY.27jYhxb.B.x5tsUiouo7lh8K1zPYiVm"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:51.263329000 Z
+  updated_at: 2016-01-23 23:32:51.263329000 Z
+  name: Simon
+  confirmed_at: 2016-01-23 23:32:51.260974000 Z
+  invitations_count: 0
+  added: April-10
+  city: Asheville, NC
+User_111:
+  id: 111
+  email: staceydancing@gmail.com
+  encrypted_password: "$2a$10$toyAWNFK5p8EkG3fo/TboOFUL.WM04PDen77xEx8MAOApGvVNw6Se"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:51.360430000 Z
+  updated_at: 2016-01-23 23:32:51.360430000 Z
+  name: Stacey
+  confirmed_at: 2016-01-23 23:32:51.359094000 Z
+  invitations_count: 0
+  added: April-10
+  city: nomadic
+User_112:
+  id: 112
+  email: charlie@llewellin.net
+  encrypted_password: "$2a$10$ZL3vKyeL7JOIA4h53Zza9.hkDejtOdTVBAHHi9T5ubRZB/v3nmHqO"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:51.449436000 Z
+  updated_at: 2016-01-23 23:32:51.449436000 Z
+  name: Charlie Llewellin
+  confirmed_at: 2016-01-23 23:32:51.448177000 Z
+  invitations_count: 0
+  added: April-10
+  city: Austin, Texas
+User_113:
+  id: 113
+  email: indigotwilight@gmail.com
+  encrypted_password: "$2a$10$FX/z.3JvuAYGuKe8Mx4o5esLjUvhKWq1zkozMUu/iNuJi/2BgiX6."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:51.547522000 Z
+  updated_at: 2016-01-23 23:32:51.547522000 Z
+  name: Katrina Curry
+  confirmed_at: 2016-01-23 23:32:51.546121000 Z
+  invitations_count: 0
+  added: April-10
+  city: Folsom, CA
+User_114:
+  id: 114
+  email: rannamcneil@hotmail.com
+  encrypted_password: "$2a$10$abrTneD329Ina5l5PicYoO69YLvNjJp9TwtNfPVXYO4CwGUcoJWdS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:51.640801000 Z
+  updated_at: 2016-01-23 23:32:51.640801000 Z
+  name: Ranna
+  confirmed_at: 2016-01-23 23:32:51.638870000 Z
+  invitations_count: 0
+  added: April-10
+  city: Seattle, WA
+User_115:
+  id: 115
+  email: ian.daddio@gmail.com
+  encrypted_password: "$2a$10$yrGaX.vEYGmE85TbUE/zN.VNZYU/nZQSZRZL8rZ7nAr/hs3pDhg8e"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:51.725894000 Z
+  updated_at: 2016-01-23 23:32:51.725894000 Z
+  name: Ian Cunningham
+  confirmed_at: 2016-01-23 23:32:51.724636000 Z
+  invitations_count: 0
+  added: 05.18.2010
+  city: Spokane, WA
+User_116:
+  id: 116
+  email: andrey@andreymusic.com
+  encrypted_password: "$2a$10$nH1FpJMGHivMwGgGv.yeUeoZlKz/xKuVwlJ0tdGOLweWoe/wDLiaK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:51.810921000 Z
+  updated_at: 2016-01-23 23:32:51.810921000 Z
+  name: Andrey Samode
+  confirmed_at: 2016-01-23 23:32:51.809701000 Z
+  invitations_count: 0
+  added: June.1.2010
+  city: Berkeley, CA
+User_117:
+  id: 117
+  email: moonrunners8@gmail.com
+  encrypted_password: "$2a$10$J.mBnyVKGQJERSNbBQZwxeFr/rVE07nnbpdfJTx0XL11IkQ79fYi2"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:51.897496000 Z
+  updated_at: 2016-01-23 23:32:51.897496000 Z
+  name: Bonnie Solomon
+  confirmed_at: 2016-01-23 23:32:51.896229000 Z
+  invitations_count: 0
+  added: June-10
+  city: Saint Augustine, FL
+User_118:
+  id: 118
+  email: charnjer@yahoo.com
+  encrypted_password: "$2a$10$gL8oQriSfW38mfAnCWZj3eaPI1DyrK.ZVZzKATsU2abUtUjSkDE.C"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:51.991759000 Z
+  updated_at: 2016-01-23 23:32:51.991759000 Z
+  name: char michaels
+  confirmed_at: 2016-01-23 23:32:51.990328000 Z
+  invitations_count: 0
+  added: June-10
+  city: Ojai, CA
+User_119:
+  id: 119
+  email: lmlindeman@gmail.com
+  encrypted_password: "$2a$10$2.7AfQOnfXyI8M8fDh8YnOT8nFl5qX3ZN33Bwq2smpbxIfKZ/EpWe"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:52.081460000 Z
+  updated_at: 2016-01-23 23:32:52.081460000 Z
+  name: Lisa Lindeman
+  confirmed_at: 2016-01-23 23:32:52.080221000 Z
+  invitations_count: 0
+  added: July-10
+  city: Tulsa, OK
+User_120:
+  id: 120
+  email: lukingforthetruth@gmail.com
+  encrypted_password: "$2a$10$.z/lC3MppZWzdbcNw6v2P.DZkG.rkVn0ucBcOn/h5VzttUvUR2n/q"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:52.177610000 Z
+  updated_at: 2016-01-23 23:32:52.177610000 Z
+  name: Bonnie Prince (Luke Parkhurst)
+  confirmed_at: 2016-01-23 23:32:52.176340000 Z
+  invitations_count: 0
+  added: August-10
+  city: Colorado Springs, CO
+User_121:
+  id: 121
+  email: ebergsten10@gmail.com
+  encrypted_password: "$2a$10$VMadouAVsAKacbplLesHt.0X.SX8SaTRWZM4RPtZc0kpcd2f4IM72"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:52.282390000 Z
+  updated_at: 2016-01-23 23:32:52.282390000 Z
+  name: Elise Bergsten
+  confirmed_at: 2016-01-23 23:32:52.281107000 Z
+  invitations_count: 0
+  added: August-10
+  city: Colorado Springs, CO
+User_122:
+  id: 122
+  email: triciarawks@gmail.com
+  encrypted_password: "$2a$10$I0tzcZaLKnvcwoJEs0NvsOBgGsJ2c8sFLelYJ6CKGccntAQ3FNljy"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:52.382849000 Z
+  updated_at: 2016-01-23 23:32:52.382849000 Z
+  name: Tricia Rawks
+  confirmed_at: 2016-01-23 23:32:52.381581000 Z
+  invitations_count: 0
+  added: August-10
+  city: San Antonio
+User_123:
+  id: 123
+  email: karen.dancingqi@gmail.com
+  encrypted_password: "$2a$10$KdZ/YWe8FkrS5uPbZj7vJu5fSRGjujUQrhEOw9zWVgRSITmKN1qXq"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:52.481747000 Z
+  updated_at: 2016-01-23 23:32:52.481747000 Z
+  name: Karen Fletcher
+  confirmed_at: 2016-01-23 23:32:52.478870000 Z
+  invitations_count: 0
+  added: September-10
+  city: Seattle, WA
+User_124:
+  id: 124
+  email: gj062466@yahoo.com
+  encrypted_password: "$2a$10$Kfvim9SgpECO1ZJRtAXqgeSRewodYbrYL50QDGQ0LxkOxIcv8lHCi"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:52.578732000 Z
+  updated_at: 2016-01-23 23:32:52.578732000 Z
+  name: Gary Jacobsson
+  confirmed_at: 2016-01-23 23:32:52.575930000 Z
+  invitations_count: 0
+  added: September-10
+  city: Manzanita, OR
+User_125:
+  id: 125
+  email: shmbraam@hotmail.com
+  encrypted_password: "$2a$10$P3yPDpUpbmy85rFrDdKNWuMWEE63OXqWv1Xf7yjrv/K3i3OosGArS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:52.672502000 Z
+  updated_at: 2016-01-23 23:32:52.672502000 Z
+  name: Susanne
+  confirmed_at: 2016-01-23 23:32:52.671273000 Z
+  invitations_count: 0
+  added: September-10
+  city: Haarlem, the Netherlands
+User_126:
+  id: 126
+  email: reclaimingyourbody@me.com
+  encrypted_password: "$2a$10$3YlAFSzCTY5qzuNQduwfVO8JHiPkTcdc/Lg0jpA8kyXgkNQlnJVo."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:52.765791000 Z
+  updated_at: 2016-01-23 23:32:52.765791000 Z
+  name: Coco (DJ Cocoliscious)
+  confirmed_at: 2016-01-23 23:32:52.764529000 Z
+  invitations_count: 0
+  added: November-10
+  city: Durham, NC
+User_127:
+  id: 127
+  email: shivadove@gmail.com
+  encrypted_password: "$2a$10$bVng7zZErp7TwBd7a8wJO.MVQ4eGerbw/Sv9nrmV8rjtBbcjQEgk."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:52.868093000 Z
+  updated_at: 2016-01-23 23:32:52.868093000 Z
+  name: Alexandra Heller (DJ shivadove)
+  confirmed_at: 2016-01-23 23:32:52.864170000 Z
+  invitations_count: 0
+  added: January-11
+  city: Birmingham, MI
+User_128:
+  id: 128
+  email: zandrawolf@hotmail.com
+  encrypted_password: "$2a$10$HsBUwL0Jyg8vGY.0AqNuOOSbzLQXHwfkUh78wtT7c60es5ZmgXiBC"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:52.969470000 Z
+  updated_at: 2016-01-23 23:32:52.969470000 Z
+  name: Zan Akerson
+  confirmed_at: 2016-01-23 23:32:52.965726000 Z
+  invitations_count: 0
+  added: January-11
+  city: Eugene, OR
+User_129:
+  id: 129
+  email: tuula234@hotmail.com
+  encrypted_password: "$2a$10$wOS1ka7T7uWb5BK7ck.PN.57OexFRQkBvJyDwVrDqMhX2ZIO78Lc2"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:53.063744000 Z
+  updated_at: 2016-01-23 23:32:53.063744000 Z
+  name: Tuula Heinar
+  confirmed_at: 2016-01-23 23:32:53.062529000 Z
+  invitations_count: 0
+  added: January-11
+  city: Waterloo, Ontario, Canada
+User_130:
+  id: 130
+  email: amanda_kaler@yahoo.com
+  encrypted_password: "$2a$10$LL709JyJ8sbDKs//9qzfIuioDvlKkxF8ZY2DS/ea2qvn2bDBDaTo6"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:53.157226000 Z
+  updated_at: 2016-01-23 23:32:53.157226000 Z
+  name: Amanda Kaler
+  confirmed_at: 2016-01-23 23:32:53.155979000 Z
+  invitations_count: 0
+  added: January-11
+  city: Eugene, OR
+User_131:
+  id: 131
+  email: vitnegrete@gmail.com
+  encrypted_password: "$2a$10$uEhBPgKb4Vuui2mqN4CLteYBYUMGgrA5jU1zeod3tbu78rlV.FZFq"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:53.241929000 Z
+  updated_at: 2016-01-23 23:32:53.241929000 Z
+  name: victoria negrete
+  confirmed_at: 2016-01-23 23:32:53.240709000 Z
+  invitations_count: 0
+  added: January-11
+  city: New York, NY
+User_132:
+  id: 132
+  email: danielangelus@comcast.net
+  encrypted_password: "$2a$10$orsn.Q6.xadKBddIRxOvVuO2uOO5qhk1HqxhR2XrhyQYi1B8y6e9i"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:53.323532000 Z
+  updated_at: 2016-01-23 23:32:53.323532000 Z
+  name: daniel angelus
+  confirmed_at: 2016-01-23 23:32:53.322123000 Z
+  invitations_count: 0
+  added: February-11
+  city: Albuquerque, NM
+User_133:
+  id: 133
+  email: r-lamb@shaw.ca
+  encrypted_password: "$2a$10$wu32hC44Xs2oiDJ88UToF.CljgVDN3t5hOOoa9Pdb5T0ca9Itsw2y"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:53.417474000 Z
+  updated_at: 2016-01-23 23:32:53.417474000 Z
+  name: Rachelle Lamb
+  confirmed_at: 2016-01-23 23:32:53.416066000 Z
+  invitations_count: 0
+  added: February-11
+  city: Victoria, BC, Canada
+User_134:
+  id: 134
+  email: monica.lecrone@gmail.com
+  encrypted_password: "$2a$10$jDlAxYQK8if4XkdI4PfkgOnyer62SBMn6YYlS6D.qSxMRsq9cKKuG"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:53.516493000 Z
+  updated_at: 2016-01-23 23:32:53.516493000 Z
+  name: Monica Lecrone
+  confirmed_at: 2016-01-23 23:32:53.515258000 Z
+  invitations_count: 0
+  added: February-11
+  city: Scottsdale, AZ
+User_135:
+  id: 135
+  email: jewelyakilgore@aol.com
+  encrypted_password: "$2a$10$6xDiDeUlKpFTIf6Y9Lk.t.GzVG7Ze77pzB0bERw8TKSUkfP1HszXa"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:53.616950000 Z
+  updated_at: 2016-01-23 23:32:53.616950000 Z
+  name: Julia Kilgore (DJ Jewelya)
+  confirmed_at: 2016-01-23 23:32:53.615242000 Z
+  invitations_count: 0
+  added: March-11
+  city: Santa Barbara, CA
+User_136:
+  id: 136
+  email: dancingyogi@att.net
+  encrypted_password: "$2a$10$RClJdJsQ.jhE.y5ZfLaYoOgsEQjFkk/mwwr1mzg1g32xdwo8U.zU."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:53.732647000 Z
+  updated_at: 2016-01-23 23:32:53.732647000 Z
+  name: liz tucker
+  confirmed_at: 2016-01-23 23:32:53.729706000 Z
+  invitations_count: 0
+  added: March-11
+  city: Dallas, TX
+User_137:
+  id: 137
+  email: monicahochberg@att.net
+  encrypted_password: "$2a$10$EIJh40SUQs0US3r1DcYdN.cfUdVIiBbQKtisqI76/d7azkhtWizSa"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:53.828401000 Z
+  updated_at: 2016-01-23 23:32:53.828401000 Z
+  name: monica blossom
+  confirmed_at: 2016-01-23 23:32:53.827078000 Z
+  invitations_count: 0
+  added: March-11
+  city: Dallas, TX
+User_138:
+  id: 138
+  email: naima.creations@gmail.com
+  encrypted_password: "$2a$10$QcFX7Z8CtMFdJGnOt73qIuVC5J6CLANgyCTj/0HZphaQV7.JC4f0a"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:53.915522000 Z
+  updated_at: 2016-01-23 23:32:53.915522000 Z
+  name: naima pagano
+  confirmed_at: 2016-01-23 23:32:53.914184000 Z
+  invitations_count: 0
+  added: March-11
+  city: Buenos Aires, Argentina
+User_139:
+  id: 139
+  email: mikarov@ciudad.com.ar
+  encrypted_password: "$2a$10$MRAiBUBKyAoXUxN6nArGLu4NQFmvlOEkGPMbG.l5hy/TiJY08sYiq"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:54.007899000 Z
+  updated_at: 2016-01-23 23:32:54.007899000 Z
+  name: DJ Daniel
+  confirmed_at: 2016-01-23 23:32:54.006444000 Z
+  invitations_count: 0
+  added: April-11
+  city: Buenos Aires, Argentina
+User_140:
+  id: 140
+  email: a.kavehkar@yahoo.com
+  encrypted_password: "$2a$10$fxLVe2tmGWTjfY2YV28HCuSenNXEWh1W2SjBwqthjn7G9KTlkuWIe"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:54.097271000 Z
+  updated_at: 2016-01-23 23:32:54.097271000 Z
+  name: DJ Sukha
+  confirmed_at: 2016-01-23 23:32:54.095880000 Z
+  invitations_count: 0
+  added: April-11
+  city: Dallas, TX
+User_141:
+  id: 141
+  email: thirstyears@gmail.com
+  encrypted_password: "$2a$10$WAOTovrRvhlgbnGP6A8mN.mJbJXKPui4R1fSMWITJNdMI/KpGpRHu"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:54.199118000 Z
+  updated_at: 2016-01-23 23:32:54.199118000 Z
+  name: Mitch Dale
+  confirmed_at: 2016-01-23 23:32:54.197876000 Z
+  invitations_count: 0
+  added: May-11
+  city: Oakland, CA
+User_142:
+  id: 142
+  email: bassdriven@gmail.com
+  encrypted_password: "$2a$10$WpgrZkELoqhMQBXtlCnqA.WEJpNRlVMrOKOFRbRRU7K.t50mPJwQO"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:54.294141000 Z
+  updated_at: 2016-01-23 23:32:54.294141000 Z
+  name: SiriKarta
+  confirmed_at: 2016-01-23 23:32:54.292941000 Z
+  invitations_count: 0
+  added: June-11
+  city: Miami, FL
+User_143:
+  id: 143
+  email: jennifer.steed@gmail.com
+  encrypted_password: "$2a$10$JfEZcveU/Vk/sTCbp.uM3ubr2iM3XdSTzcfYbQQJMZAcHXbcejNFm"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:54.378930000 Z
+  updated_at: 2016-01-23 23:32:54.378930000 Z
+  name: Jennifer Steed
+  confirmed_at: 2016-01-23 23:32:54.376060000 Z
+  invitations_count: 0
+  added: June-11
+  city: Nelson, British Columbia
+User_144:
+  id: 144
+  email: dean.halpern@gmail.com
+  encrypted_password: "$2a$10$6BaACkJjS7rV2xYSmAOcYu2XaFZJACCSq5Ewcto6k/mUCysRMD2di"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:54.461590000 Z
+  updated_at: 2016-01-23 23:32:54.461590000 Z
+  name: Dean Halpern (DJ Pangea)
+  confirmed_at: 2016-01-23 23:32:54.460346000 Z
+  invitations_count: 0
+  added: July-11
+  city: San Rafael, CA
+User_145:
+  id: 145
+  email: jens@wazel.org
+  encrypted_password: "$2a$10$CXMeXCCaNHKWwyM713nkxO1nCwL6ukKOEhd/PvL7PRwj94.DIjgjS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:54.550703000 Z
+  updated_at: 2016-01-23 23:32:54.550703000 Z
+  name: Jens Wazel
+  confirmed_at: 2016-01-23 23:32:54.549501000 Z
+  invitations_count: 0
+  added: July-11
+  city: Seattle, WA
+User_146:
+  id: 146
+  email: adinitay@gmail.com
+  encrypted_password: "$2a$10$/RGGMuoo0HSjDKRbhL8kJulmt6sD4KMmHfyguFgpYmzBYHVx8qi56"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:54.652125000 Z
+  updated_at: 2016-01-23 23:32:54.652125000 Z
+  name: Adi Argov
+  confirmed_at: 2016-01-23 23:32:54.650887000 Z
+  invitations_count: 0
+  added: July-11
+  city: Tel Aviv, Israel
+User_147:
+  id: 147
+  email: nancyjg@aol.com
+  encrypted_password: "$2a$10$.citUWrHnW6yu1jwnVW2vuGSNgpYHUoitUXEwSuvrJMU6Kvky/OGu"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:54.749487000 Z
+  updated_at: 2016-01-23 23:32:54.749487000 Z
+  name: Nancy Genatt
+  confirmed_at: 2016-01-23 23:32:54.748237000 Z
+  invitations_count: 0
+  added: August-11
+  city: Highland Park, NJ
+User_148:
+  id: 148
+  email: sjc@bredband.net
+  encrypted_password: "$2a$10$6ea5Dm.S6Cq23UWL97G8s.aoXglNwsR/275JQaH85evxo0zDacVpm"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:54.838391000 Z
+  updated_at: 2016-01-23 23:32:54.838391000 Z
+  name: Susan Cohen
+  confirmed_at: 2016-01-23 23:32:54.837043000 Z
+  invitations_count: 0
+  added: Sept. 17, 2011
+  city: Stockholm, Sweden
+User_149:
+  id: 149
+  email: valerie@dancesanctuary.com
+  encrypted_password: "$2a$10$99ZFrAhylxjqcZ24zGegseU3VpGr.qJe6Uw2sws3mtyDAtSedZPta"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:54.931386000 Z
+  updated_at: 2016-01-23 23:32:54.931386000 Z
+  name: valerie chafograck
+  confirmed_at: 2016-01-23 23:32:54.929884000 Z
+  invitations_count: 0
+  added: September 20th 2011
+  city: Point Richmond, CA
+User_150:
+  id: 150
+  email: michael@ipgcre.com
+  encrypted_password: "$2a$10$qhVQ.E/zkyNa2imsdH7bxecgX5PL2a7E51SPbmtk4AejUloo1eCGa"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:55.036955000 Z
+  updated_at: 2016-01-23 23:32:55.036955000 Z
+  name: Michael Jeppesen (DJ Goji)
+  confirmed_at: 2016-01-23 23:32:55.035561000 Z
+  invitations_count: 0
+  added: October-11
+  city: Salt Lake City, UT
+User_151:
+  id: 151
+  email: playinlight@gmail.com
+  encrypted_password: "$2a$10$XBMABjyv5v3JrvsFtZn56ex8MsczEWbPHkHBlvQ5eeIIjvCQC0sli"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:55.134324000 Z
+  updated_at: 2016-01-23 23:32:55.134324000 Z
+  name: Paul Deering
+  confirmed_at: 2016-01-23 23:32:55.132954000 Z
+  invitations_count: 0
+  added: October-11
+  city: Cottage Grove, OR
+User_152:
+  id: 152
+  email: busova.galina@gmail.com
+  encrypted_password: "$2a$10$oRnfOY4kWim3IICFHq683uj9VzdxVXmod3ejATzUGAxYmq.hgLlJ."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:55.233416000 Z
+  updated_at: 2016-01-23 23:32:55.233416000 Z
+  name: Galina Busova
+  confirmed_at: 2016-01-23 23:32:55.231486000 Z
+  invitations_count: 0
+  added: October-11
+  city: Calgary, Alberta, Canada
+User_153:
+  id: 153
+  email: savorygrace@gmail.com
+  encrypted_password: "$2a$10$LCy5J6h7Ze0MkQVD0xI3i.pLNRfHOnOi60KS.oxmzL.HV0.2MBfOu"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:55.328177000 Z
+  updated_at: 2016-01-23 23:32:55.328177000 Z
+  name: Lloyd Jones
+  confirmed_at: 2016-01-23 23:32:55.326796000 Z
+  invitations_count: 0
+  added: October-11
+  city: Carmel, CA
+User_154:
+  id: 154
+  email: jaden.fox9@gmail.com
+  encrypted_password: "$2a$10$/4PDXOaIAWBE8ox028E6v.FuHlR14Xk07GDdidbKMU7.Z/dC4/GtW"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:55.412993000 Z
+  updated_at: 2016-01-23 23:32:55.412993000 Z
+  name: Jaden Fox (DJ Transformation)
+  confirmed_at: 2016-01-23 23:32:55.411494000 Z
+  invitations_count: 0
+  added: November-11
+  city: Pahoa, HI
+User_155:
+  id: 155
+  email: empressjo@gmail.com
+  encrypted_password: "$2a$10$58BRnQQlOSI3c7df1rW8RuGYaHEEQVAy51/EixS7ePvG5dfvIpkK2"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:55.499637000 Z
+  updated_at: 2016-01-23 23:32:55.499637000 Z
+  name: Jo Eckler
+  confirmed_at: 2016-01-23 23:32:55.498278000 Z
+  invitations_count: 0
+  added: November-11
+  city: Austin, TX
+User_156:
+  id: 156
+  email: cdonaldson@antioch.edu
+  encrypted_password: "$2a$10$bn5L9Ff6vpviRELT.h22puRp09sS9DwKSrhWUHF84d6TR/W0Qo19i"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:55.592912000 Z
+  updated_at: 2016-01-23 23:32:55.592912000 Z
+  name: Colleen Donaldson
+  confirmed_at: 2016-01-23 23:32:55.591457000 Z
+  invitations_count: 0
+  added: November-11
+  city: Keene, NH
+User_157:
+  id: 157
+  email: typepatrick@yahoo.com
+  encrypted_password: "$2a$10$/Ssukh4tWvdsvGlxmAeIoeeeiPDqO1/FcJeQ0zQXkPTQgPSk.haZC"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:55.681899000 Z
+  updated_at: 2016-01-23 23:32:55.681899000 Z
+  name: Soulsonic
+  confirmed_at: 2016-01-23 23:32:55.678945000 Z
+  invitations_count: 0
+  added: November-11
+  city: Ferndale MI
+User_158:
+  id: 158
+  email: mitra.sticklen@gmail.com
+  encrypted_password: "$2a$10$jQEoBfW7z6P3jRvTqTJTXOZ.uqyMClPLs1oYVXSNbXcgaj3XRpVM2"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:55.777404000 Z
+  updated_at: 2016-01-23 23:32:55.777404000 Z
+  name: Mitra Sticklen
+  confirmed_at: 2016-01-23 23:32:55.776087000 Z
+  invitations_count: 0
+  added: November-11
+  city: Raleigh, NC
+User_159:
+  id: 159
+  email: djgusmorrison@gmail.com
+  encrypted_password: "$2a$10$s6axE7K8IUJbcsIHEGCr1.KPsThoIE/lIoHAChJjmJieTuDmGjdw."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:55.872337000 Z
+  updated_at: 2016-01-23 23:32:55.872337000 Z
+  name: Augusta
+  confirmed_at: 2016-01-23 23:32:55.870299000 Z
+  invitations_count: 0
+  added: November 14th, 2011
+  city: Lansing, MI
+User_160:
+  id: 160
+  email: hollyapricot@gmail.com
+  encrypted_password: "$2a$10$.RHqTZBUQr3BLkMKmWXb/OQrQVotctCWmugB86WMf16UG.OXlUdcK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:55.965483000 Z
+  updated_at: 2016-01-23 23:32:55.965483000 Z
+  name: Holly Markham
+  confirmed_at: 2016-01-23 23:32:55.964134000 Z
+  invitations_count: 0
+  added: November-11
+  city: Portland, OR
+User_161:
+  id: 161
+  email: info@dancejourney.org
+  encrypted_password: "$2a$10$rdsPoY.H3odpK0ZDFjlzQuwsvXHIeZqp2EyLeA49ZyLstwg3NcRj2"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:56.065155000 Z
+  updated_at: 2016-01-23 23:32:56.065155000 Z
+  name: Ken Martini DJ DeepFlow
+  confirmed_at: 2016-01-23 23:32:56.063740000 Z
+  invitations_count: 0
+  added: November-11
+  city: Sonoma, CA
+User_162:
+  id: 162
+  email: katelawrence.eircom@gmail.com
+  encrypted_password: "$2a$10$4Vu25L/2LYxigFMhhZvxsu8fCgEy2R2B96NpzFBTqCbVJOF16E/GS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:56.158851000 Z
+  updated_at: 2016-01-23 23:32:56.158851000 Z
+  name: Kate Lawrence
+  confirmed_at: 2016-01-23 23:32:56.157337000 Z
+  invitations_count: 0
+  added: February-11
+  city: Dun Laoghaire, Ireland
+User_163:
+  id: 163
+  email: jori@myheartspace.org
+  encrypted_password: "$2a$10$7c7sAfB2W4kj8/kxGEdUEOSHFsuSiaDjCgLRerDDjkTkCqLa2DIDC"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:56.246518000 Z
+  updated_at: 2016-01-23 23:32:56.246518000 Z
+  name: jori azinger
+  confirmed_at: 2016-01-23 23:32:56.244977000 Z
+  invitations_count: 0
+  added: December-11
+  city: Thiensville, WI
+User_164:
+  id: 164
+  email: valeriethevibegoddess@gmail.com
+  encrypted_password: "$2a$10$Apj/ky1sly6wl/6e1ePtWu7vmcpqKf3SpJX7Be.wGFkXS96wg7uzq"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:56.328851000 Z
+  updated_at: 2016-01-23 23:32:56.328851000 Z
+  name: Valerie the Vibe Goddess
+  confirmed_at: 2016-01-23 23:32:56.327560000 Z
+  invitations_count: 0
+  added: January-12
+  city: Haiku, HI
+User_165:
+  id: 165
+  email: jreneau44@gmail.com
+  encrypted_password: "$2a$10$6jXRGa9LstnhY.iooRMfAeBq5fKmvVeskN4WfNhbjrhWf.lC.j4KW"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:56.415725000 Z
+  updated_at: 2016-01-23 23:32:56.415725000 Z
+  name: jamie reneau
+  confirmed_at: 2016-01-23 23:32:56.414009000 Z
+  invitations_count: 0
+  added: January-12
+  city: Krum, TX
+User_166:
+  id: 166
+  email: magsterz@gmail.com
+  encrypted_password: "$2a$10$NhQbytta3Ru8pinneazIgOQTfP0eOAvlAfGuktZhLbk7H4hFfZv0i"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:56.517784000 Z
+  updated_at: 2016-01-23 23:32:56.517784000 Z
+  name: Maggie Zellner (DJ Magster)
+  confirmed_at: 2016-01-23 23:32:56.516391000 Z
+  invitations_count: 0
+  added: February-12
+  city: New York, NY
+User_167:
+  id: 167
+  email: winstonandrea@qwestoffice.net
+  encrypted_password: "$2a$10$OcUh0lUFKOvjisCgEe80rOFf8pA30pbf5/gmkC5fbucDkjW/jyBy."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:56.617852000 Z
+  updated_at: 2016-01-23 23:32:56.617852000 Z
+  name: Andrea McCullough
+  confirmed_at: 2016-01-23 23:32:56.616267000 Z
+  invitations_count: 0
+  added: February-12
+  city: Corvallis, OR
+User_168:
+  id: 168
+  email: michael.swerdloff@gmail.com
+  encrypted_password: "$2a$10$DItl1euW/lhT2n16anM/j.Rn.hYh9cLqHrBKe3gxeZmDrPS8JbMYG"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:56.719303000 Z
+  updated_at: 2016-01-23 23:32:56.719303000 Z
+  name: Michael Swerdloff (DJ Mystical Michael)
+  confirmed_at: 2016-01-23 23:32:56.716050000 Z
+  invitations_count: 0
+  added: February-12
+  city: Califon, NJ
+User_169:
+  id: 169
+  email: iris.haramati@gmail.com
+  encrypted_password: "$2a$10$uP89xkNo04/FDoBotKuphuC5GqL7M7Y1LZA7/Fh5E1jpNC8STRbcm"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:56.819594000 Z
+  updated_at: 2016-01-23 23:32:56.819594000 Z
+  name: iris haramati
+  confirmed_at: 2016-01-23 23:32:56.816179000 Z
+  invitations_count: 0
+  added: February-12
+  city: Tel-Aviv, Israel
+User_170:
+  id: 170
+  email: redbiblio@gmail.com
+  encrypted_password: "$2a$10$UrW0l6aHiQ0ddUBTGFwsh.h2TqsoDahnqMW4GriGpfeZCQghNkepe"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:56.919941000 Z
+  updated_at: 2016-01-23 23:32:56.919941000 Z
+  name: jay gertz
+  confirmed_at: 2016-01-23 23:32:56.918379000 Z
+  invitations_count: 0
+  added: February-12
+  city: Asheville, NC
+User_171:
+  id: 171
+  email: zanasu1@hotmail.com
+  encrypted_password: "$2a$10$RnY3817TCyEoOL2U.u2mSu1Pe2DCMjQUkNCcGhzpmxJWSfSCfdtlC"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:57.023525000 Z
+  updated_at: 2016-01-23 23:32:57.023525000 Z
+  name: Susana Moore
+  confirmed_at: 2016-01-23 23:32:57.022045000 Z
+  invitations_count: 0
+  added: March-12
+  city: San Diego, CA
+User_172:
+  id: 172
+  email: ellencrowvo@gmail.com
+  encrypted_password: "$2a$10$2/MOh0esLuUiz6UztQsVBOT/r/0wYweKKTwKVh/KONkVGV1SHxdlS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:57.120415000 Z
+  updated_at: 2016-01-23 23:32:57.120415000 Z
+  name: Ellen Crow
+  confirmed_at: 2016-01-23 23:32:57.118625000 Z
+  invitations_count: 0
+  added: March-12
+  city: Sheboygan, WI
+User_173:
+  id: 173
+  email: krviola@gmail.com
+  encrypted_password: "$2a$10$JQdaMgpCH2RxjZ3aE4RvceemZyweMwq//7JBYTSxFIVrsJqGIwYx."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:57.214750000 Z
+  updated_at: 2016-01-23 23:32:57.214750000 Z
+  name: Karen Ritscher
+  confirmed_at: 2016-01-23 23:32:57.213411000 Z
+  invitations_count: 0
+  added: March-12
+  city: New York, NY
+User_174:
+  id: 174
+  email: charliekorda1@mac.com
+  encrypted_password: "$2a$10$rb9Wx/ADRfN8MmjMJUw7s.r2imJfhoa4mr0.pS9dViGMh1Wz3pJTS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:57.309940000 Z
+  updated_at: 2016-01-23 23:32:57.309940000 Z
+  name: charlie korda
+  confirmed_at: 2016-01-23 23:32:57.307859000 Z
+  invitations_count: 0
+  added: March-12
+  city: San Francisco, CA
+User_175:
+  id: 175
+  email: rhythmbody5@gmail.com
+  encrypted_password: "$2a$10$vIHsBOphjfugMKT0Zi3zduRPg9m19bYTuzzMCaodZxSkvNgEjAU0u"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:57.404165000 Z
+  updated_at: 2016-01-23 23:32:57.404165000 Z
+  name: DJ Soul Sava
+  confirmed_at: 2016-01-23 23:32:57.401909000 Z
+  invitations_count: 0
+  added: March-12
+  city: Santa Fe, NM
+User_176:
+  id: 176
+  email: fejer.peter@ritmusok.hu
+  encrypted_password: "$2a$10$ooZXYXj7iXSFa/uaRfTaSOhHpSWhVaQrubFsrEJ65NG3GFk2ZItFK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:57.498925000 Z
+  updated_at: 2016-01-23 23:32:57.498925000 Z
+  name: Peter Fejer
+  confirmed_at: 2016-01-23 23:32:57.497597000 Z
+  invitations_count: 0
+  added: March-12
+  city: Budapest, Hungary
+User_177:
+  id: 177
+  email: info@rian5ritmes.nl
+  encrypted_password: "$2a$10$UhBHoEpsz1Os3qPGjklHuuxYXKs8HvtpOKmaA4Sve5d6EVLXVvev6"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:57.594622000 Z
+  updated_at: 2016-01-23 23:32:57.594622000 Z
+  name: Raindance
+  confirmed_at: 2016-01-23 23:32:57.593273000 Z
+  invitations_count: 0
+  added: March-12
+  city: Schijndel, The Netherlands
+User_178:
+  id: 178
+  email: emovere@gmx.ch
+  encrypted_password: "$2a$10$bUQDd.QoVXXIefr8bdqGeekSonS3KV2mClxgnfsOT.L94zbv7KTAm"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:57.685418000 Z
+  updated_at: 2016-01-23 23:32:57.685418000 Z
+  name: Gabriella Johanns
+  confirmed_at: 2016-01-23 23:32:57.683975000 Z
+  invitations_count: 0
+  added: March-12
+  city: Waedenswil, Switzerland
+User_179:
+  id: 179
+  email: tb@yogabasics.com
+  encrypted_password: "$2a$10$5BfIi3qZJxo33cx0QJlmRe82WQc35K2vpjYeNdcoUxTRzq/WPszAG"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:57.781098000 Z
+  updated_at: 2016-01-23 23:32:57.781098000 Z
+  name: Timothy Burgin
+  confirmed_at: 2016-01-23 23:32:57.779907000 Z
+  invitations_count: 0
+  added: March-12
+  city: Asheville, NC
+User_180:
+  id: 180
+  email: r@rawb.com
+  encrypted_password: "$2a$10$FPTFtss/8ATohoQ9NpIir.aYocCcMVjeAYnKzg/.5N1lhXp55/t/6"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:57.874360000 Z
+  updated_at: 2016-01-23 23:32:57.874360000 Z
+  name: Rob Novotny
+  confirmed_at: 2016-01-23 23:32:57.872449000 Z
+  invitations_count: 0
+  added: April-12
+  city: San Francisco, CA
+User_181:
+  id: 181
+  email: j_kane@shaw.ca
+  encrypted_password: "$2a$10$hFnPKOgzyfE97nbMStgfduDLph5d7HysX2GMlWj5aWrceKldPnIqm"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:57.964173000 Z
+  updated_at: 2016-01-23 23:32:57.964173000 Z
+  name: josie
+  confirmed_at: 2016-01-23 23:32:57.962836000 Z
+  invitations_count: 0
+  added: April-12
+  city: Vancouver, BC, Canada
+User_182:
+  id: 182
+  email: katuah@gmail.com
+  encrypted_password: "$2a$10$z.xrugM8rEZZUPjW7jzXMuReIYNsgvpQpZ2UQ.5pJ14XnTYM08UIi"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:58.050266000 Z
+  updated_at: 2016-01-23 23:32:58.050266000 Z
+  name: Paula C
+  confirmed_at: 2016-01-23 23:32:58.048960000 Z
+  invitations_count: 0
+  added: April-12
+  city: Durham, NC
+User_183:
+  id: 183
+  email: nadiahochberger@gmail.com
+  encrypted_password: "$2a$10$EDRRiIBS5/p53UE7VE9VBeO59Li1D4lZI40uUjox6OsUxSZQ1T1lu"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:58.140062000 Z
+  updated_at: 2016-01-23 23:32:58.140062000 Z
+  name: Nadia Van Doren
+  confirmed_at: 2016-01-23 23:32:58.138828000 Z
+  invitations_count: 0
+  added: April-12
+  city: Calgary, AB, Canada
+User_184:
+  id: 184
+  email: matternaz@cableone.net
+  encrypted_password: "$2a$10$37Fp0A6ph8igtX/xB1fKwOwDEVrynJEEdd1NNz4//DIPy0I..Yrke"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:58.241523000 Z
+  updated_at: 2016-01-23 23:32:58.241523000 Z
+  name: Kent Mattern
+  confirmed_at: 2016-01-23 23:32:58.240043000 Z
+  invitations_count: 0
+  added: April-12
+  city: Prescott Valley, AZ
+User_185:
+  id: 185
+  email: delias75@gmail.com
+  encrypted_password: "$2a$10$oxn1aMMCgroASJdeHHNLm.IEuGi3j.ytSjy5RRJHlhK8294ABPl.a"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:58.335169000 Z
+  updated_at: 2016-01-23 23:32:58.335169000 Z
+  name: 'DANI '
+  confirmed_at: 2016-01-23 23:32:58.333812000 Z
+  invitations_count: 0
+  added: April-12
+  city: Bilbao, Spain
+User_186:
+  id: 186
+  email: erikblender@gmail.com
+  encrypted_password: "$2a$10$fktmpCfXIngms7HyEa1IJOlEcM7RAW1SDI04iSn8LXWVW5KxOr93m"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:58.434039000 Z
+  updated_at: 2016-01-23 23:32:58.434039000 Z
+  name: Erik Blender
+  confirmed_at: 2016-01-23 23:32:58.432078000 Z
+  invitations_count: 0
+  added: April-12
+  city: Orcas, WA
+User_187:
+  id: 187
+  email: az_minkie@yahoo.com
+  encrypted_password: "$2a$10$l2pY0H0DIMfgQbMy4bfK0uKHYX/eUGJgdsZEIuTKXcty0OjTQp6TS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:58.532860000 Z
+  updated_at: 2016-01-23 23:32:58.532860000 Z
+  name: DJ Josh's Friend Richard
+  confirmed_at: 2016-01-23 23:32:58.531601000 Z
+  invitations_count: 0
+  added: April-12
+  city: San Antonio, TX
+User_188:
+  id: 188
+  email: butterflyandadog@gmail.com
+  encrypted_password: "$2a$10$h7nHideYB.zXLULz9L2DzepDs7XHdcXtRIWpDMIkNNnClRvyMzD52"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:58.630319000 Z
+  updated_at: 2016-01-23 23:32:58.630319000 Z
+  name: Tiffany O'Brian
+  confirmed_at: 2016-01-23 23:32:58.629071000 Z
+  invitations_count: 0
+  added: May-12
+  city: San Jose, CA
+User_189:
+  id: 189
+  email: azealea10@yahoo.com
+  encrypted_password: "$2a$10$5j1o8yxCva4C7rNT.kd10.lRSXBCg.ULsaUdqqpDlgfEgS9v67Mu."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:58.713970000 Z
+  updated_at: 2016-01-23 23:32:58.713970000 Z
+  name: Karen D. Chapman
+  confirmed_at: 2016-01-23 23:32:58.712676000 Z
+  invitations_count: 0
+  added: May-12
+  city: Asheville, NC
+User_190:
+  id: 190
+  email: rhythm@rhythmearthsong.com
+  encrypted_password: "$2a$10$wKR4NvO3z2UiCgNCuq14GeA.qr.Y7qw8WlEN5ezYm7ujzechkzWke"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:58.801069000 Z
+  updated_at: 2016-01-23 23:32:58.801069000 Z
+  name: Rhythm Earthsong
+  confirmed_at: 2016-01-23 23:32:58.799787000 Z
+  invitations_count: 0
+  added: June-12
+  city: Ojai, CA
+User_191:
+  id: 191
+  email: alex@artsygeek.com
+  encrypted_password: "$2a$10$Ab3N8erqQtEp8jnuN68KdORnN83uEDpk8F3eYOv4m8I83s7F9zUpe"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:58.889827000 Z
+  updated_at: 2016-01-23 23:32:58.889827000 Z
+  name: Alexandra Heller
+  confirmed_at: 2016-01-23 23:32:58.888523000 Z
+  invitations_count: 0
+  added: June-12
+  city: Oakland, CA
+User_192:
+  id: 192
+  email: lori@movingcenterschool.com
+  encrypted_password: "$2a$10$.5pZkeHyTbTjKyWmM3p0cuS83r7HKBi8TZ5O8fH52Zg0ymCTxb9M6"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:58.996742000 Z
+  updated_at: 2016-01-23 23:32:58.996742000 Z
+  name: Lori Saltzman
+  confirmed_at: 2016-01-23 23:32:58.995557000 Z
+  invitations_count: 0
+  added: July-12
+  city: Mill Valley, CA
+User_193:
+  id: 193
+  email: info@jeanrankin.com
+  encrypted_password: "$2a$10$ccAZdO6Bsa4vTMYPfj5/y.JsRGyujdaInr6EiV0nKcDXQxvJUoyBS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:59.083336000 Z
+  updated_at: 2016-01-23 23:32:59.083336000 Z
+  name: Jean Rankin
+  confirmed_at: 2016-01-23 23:32:59.081933000 Z
+  invitations_count: 0
+  added: May-12
+  city: Glastonbury, UK
+User_194:
+  id: 194
+  email: info@freedom-dance.com
+  encrypted_password: "$2a$10$DUQaodKpowb6UktIw3vfQO5joJTYw7eU/nM0l5w3bTkWzfW5flVGa"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:59.179642000 Z
+  updated_at: 2016-01-23 23:32:59.179642000 Z
+  name: Alex Nikiforov
+  confirmed_at: 2016-01-23 23:32:59.176273000 Z
+  invitations_count: 0
+  added: July-12
+  city: London, UK
+User_195:
+  id: 195
+  email: kimberly.jeanster@gmail.com
+  encrypted_password: "$2a$10$PJ8RSRPWXrqhkgbDKDfoguu35tft8Mughat.sMppz.9k2JXD0PaBq"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:59.277183000 Z
+  updated_at: 2016-01-23 23:32:59.277183000 Z
+  name: Kimberly O'Connor
+  confirmed_at: 2016-01-23 23:32:59.275894000 Z
+  invitations_count: 0
+  added: July-12
+  city: Brooklyn, NY
+User_196:
+  id: 196
+  email: tim@trinitystreet.com
+  encrypted_password: "$2a$10$enLt7TBheMh84k57HwtcmuTXUdkoD.dg9UHeSce5ZtwRyFJxSoagm"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:59.364422000 Z
+  updated_at: 2016-01-23 23:32:59.364422000 Z
+  name: tim Stephenson
+  confirmed_at: 2016-01-23 23:32:59.362906000 Z
+  invitations_count: 0
+  added: June-12
+  city: Brighton, UK
+User_197:
+  id: 197
+  email: beatroot5r@gmail.com
+  encrypted_password: "$2a$10$jZV.6xqnmRv22mJorZnn7OA0T5BarUP8SVz5057.WE/LTLxJdGswa"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:59.452097000 Z
+  updated_at: 2016-01-23 23:32:59.452097000 Z
+  name: kate Iwi
+  confirmed_at: 2016-01-23 23:32:59.450859000 Z
+  invitations_count: 0
+  added: August-12
+  city: London, UK
+User_198:
+  id: 198
+  email: mila-rob@verizon.net
+  encrypted_password: "$2a$10$TgPyVjwGJz4c6RU4omvXxOlC1qHWdMahLOwddxG8B3thOMrS7Vj3K"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:59.551587000 Z
+  updated_at: 2016-01-23 23:32:59.551587000 Z
+  name: Rob Goettler
+  confirmed_at: 2016-01-23 23:32:59.550174000 Z
+  invitations_count: 0
+  added: July-12
+  city: Santa Barbara, CA
+User_199:
+  id: 199
+  email: gremlincat@aol.com
+  encrypted_password: "$2a$10$8QqAKFMb/PyZQw9mzTzzg.BCTyZM6.LlZN/QeaTVKVXazTocnySdO"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:59.647978000 Z
+  updated_at: 2016-01-23 23:32:59.647978000 Z
+  name: Clare Backwell
+  confirmed_at: 2016-01-23 23:32:59.646808000 Z
+  invitations_count: 0
+  added: July-12
+  city: Liverpool, UK
+User_200:
+  id: 200
+  email: dance-out-loud@hotmail.co.uk
+  encrypted_password: "$2a$10$Nk8makDlQng7jVcROavBJekSw8GNLSbvymgTET2OFal2zMbZwTVA6"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:59.738824000 Z
+  updated_at: 2016-01-23 23:32:59.738824000 Z
+  name: Bodhi
+  confirmed_at: 2016-01-23 23:32:59.737627000 Z
+  invitations_count: 0
+  added: August-12
+  city: Somerset, UK
+User_201:
+  id: 201
+  email: rachelkurtz@blueyonder.co.uk
+  encrypted_password: "$2a$10$VSh5MijD6rs3VyQAO6JUo.xgWBSNsB1kmaSnRLxPlIjHVstwBdtGa"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:59.832327000 Z
+  updated_at: 2016-01-23 23:32:59.832327000 Z
+  name: Rachel Kurtz
+  confirmed_at: 2016-01-23 23:32:59.831049000 Z
+  invitations_count: 0
+  added: August-12
+  city: Newcastle upon Tyne, UK
+User_202:
+  id: 202
+  email: rdheinz@gmail.com
+  encrypted_password: "$2a$10$CT4gRfLNkkCDPaZsDOFlB.3j2zVkLg8qvDzteFt0Q/YKvH9C79jre"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:32:59.926028000 Z
+  updated_at: 2016-01-23 23:32:59.926028000 Z
+  name: Roy Heinz (DJ Roi D)
+  confirmed_at: 2016-01-23 23:32:59.924696000 Z
+  invitations_count: 0
+  added: 12.21.14
+  city: Akron
+User_203:
+  id: 203
+  email: meldrc@yahoo.com
+  encrypted_password: "$2a$10$1cEXBPk4Smj5oZHkGV1Bn.We1Ond.PfgkDN5bBKJ8bGZUggxsNTwK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:00.401680000 Z
+  updated_at: 2016-01-23 23:33:00.401680000 Z
+  name: DJ Melanie D
+  confirmed_at: 2016-01-23 23:33:00.400359000 Z
+  invitations_count: 0
+  added: January 11, 2015
+  city: Brooklyn, NY
+User_204:
+  id: 204
+  email: kateharnedyphotography@yahoo.com
+  encrypted_password: "$2a$10$wTAIgGy2nVarPpSe15FNluprHEaLSMHErpKd.I.1AZcfUPQSoUble"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:00.489638000 Z
+  updated_at: 2016-01-23 23:33:00.489638000 Z
+  name: Kate Harnedy
+  confirmed_at: 2016-01-23 23:33:00.488252000 Z
+  invitations_count: 0
+  added: 1/11/2015
+  city: Nomadic
+User_205:
+  id: 205
+  email: juliaray@rogers.com
+  encrypted_password: "$2a$10$ATNfXQyGZlxR8SrX5zQUQuq3yNpYRP14sX/h/Ow.VhyR3.LbBZ4de"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:00.589403000 Z
+  updated_at: 2016-01-23 23:33:00.589403000 Z
+  name: Julia Ray
+  confirmed_at: 2016-01-23 23:33:00.587998000 Z
+  invitations_count: 0
+  added: March 24 2015
+  city: Toronto, Ontario
+User_206:
+  id: 206
+  email: evazachmann@gmx.de
+  encrypted_password: "$2a$10$Q6OWeaYn9h6bLbXmR6t9SObhreASmMZ199BHNjQcqF3ODtdaZYEcu"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:00.684043000 Z
+  updated_at: 2016-01-23 23:33:00.684043000 Z
+  name: Eva Zachmann
+  confirmed_at: 2016-01-23 23:33:00.682784000 Z
+  invitations_count: 0
+  added: 27.03.2015
+  city: Stuttgart
+User_207:
+  id: 207
+  email: vmoysey@gmail.com
+  encrypted_password: "$2a$10$k96oNxziL/Haym5DyjE4Eu/Qrj7SicbwKxb9gUJ7IPhdukfynxhIC"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:00.778281000 Z
+  updated_at: 2016-01-23 23:33:00.778281000 Z
+  name: Valerie Moysey
+  confirmed_at: 2016-01-23 23:33:00.776946000 Z
+  invitations_count: 0
+  added: May 16-15
+  city: Toronto, Ontario
+User_208:
+  id: 208
+  email: melodylynne@mac.com
+  encrypted_password: "$2a$10$9VOdMJN9M7XOVYLtxZqQKevSS2mzWX.a1S4P3RFqRs17JYQ2Jp88i"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:00.868829000 Z
+  updated_at: 2016-01-23 23:33:00.868829000 Z
+  name: Melody Harringer
+  confirmed_at: 2016-01-23 23:33:00.867393000 Z
+  invitations_count: 0
+  added: 5/17/15
+  city: Kilauea
+User_209:
+  id: 209
+  email: babsmail65@gmail.com
+  encrypted_password: "$2a$10$qssqgK7Rjcxmy5y6N0VcQOJCHoNq8ArHd9DBgIIfEoYMRoTjmbxPe"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:00.959582000 Z
+  updated_at: 2016-01-23 23:33:00.959582000 Z
+  name: Beth Ann Bartley
+  confirmed_at: 2016-01-23 23:33:00.955528000 Z
+  invitations_count: 0
+  added: 5/17/15
+  city: Charlottesville, VA
+User_210:
+  id: 210
+  email: kjk62@zips.uakron.edu
+  encrypted_password: "$2a$10$YfNAvvJ1hCP2RTCGk3W7LO8v0vQihVJcSYpAVuZxxtR8ANcm3l1AS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:01.051804000 Z
+  updated_at: 2016-01-23 23:33:01.051804000 Z
+  name: Kevin Karas
+  confirmed_at: 2016-01-23 23:33:01.049767000 Z
+  invitations_count: 0
+  added: 5/18/2015
+  city: Akron, OH
+User_211:
+  id: 211
+  email: sara@slhenry.com
+  encrypted_password: "$2a$10$.FLd/i9cWxQsevDNLe7YruR/wKX5OkOuqlA38WwVmI0mNmrHqWeiq"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:01.149229000 Z
+  updated_at: 2016-01-23 23:33:01.149229000 Z
+  name: Sara Say
+  confirmed_at: 2016-01-23 23:33:01.147849000 Z
+  invitations_count: 0
+  added: 06/08/15
+  city: Naples, FL
+User_212:
+  id: 212
+  email: cleasure1967@att.net
+  encrypted_password: "$2a$10$kleM9qy0qecaJ13W8pR5Ien12fkeXwS.LeMmvgJ0Q9CQT088wSQuO"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:01.234382000 Z
+  updated_at: 2016-01-23 23:33:01.234382000 Z
+  name: Christine Leasure
+  confirmed_at: 2016-01-23 23:33:01.232861000 Z
+  invitations_count: 0
+  added: 6/22/2015
+  city: Akron, OH
+User_213:
+  id: 213
+  email: dansejohanna@gmail.com
+  encrypted_password: "$2a$10$TT6j0PvYM/1J9soRTdZgxeiJJcvTOfuMJU6rOt1JObzsklQzcwKZ6"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:01.333410000 Z
+  updated_at: 2016-01-23 23:33:01.333410000 Z
+  name: Johanna Risse
+  confirmed_at: 2016-01-23 23:33:01.332009000 Z
+  invitations_count: 0
+  added: 24/07/2015
+  city: Bern, Switzerland
+User_214:
+  id: 214
+  email: kgiese7@gmail.com
+  encrypted_password: "$2a$10$LSmnWgaueGtPDG1tM920F.GCSPC7yAPvy/SNNiSSMEOlg4Hp2B85."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:01.433567000 Z
+  updated_at: 2016-01-23 23:33:01.433567000 Z
+  name: Kaylee Giese
+  confirmed_at: 2016-01-23 23:33:01.431775000 Z
+  invitations_count: 0
+  added: 08/15/2015
+  city: Windom, MN
+User_215:
+  id: 215
+  email: melcherdonna@gmail.com
+  encrypted_password: "$2a$10$DZsGmIGgNWkOaab2p9wpzOKaHtf3.U9bgcOurDpyzvUw5gfLli2Dq"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:01.530822000 Z
+  updated_at: 2016-01-23 23:33:01.530822000 Z
+  name: Donna Melcher
+  confirmed_at: 2016-01-23 23:33:01.529387000 Z
+  invitations_count: 0
+  added: Sept 8, 2015
+  city: Roswell, GA
+User_216:
+  id: 216
+  email: timmycox@yahoo.com
+  encrypted_password: "$2a$10$kQNV3OX4Ije/A0PAG3W7XumSvH8GDcdg9PhXuNkGsuYmD0ebaE71y"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:01.622883000 Z
+  updated_at: 2016-01-23 23:33:01.622883000 Z
+  name: Tim Cox
+  confirmed_at: 2016-01-23 23:33:01.621640000 Z
+  invitations_count: 0
+  added: 9/17/15
+  city: Akron, OH
+User_217:
+  id: 217
+  email: nathbergman@gmail.com
+  encrypted_password: "$2a$10$/Ilaf.cS2hyjb8L.xEbjmuOrSlMBmW/HOB5rS44Plm41i5nT/ODWG"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:01.716828000 Z
+  updated_at: 2016-01-23 23:33:01.716828000 Z
+  name: Nate Bergman
+  confirmed_at: 2016-01-23 23:33:01.715494000 Z
+  invitations_count: 0
+  added: 9-17-15
+  city: Cleveland, OH
+User_218:
+  id: 218
+  email: akindofbear@gmail.com
+  encrypted_password: "$2a$10$H0GLwoQfxyFo85z/QPKomu4iH3A29N5Mia.53TKP0INyPxBjuBepW"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:01.814874000 Z
+  updated_at: 2016-01-23 23:33:01.814874000 Z
+  name: panda
+  confirmed_at: 2016-01-23 23:33:01.813539000 Z
+  invitations_count: 0
+  added: 9/19/15
+  city: Austin, TX
+User_219:
+  id: 219
+  email: raegulator@hotmail.com
+  encrypted_password: "$2a$10$fphUo9HLjPwVQuGEylFhXOmF348fSu2hn8ALrGvOXF92sUkpHXZca"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:01.909828000 Z
+  updated_at: 2016-01-23 23:33:01.909828000 Z
+  name: Holly Abram
+  confirmed_at: 2016-01-23 23:33:01.908495000 Z
+  invitations_count: 0
+  added: 10/13/15
+  city: Akron, OH
+User_220:
+  id: 220
+  email: desertarc@hotmail.com
+  encrypted_password: "$2a$10$8rbq/pWrHP0BEq5tRlBOQOHk4Grucgw0Ws9BqNCg18Ki6hwsqtXCC"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:02.009561000 Z
+  updated_at: 2016-01-23 23:33:02.009561000 Z
+  name: DJ Desertarc
+  confirmed_at: 2016-01-23 23:33:02.007583000 Z
+  invitations_count: 0
+  added: 11/17/15
+  city: 'Springdale, UT '
+User_221:
+  id: 221
+  email: zeezivol@hotmail.com
+  encrypted_password: "$2a$10$huj.YEA3flbOmacyR8.MVeK9uZILXxI/wdteoYVv0t0PENtQahZ3C"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:02.100012000 Z
+  updated_at: 2016-01-23 23:33:02.100012000 Z
+  name: Deniese
+  confirmed_at: 2016-01-23 23:33:02.097802000 Z
+  invitations_count: 0
+  added: December 12, 2015
+  city: Akron, Ohio
+User_222:
+  id: 222
+  email: heart@sarahdavies.org
+  encrypted_password: "$2a$10$JKPCXmVEzB7lVjLO6fwVZ.oDIeUoZAa9bbvfCNx47GdOp63a5zgNm"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:02.199346000 Z
+  updated_at: 2016-01-23 23:33:02.199346000 Z
+  name: Sarah Davies
+  confirmed_at: 2016-01-23 23:33:02.197830000 Z
+  invitations_count: 0
+  added: August-12
+  city: London, UK
+User_223:
+  id: 223
+  email: rob.rockrose@verizon.net
+  encrypted_password: "$2a$10$xS1XTIGVycqupNAPzZ6FX.zc8O2/zZDQgIklX/IY9fGrIupDKYSkO"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:02.291044000 Z
+  updated_at: 2016-01-23 23:33:02.291044000 Z
+  name: Rob Lane
+  confirmed_at: 2016-01-23 23:33:02.289871000 Z
+  invitations_count: 0
+  added: August-12
+  city: Santa Barbara, CA
+User_224:
+  id: 224
+  email: hamidvankoten@gmail.com
+  encrypted_password: "$2a$10$PYGEmE6ncpFurWMPVtybj.1UDmsnyA1C4DnwLF3yBDaNJ/slAixJ."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:02.468562000 Z
+  updated_at: 2016-01-23 23:33:02.468562000 Z
+  name: Hamid
+  confirmed_at: 2016-01-23 23:33:02.467277000 Z
+  invitations_count: 0
+  added: September-12
+  city: Totnes, UK
+User_225:
+  id: 225
+  email: cory.payne@gmail.com
+  encrypted_password: "$2a$10$AmvrVe9S65RRRwgmElW6vu6CNWEuguYiIjE6usvBpXZ9H3CXbtACC"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:02.567165000 Z
+  updated_at: 2016-01-23 23:33:02.567165000 Z
+  name: Cory Payne
+  confirmed_at: 2016-01-23 23:33:02.565861000 Z
+  invitations_count: 0
+  added: September-12
+  city: Edmonton, Canada
+User_226:
+  id: 226
+  email: elementsofmovement@yahoo.com
+  encrypted_password: "$2a$10$7Su0yX5BlqLayPJIvfRmQ.KzcEMEOMMf2RtMFqAk7QA6aVHIwJUFm"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:02.666514000 Z
+  updated_at: 2016-01-23 23:33:02.666514000 Z
+  name: J BURNER
+  confirmed_at: 2016-01-23 23:33:02.663455000 Z
+  invitations_count: 0
+  added: September-12
+  city: San Rafael, CA
+User_227:
+  id: 227
+  email: visudha@moveandbemoved.net
+  encrypted_password: "$2a$10$rMS2xFLcRdRwN5POH8yZS.Am/IVulNvJJ6j.stsKlMe31pIF9nXXS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:02.767655000 Z
+  updated_at: 2016-01-23 23:33:02.767655000 Z
+  name: DJ V
+  confirmed_at: 2016-01-23 23:33:02.766391000 Z
+  invitations_count: 0
+  added: September-12
+  city: Taos, NM
+User_228:
+  id: 228
+  email: dolphnjen@aol.com
+  encrypted_password: "$2a$10$30YbOrAXSaDUrLMpZzJDduMO0YfKBTeU9w.zqVDzI8Ty0sM8iyETS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:02.863680000 Z
+  updated_at: 2016-01-23 23:33:02.863680000 Z
+  name: Dolphin Jen
+  confirmed_at: 2016-01-23 23:33:02.862166000 Z
+  invitations_count: 0
+  added: October-12
+  city: Santa Cruz, CA
+User_229:
+  id: 229
+  email: laura.farner@gmail.com
+  encrypted_password: "$2a$10$6XiUUMq3f20A0heCVo3MG.LXxrVQQFJzYatYtHIf2QlbGiBSTpiau"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:02.952690000 Z
+  updated_at: 2016-01-23 23:33:02.952690000 Z
+  name: Laura Farner
+  confirmed_at: 2016-01-23 23:33:02.951057000 Z
+  invitations_count: 0
+  added: October-12
+  city: Salem, OR
+User_230:
+  id: 230
+  email: liz@waves-studio.com
+  encrypted_password: "$2a$10$jO/V.Et1b7k1HntucXodRud53yFEsszX6SP.9XPHvkVRcgSg7Kxre"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:03.051726000 Z
+  updated_at: 2016-01-23 23:33:03.051726000 Z
+  name: Liz Temple
+  confirmed_at: 2016-01-23 23:33:03.047138000 Z
+  invitations_count: 0
+  added: October-12
+  city: Olympia, WA
+User_231:
+  id: 231
+  email: peter.wilberforce@gmail.com
+  encrypted_password: "$2a$10$GoUPD7oFh1kS7e/q8M17POFCCbE1/TCxhl9qvh5KytOumFVdCYTLG"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:03.149377000 Z
+  updated_at: 2016-01-23 23:33:03.149377000 Z
+  name: Peter Wilberforce
+  confirmed_at: 2016-01-23 23:33:03.148024000 Z
+  invitations_count: 0
+  added: October-12
+  city: Paris, France
+User_232:
+  id: 232
+  email: 2013design@gmail.com
+  encrypted_password: "$2a$10$fTCNn.TcCiaF52Ee014z9eEM7TjbvRjsAo5weLvEbFoQE0.8so1eK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:03.242029000 Z
+  updated_at: 2016-01-23 23:33:03.242029000 Z
+  name: Jason Keen (Sound Centrifuge)
+  confirmed_at: 2016-01-23 23:33:03.240274000 Z
+  invitations_count: 0
+  added: October-12
+  city: Los Osos, CA
+User_233:
+  id: 233
+  email: thesoniccircle@gmail.com
+  encrypted_password: "$2a$10$JY1j1y7..EAZ0QmaaNwaS.uPAXI7qNTFkrRHOTNFGBUMmcQaQz1eS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:03.337284000 Z
+  updated_at: 2016-01-23 23:33:03.337284000 Z
+  name: DJ AC
+  confirmed_at: 2016-01-23 23:33:03.335509000 Z
+  invitations_count: 0
+  added: October-12
+  city: New York, NY
+User_234:
+  id: 234
+  email: fluidfeet@gmail.com
+  encrypted_password: "$2a$10$93uzuIbqfJ4.MO/Pt0qkuemkFhk3lmAmjHV64BWM84guOliTbyIji"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:03.437399000 Z
+  updated_at: 2016-01-23 23:33:03.437399000 Z
+  name: erik iversen
+  confirmed_at: 2016-01-23 23:33:03.436081000 Z
+  invitations_count: 0
+  added: October-12
+  city: Montreal, Canada
+User_235:
+  id: 235
+  email: carolina.rudas@gmail.com
+  encrypted_password: "$2a$10$q.IbzHuVUvIfdFqHZCzjLu0DAOzxyEAIjN95v1MEEKk94rV5yqBrO"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:03.532056000 Z
+  updated_at: 2016-01-23 23:33:03.532056000 Z
+  name: Carolina Rudas
+  confirmed_at: 2016-01-23 23:33:03.530369000 Z
+  invitations_count: 0
+  added: October-12
+  city: Bogota,  Colombia
+User_236:
+  id: 236
+  email: michael@spiritweaves.com
+  encrypted_password: "$2a$10$fm.PGyTtxNKOeTM8nuvFteg9UMLyZVHdoRGHKWWn2Q6ngj8K8tJM2"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:03.622560000 Z
+  updated_at: 2016-01-23 23:33:03.622560000 Z
+  name: michael molin-skelton
+  confirmed_at: 2016-01-23 23:33:03.620997000 Z
+  invitations_count: 0
+  added: November-12
+  city: Los Angeles, CA
+User_237:
+  id: 237
+  email: lbaker296@gmail.com
+  encrypted_password: "$2a$10$tm2XU6sLYavsghpWoQyQ0OsrS8R/cWrSbz/5grE0txnQ9oUdfgz92"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:03.736207000 Z
+  updated_at: 2016-01-23 23:33:03.736207000 Z
+  name: Lindsay Baker
+  confirmed_at: 2016-01-23 23:33:03.731040000 Z
+  invitations_count: 0
+  added: December-12
+  city: Portland, OR
+User_238:
+  id: 238
+  email: harry@massey.info
+  encrypted_password: "$2a$10$2McF3GIHaQe68.7c4SYUzOavZkFoSUVPFDArOLUtRe1j5R8uShOtK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:03.858736000 Z
+  updated_at: 2016-01-23 23:33:03.858736000 Z
+  name: harry massey
+  confirmed_at: 2016-01-23 23:33:03.856399000 Z
+  invitations_count: 0
+  added: December-12
+  city: Santa Cruz, CA
+User_239:
+  id: 239
+  email: djmaldonado2@yahoo.com
+  encrypted_password: "$2a$10$l6cRLoJBEo1wIsNIJ0/.BOlumZaZWkKry.TzazLJ63GgqYzHQGDnC"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:03.956675000 Z
+  updated_at: 2016-01-23 23:33:03.956675000 Z
+  name: SoulDance
+  confirmed_at: 2016-01-23 23:33:03.955143000 Z
+  invitations_count: 0
+  added: December-12
+  city: Albuquerque, NM
+User_240:
+  id: 240
+  email: aumtara@yahoo.com
+  encrypted_password: "$2a$10$2/.Y5bNqGsHM8antDIXrd.WvcAatfQmFiA21WJzbwveVhl9TtXWYu"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:04.047317000 Z
+  updated_at: 2016-01-23 23:33:04.047317000 Z
+  name: Helen Morgan
+  confirmed_at: 2016-01-23 23:33:04.045794000 Z
+  invitations_count: 0
+  added: December-12
+  city: Berkeley, CA
+User_241:
+  id: 241
+  email: catrinavonradecki@gmail.com
+  encrypted_password: "$2a$10$5kwK2gKOoZIUzHxVhy0AZOzY7lRLEVma0Hc1XSRXZOoQtKHM4Rwwa"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:04.147937000 Z
+  updated_at: 2016-01-23 23:33:04.147937000 Z
+  name: Catrina von Radecki
+  confirmed_at: 2016-01-23 23:33:04.143539000 Z
+  invitations_count: 0
+  added: January-13
+  city: Guelph, Ontario, Canada
+User_242:
+  id: 242
+  email: echoimaging@gmail.com
+  encrypted_password: "$2a$10$G6q4SmF7Z16lYcP1Qfl8i.uAA9vlk1O.CnBwpYKcxs1VDVbKXFctS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:04.257009000 Z
+  updated_at: 2016-01-23 23:33:04.257009000 Z
+  name: Paul Deering
+  confirmed_at: 2016-01-23 23:33:04.255469000 Z
+  invitations_count: 0
+  added: January-13
+  city: Eugene, OR
+User_243:
+  id: 243
+  email: sing@templeofsong.com
+  encrypted_password: "$2a$10$1YXY6uYmCrROoDb67r.THOoaLF/605lwtw/HSbbglN8cmhAmZh946"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:04.351312000 Z
+  updated_at: 2016-01-23 23:33:04.351312000 Z
+  name: Maniko
+  confirmed_at: 2016-01-23 23:33:04.350083000 Z
+  invitations_count: 0
+  added: January-13
+  city: Nevada City, CA
+User_244:
+  id: 244
+  email: heart.be.danced@gmail.com
+  encrypted_password: "$2a$10$pIwEh4FumPCp4bohoLmp7OzLKZytfFB8.9w/DlSfZyow6CgIZFjki"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:04.439297000 Z
+  updated_at: 2016-01-23 23:33:04.439297000 Z
+  name: Christi Louise
+  confirmed_at: 2016-01-23 23:33:04.438081000 Z
+  invitations_count: 0
+  added: January-13
+  city: Kapaa, Kauai
+User_245:
+  id: 245
+  email: sueusher@comcast.net
+  encrypted_password: "$2a$10$RMQS6Olfp4.IFa77Ti1rZeMGc2BuD.WaUybptDmGw5gAc2dDlekIK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:04.527873000 Z
+  updated_at: 2016-01-23 23:33:04.527873000 Z
+  name: susan usher
+  confirmed_at: 2016-01-23 23:33:04.526695000 Z
+  invitations_count: 0
+  added: January-13
+  city: Seattle, WA
+User_246:
+  id: 246
+  email: marisurimoldi@gmail.com
+  encrypted_password: "$2a$10$xuwGMqolx/faNUGkaKk8e.4.OFHRIyJgnDR1W76vsJaXAIgg8liE2"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:04.618783000 Z
+  updated_at: 2016-01-23 23:33:04.618783000 Z
+  name: Marisu Rimoldi
+  confirmed_at: 2016-01-23 23:33:04.616681000 Z
+  invitations_count: 0
+  added: January-13
+  city: Buenos Aires, Argentina
+User_247:
+  id: 247
+  email: francis@returntoinnocence.org.uk
+  encrypted_password: "$2a$10$qIJS0uwmFCTXLpuuw3pNEu.1e72mdevyiaQv341GdZh7rjv.qSnzm"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:04.709288000 Z
+  updated_at: 2016-01-23 23:33:04.709288000 Z
+  name: Return To Innocence
+  confirmed_at: 2016-01-23 23:33:04.707942000 Z
+  invitations_count: 0
+  added: January-13
+  city: Hebden Bridge, UK
+User_248:
+  id: 248
+  email: inspiredearthprojects@gmail.com
+  encrypted_password: "$2a$10$Ph18z1eRPzGXRul5OGMAaeIlvxhmqejFsrA5rnu150UVCzoVYuCGC"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:04.803393000 Z
+  updated_at: 2016-01-23 23:33:04.803393000 Z
+  name: Helen Pattinson
+  confirmed_at: 2016-01-23 23:33:04.802190000 Z
+  invitations_count: 0
+  added: January-13
+  city: Courtenay, Vancouver Island, BC
+User_249:
+  id: 249
+  email: tylerkinetics@gmail.com
+  encrypted_password: "$2a$10$Fk5L6s/3.SduzBVP3xStoe7pg6N4xZW6Q.1Dn0g4Rm3B.lOnT.9iq"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:04.903287000 Z
+  updated_at: 2016-01-23 23:33:04.903287000 Z
+  name: DJ JT
+  confirmed_at: 2016-01-23 23:33:04.899064000 Z
+  invitations_count: 0
+  added: January-13
+  city: San Luis Obispo, CA
+User_250:
+  id: 250
+  email: yogaflo@charter.net
+  encrypted_password: "$2a$10$10Qu8OQvaQsoJmbCENvpPOexlvL2J59QYS/I9FKeGAxNDfO0gQxIG"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:04.997048000 Z
+  updated_at: 2016-01-23 23:33:04.997048000 Z
+  name: Patti Schimberg (Indigenous)
+  confirmed_at: 2016-01-23 23:33:04.995465000 Z
+  invitations_count: 0
+  added: January-13
+  city: Cambria, CA
+User_251:
+  id: 251
+  email: sindre@hathayoga.no
+  encrypted_password: "$2a$10$k45oNyq5fRXMjENfA5kxDeFuetOpxmgRFj2zpc8iGTLvCe0QCfcs6"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:05.081020000 Z
+  updated_at: 2016-01-23 23:33:05.081020000 Z
+  name: Sindre Vasu
+  confirmed_at: 2016-01-23 23:33:05.079527000 Z
+  invitations_count: 0
+  added: February-13
+  city: Oslo, Norway
+User_252:
+  id: 252
+  email: chris.camp@cambiamento.be
+  encrypted_password: "$2a$10$m9oSVdKfd1JvsoRuythptOQ9jCcJpEak0eo5lxl93Fc2RtbOAemGa"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:05.164042000 Z
+  updated_at: 2016-01-23 23:33:05.164042000 Z
+  name: Chris Camp
+  confirmed_at: 2016-01-23 23:33:05.162726000 Z
+  invitations_count: 0
+  added: February-13
+  city: Leuven, Belgium
+User_253:
+  id: 253
+  email: kennwstratton@charter.net
+  encrypted_password: "$2a$10$l5bdwQIPKrPHOzpBm7Rveeyh9pvMTd8jdRtOja5Vs/UrHstABLILe"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:05.246465000 Z
+  updated_at: 2016-01-23 23:33:05.246465000 Z
+  name: Sir Ken of Nth - Ken Stratton
+  confirmed_at: 2016-01-23 23:33:05.245121000 Z
+  invitations_count: 0
+  added: February-13
+  city: San Luis Obispo, CA
+User_254:
+  id: 254
+  email: gregory@intolight.biz
+  encrypted_password: "$2a$10$tnruKceKyD42ei7vhtKrm.s1Y5eht8gi8MBoFMbuDk9.NUCbzOaV6"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:05.331399000 Z
+  updated_at: 2016-01-23 23:33:05.331399000 Z
+  name: intolight
+  confirmed_at: 2016-01-23 23:33:05.330088000 Z
+  invitations_count: 0
+  added: February-13
+  city: Templeton, CA
+User_255:
+  id: 255
+  email: kbunting@gmail.com
+  encrypted_password: "$2a$10$sm1yKvDVVn/5gnpPvo1FHeR7SMUuWBdA.2urYiNBviJ7ulkYrc5S2"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:05.413906000 Z
+  updated_at: 2016-01-23 23:33:05.413906000 Z
+  name: Kara Bunting
+  confirmed_at: 2016-01-23 23:33:05.412539000 Z
+  invitations_count: 0
+  added: February-13
+  city: Reno, NV
+User_256:
+  id: 256
+  email: finekari@online.no
+  encrypted_password: "$2a$10$rvAswRR6h.h2O15sSFxO6e76Mn7vjukVI706txtKpOZ4svkRJMOUa"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:05.499031000 Z
+  updated_at: 2016-01-23 23:33:05.499031000 Z
+  name: Kari Winge
+  confirmed_at: 2016-01-23 23:33:05.497588000 Z
+  invitations_count: 0
+  added: February-13
+  city: Nesoddtangen, Norway
+User_257:
+  id: 257
+  email: inbalski@gmail.com
+  encrypted_password: "$2a$10$1Pf.woDWB7czsZtH2wyr7un8hD96D2uStJb5sgNTzFaegLtg3KSZG"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:05.581527000 Z
+  updated_at: 2016-01-23 23:33:05.581527000 Z
+  name: inbal
+  confirmed_at: 2016-01-23 23:33:05.580282000 Z
+  invitations_count: 0
+  added: March-13
+  city: nomadic
+User_258:
+  id: 258
+  email: deirdre.midwife@myfairpoint.net
+  encrypted_password: "$2a$10$csxhHzBfp6XqdzWjZFj6PO1/VYqs4MlmWgwTHCG5s2Qs.93xGuMyG"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:05.666815000 Z
+  updated_at: 2016-01-23 23:33:05.666815000 Z
+  name: Deirdre Sulka/Meister
+  confirmed_at: 2016-01-23 23:33:05.665564000 Z
+  invitations_count: 0
+  added: March-13
+  city: Portland, ME
+User_259:
+  id: 259
+  email: fredburks@gmail.com
+  encrypted_password: "$2a$10$2X.KUWSGdByGznxm1ni4HOHtNtQw8XikPl2LPPhdTs9kKMpuAZsZy"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:05.749901000 Z
+  updated_at: 2016-01-23 23:33:05.749901000 Z
+  name: Fred Burks
+  confirmed_at: 2016-01-23 23:33:05.748678000 Z
+  invitations_count: 0
+  added: March-13
+  city: Berkeley, CA
+User_260:
+  id: 260
+  email: touchingmedicine@gmail.com
+  encrypted_password: "$2a$10$cRq.RrXVa5rge6Ls4UeA6..nWyp2rcsXRweyQMAFIwqTmsE/icbMi"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:05.832290000 Z
+  updated_at: 2016-01-23 23:33:05.832290000 Z
+  name: Jeff Rockwell
+  confirmed_at: 2016-01-23 23:33:05.830943000 Z
+  invitations_count: 0
+  added: March-13
+  city: Santa Cruz, CA
+User_261:
+  id: 261
+  email: raisa@villataika.fi
+  encrypted_password: "$2a$10$pDtIj63fDx8bvTtCWVwu9.r/JWTOKkVceAK3A17KjIdMlnGOdetAq"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:05.916294000 Z
+  updated_at: 2016-01-23 23:33:05.916294000 Z
+  name: Raisa KaipainenDJ Feelgood
+  confirmed_at: 2016-01-23 23:33:05.914959000 Z
+  invitations_count: 0
+  added: April-13
+  city: Antskog, Finland
+User_262:
+  id: 262
+  email: julia@yoga-vibe.com
+  encrypted_password: "$2a$10$PAHBrKO4M9ic50rfzU2LZ.xiq3h5MS/bKmPxleN4QfgbYtbMKDshS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:05.997246000 Z
+  updated_at: 2016-01-23 23:33:05.997246000 Z
+  name: Julia
+  confirmed_at: 2016-01-23 23:33:05.995855000 Z
+  invitations_count: 0
+  added: April-13
+  city: Toronto, Canada
+User_263:
+  id: 263
+  email: djencounter1200@gmail.com
+  encrypted_password: "$2a$10$cqH5c1xrznNlRDMfTCIcfugwYvTPN6kf5WoUTq7QC1oS0yekF.WQu"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:06.080517000 Z
+  updated_at: 2016-01-23 23:33:06.080517000 Z
+  name: Brady Hill
+  confirmed_at: 2016-01-23 23:33:06.078997000 Z
+  invitations_count: 0
+  added: April-13
+  city: Saint Paul, MN
+User_264:
+  id: 264
+  email: dj.wright@comcast.net
+  encrypted_password: "$2a$10$7wpamWlLyplRJEkikTrxZejvLwUpdwErTeVp6L5K223Sax0RTZmWK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:06.161785000 Z
+  updated_at: 2016-01-23 23:33:06.161785000 Z
+  name: debi wright
+  confirmed_at: 2016-01-23 23:33:06.160462000 Z
+  invitations_count: 0
+  added: May-13
+  city: Minneapolis, MN
+User_265:
+  id: 265
+  email: deborahdesilets@shaw.ca
+  encrypted_password: "$2a$10$HTqBDB/dPhUZnXrWt9tRhOJLkb4XfL6HkLjKa9Oy9LJVS0wBfNfrG"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:06.252705000 Z
+  updated_at: 2016-01-23 23:33:06.252705000 Z
+  name: Deborah Desilets
+  confirmed_at: 2016-01-23 23:33:06.251403000 Z
+  invitations_count: 0
+  added: May-13
+  city: Nelson, Canada
+User_266:
+  id: 266
+  email: alisonmoultrie@gmail.com
+  encrypted_password: "$2a$10$jy6iwioTdU7/nmpp9yDld.BRw09zlQJFvdIvEUUSF.Gj0Q2qOqYZa"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:06.338484000 Z
+  updated_at: 2016-01-23 23:33:06.338484000 Z
+  name: Alison Moultrie
+  confirmed_at: 2016-01-23 23:33:06.337018000 Z
+  invitations_count: 0
+  added: May-13
+  city: Johannesburg, South Africa
+User_267:
+  id: 267
+  email: artist@dancingeyes.com
+  encrypted_password: "$2a$10$z1Tsu.nP6k0/mALPSPdBTeTKki3QulM8fcWBtu4d1VDhGF9iYO1dG"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:06.429046000 Z
+  updated_at: 2016-01-23 23:33:06.429046000 Z
+  name: Bryan Dechter
+  confirmed_at: 2016-01-23 23:33:06.427797000 Z
+  invitations_count: 0
+  added: July-13
+  city: Zionville, NC
+User_268:
+  id: 268
+  email: jkilis@yahoo.com
+  encrypted_password: "$2a$10$EeGx./vwv2KWzRHaabDLOudjZZOFTq3kK8rMy724WAvCIdSZUOR1i"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:06.523271000 Z
+  updated_at: 2016-01-23 23:33:06.523271000 Z
+  name: DJ K
+  confirmed_at: 2016-01-23 23:33:06.521993000 Z
+  invitations_count: 0
+  added: July-13
+  city: Flagstaff, AZ
+User_269:
+  id: 269
+  email: tam@tamaragerlach.com
+  encrypted_password: "$2a$10$0jNCZtA0kLTCSx3aE6HedOot.8COu1e0bR4z2S48JodRXNNGKrWcO"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:06.613789000 Z
+  updated_at: 2016-01-23 23:33:06.613789000 Z
+  name: Tamara Gerlach
+  confirmed_at: 2016-01-23 23:33:06.612551000 Z
+  invitations_count: 0
+  added: July-13
+  city: Martinez, CA
+User_270:
+  id: 270
+  email: donna@donnastarnes.com
+  encrypted_password: "$2a$10$J7RnXKXaueohmX0ho43FFeKLlrbsVTo/2lgSbsuW7.rDRHhbSG4ma"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:06.698989000 Z
+  updated_at: 2016-01-23 23:33:06.698989000 Z
+  name: Donna
+  confirmed_at: 2016-01-23 23:33:06.697723000 Z
+  invitations_count: 0
+  added: July-13
+  city: Austin, TX
+User_271:
+  id: 271
+  email: heidipendergast@hotmail.com
+  encrypted_password: "$2a$10$gmcfspSkbCEomMG09/JO/u7RWQvfMdw0Pr2OzHoxz8cu/UrNwT3AO"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:06.783132000 Z
+  updated_at: 2016-01-23 23:33:06.783132000 Z
+  name: Heidi Pendergast
+  confirmed_at: 2016-01-23 23:33:06.781801000 Z
+  invitations_count: 0
+  added: October-13
+  city: Athens, OH
+User_272:
+  id: 272
+  email: maile@mailestones.com
+  encrypted_password: "$2a$10$ibhamYALQz964iaS1Kozw.Re4.PpA.JA7aq7yv33PFH.AzUvY21rG"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:06.868476000 Z
+  updated_at: 2016-01-23 23:33:06.868476000 Z
+  name: StoneDevi
+  confirmed_at: 2016-01-23 23:33:06.867051000 Z
+  invitations_count: 0
+  added: October-13
+  city: Santa Barbara, CA
+User_273:
+  id: 273
+  email: stellaurangel@shaw.ca
+  encrypted_password: "$2a$10$ayZbw4LliPTHEZayS0Mgl.s419aXt.XOazsHCObSZeP5x3nA4ef3u"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:06.953219000 Z
+  updated_at: 2016-01-23 23:33:06.953219000 Z
+  name: 'Stellaurangel  - Laura '
+  confirmed_at: 2016-01-23 23:33:06.952013000 Z
+  invitations_count: 0
+  added: October-13
+  city: Duncan, BC, Canada
+User_274:
+  id: 274
+  email: spirit1985@aol.com
+  encrypted_password: "$2a$10$yo66C1oc3POUYqHRCaFunOa3Zt0AXhEcY7f75e4YGbV61sMA4uKHK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:07.044075000 Z
+  updated_at: 2016-01-23 23:33:07.044075000 Z
+  name: Leila
+  confirmed_at: 2016-01-23 23:33:07.042860000 Z
+  invitations_count: 0
+  added: November-13
+  city: nomadic
+User_275:
+  id: 275
+  email: andrew.holmes@clara.co.uk
+  encrypted_password: "$2a$10$oo3dh3yDhfrCV7.E4QrU9.d2K8avub0jjmcaZXFJsm/JUGgwiiDL."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:07.138237000 Z
+  updated_at: 2016-01-23 23:33:07.138237000 Z
+  name: andrew holmes
+  confirmed_at: 2016-01-23 23:33:07.136526000 Z
+  invitations_count: 0
+  added: December-13
+  city: Stroud, UK
+User_276:
+  id: 276
+  email: fijawa@gmail.com
+  encrypted_password: "$2a$10$5t/gRDOb9V9xK9zLlJpqIOU760.yRyogTrBGE40oo87zqLbAJAuYy"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:07.232477000 Z
+  updated_at: 2016-01-23 23:33:07.232477000 Z
+  name: fijawa
+  confirmed_at: 2016-01-23 23:33:07.230984000 Z
+  invitations_count: 0
+  added: December-13
+  city: Auckland, NZ
+User_277:
+  id: 277
+  email: joannacashman@gmail.com
+  encrypted_password: "$2a$10$ssAFABY3.lDRCRrQKYmrt.RnABUuGejpisvRchIzEgiZCweJCfhG."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:07.315353000 Z
+  updated_at: 2016-01-23 23:33:07.315353000 Z
+  name: Joanna Cashman
+  confirmed_at: 2016-01-23 23:33:07.313849000 Z
+  invitations_count: 0
+  added: December-13
+  city: Bend, OR
+User_278:
+  id: 278
+  email: mike.yaunish@gmail.com
+  encrypted_password: "$2a$10$cLnQN1j4iIG7IvjDbGZezuiBaKoZBlCaOZAkUiPssgGoBvri/AsGS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:07.404904000 Z
+  updated_at: 2016-01-23 23:33:07.404904000 Z
+  name: Mike Yaunish
+  confirmed_at: 2016-01-23 23:33:07.401836000 Z
+  invitations_count: 0
+  added: January-14
+  city: Calgary, Canada
+User_279:
+  id: 279
+  email: antony@la-murta.eu
+  encrypted_password: "$2a$10$4aoaep.7LSge6ccaYc1zM.6WYfgG2zcCdMAs2kHdeUA0tl.ypUWMy"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:07.489578000 Z
+  updated_at: 2016-01-23 23:33:07.489578000 Z
+  name: Antony Dennis
+  confirmed_at: 2016-01-23 23:33:07.488316000 Z
+  invitations_count: 0
+  added: January-14
+  city: Alicante, Spain
+User_280:
+  id: 280
+  email: jreneau@sangerisd.net
+  encrypted_password: "$2a$10$XDjniShUbNHgKfxgXF24vuRlozKvOGsM5vUK5vJA04F2VvI8UKb6q"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:07.575649000 Z
+  updated_at: 2016-01-23 23:33:07.575649000 Z
+  name: jamie reneau
+  confirmed_at: 2016-01-23 23:33:07.574044000 Z
+  invitations_count: 0
+  added: January-14
+  city: Krum, TX
+User_281:
+  id: 281
+  email: sulabula2u@gmail.com
+  encrypted_password: "$2a$10$RmAxgjyLxFWx6COQ/V8wfeq4Yg8OD.rMcckH0.jhF61GkaAw5Lw/e"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:07.660993000 Z
+  updated_at: 2016-01-23 23:33:07.660993000 Z
+  name: Su La
+  confirmed_at: 2016-01-23 23:33:07.659768000 Z
+  invitations_count: 0
+  added: January-14
+  city: Nomadic
+User_282:
+  id: 282
+  email: kathrod@aol.com
+  encrypted_password: "$2a$10$m9nEI5j.4a1yl5qua/UH0OSLASM/L647ceZd2tBQ4LomyfZlu.LVG"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:07.754792000 Z
+  updated_at: 2016-01-23 23:33:07.754792000 Z
+  name: Kathleen Vought
+  confirmed_at: 2016-01-23 23:33:07.753456000 Z
+  invitations_count: 0
+  added: March-14
+  city: Santa Rosa, CA
+User_283:
+  id: 283
+  email: grossman.jeremy@gmail.com
+  encrypted_password: "$2a$10$ijSywlKNrijMDX/f42I7guyGRE5SRkIswvyLvefooRZkBro.FtQfu"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:07.839431000 Z
+  updated_at: 2016-01-23 23:33:07.839431000 Z
+  name: Jeremy Grossman
+  confirmed_at: 2016-01-23 23:33:07.837506000 Z
+  invitations_count: 0
+  added: March-14
+  city: Nomad
+User_284:
+  id: 284
+  email: liz@awakenyourbliss.com
+  encrypted_password: "$2a$10$OccfddfHF/UJ18Bhfufjou0tjGNUzKDvs/8cjnrdHtC7WXYd/I6BW"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:07.935597000 Z
+  updated_at: 2016-01-23 23:33:07.935597000 Z
+  name: Liz Diaz
+  confirmed_at: 2016-01-23 23:33:07.932811000 Z
+  invitations_count: 0
+  added: March-14
+  city: Toronto, Canada
+User_285:
+  id: 285
+  email: scottdavistcm@gmail.com
+  encrypted_password: "$2a$10$.9xeLOn4LwZjPP5aB4YX0OM0gOARynjXjLkpmj6i0dYPD5pZ2DeUW"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:08.024931000 Z
+  updated_at: 2016-01-23 23:33:08.024931000 Z
+  name: 'Scott Davis '
+  confirmed_at: 2016-01-23 23:33:08.023536000 Z
+  invitations_count: 0
+  added: March-14
+  city: Toronto, Canada
+User_286:
+  id: 286
+  email: kurt@truckterminals.com
+  encrypted_password: "$2a$10$b/k7k9zFRfAzg0e/7sicV.g/a8b3BUlZon9jx6l8mgWirdcoP.Gqm"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:08.111870000 Z
+  updated_at: 2016-01-23 23:33:08.111870000 Z
+  name: Kurt Forsthoefel
+  confirmed_at: 2016-01-23 23:33:08.109622000 Z
+  invitations_count: 0
+  added: April-14
+  city: Akron, OH
+User_287:
+  id: 287
+  email: brendacolfer@gmail.com
+  encrypted_password: "$2a$10$R/22uaDX.12E0Dqzr9h3ReUu05ddBQBsded87.5YAXJ1LTSMAWyt."
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:08.202601000 Z
+  updated_at: 2016-01-23 23:33:08.202601000 Z
+  name: Brenda Colfer
+  confirmed_at: 2016-01-23 23:33:08.201316000 Z
+  invitations_count: 0
+  added: April-14
+  city: Farmingdale, ME
+User_288:
+  id: 288
+  email: udo@movementpresence.com
+  encrypted_password: "$2a$10$usfXXELs5uyXsYqP.LXTVO1L6SFqEs4HeRAEV2UMsG35Uahd1O.WK"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:08.373112000 Z
+  updated_at: 2016-01-23 23:33:08.373112000 Z
+  name: Udo Leiteritz
+  confirmed_at: 2016-01-23 23:33:08.371753000 Z
+  invitations_count: 0
+  added: April-14
+  city: Berlin, Germany
+User_289:
+  id: 289
+  email: dance-at@dsl.pipex.com
+  encrypted_password: "$2a$10$luaBmQm9ORQ2o7rJehZGa.M5Mx.i0B/B/4PJOvX7glrnWT7HyWEHi"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:08.465274000 Z
+  updated_at: 2016-01-23 23:33:08.465274000 Z
+  name: Robert M
+  confirmed_at: 2016-01-23 23:33:08.464046000 Z
+  invitations_count: 0
+  added: April-14
+  city: Totnes, England
+User_290:
+  id: 290
+  email: kathyoravec@gmail.com
+  encrypted_password: "$2a$10$wBO/ZwFoCVBunPfLjedkAeB9m6mQGPLlFfPKHeod9ZKyQzis2BfGG"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:08.549573000 Z
+  updated_at: 2016-01-23 23:33:08.549573000 Z
+  name: Kathy Oravec
+  confirmed_at: 2016-01-23 23:33:08.548110000 Z
+  invitations_count: 0
+  added: May-14
+  city: Sarasota, FL
+User_291:
+  id: 291
+  email: punkypug@gmail.com
+  encrypted_password: "$2a$10$eIupugmSHYrfAnlXWKmaR.7oZrnurqAMLdy1bcNNSgR5So5OHdn6S"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:08.634508000 Z
+  updated_at: 2016-01-23 23:33:08.634508000 Z
+  name: Liz Orazi
+  confirmed_at: 2016-01-23 23:33:08.633234000 Z
+  invitations_count: 0
+  added: May-14
+  city: Earlysville, VA
+User_292:
+  id: 292
+  email: 1enchanteddancer@gmail.com
+  encrypted_password: "$2a$10$p2eMm2YGLSgqK3mp3r3EIOC.tp8ZICajHlMNPKPV8u40Ra0O05fNq"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:08.718000000 Z
+  updated_at: 2016-01-23 23:33:08.718000000 Z
+  name: Juliette Kunin
+  confirmed_at: 2016-01-23 23:33:08.716724000 Z
+  invitations_count: 0
+  added: June-14
+  city: Nevada City, CA
+User_293:
+  id: 293
+  email: souls.alive@gmail.com
+  encrypted_password: "$2a$10$0x8wI72.GmgUlMMqsw45oe4dfJu1EgRUngj2NeKMm9PzPtXD6a5ei"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:08.800727000 Z
+  updated_at: 2016-01-23 23:33:08.800727000 Z
+  name: Karen
+  confirmed_at: 2016-01-23 23:33:08.799410000 Z
+  invitations_count: 0
+  added: July-14
+  city: Toronto, Canada
+User_294:
+  id: 294
+  email: jana.stettner@gmail.com
+  encrypted_password: "$2a$10$MLt3zX.UaIYeBleAFTwpROy20ej9x6AA8CVOSIOUUj6xjkYJqBicq"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:08.881552000 Z
+  updated_at: 2016-01-23 23:33:08.881552000 Z
+  name: Jana Stettner
+  confirmed_at: 2016-01-23 23:33:08.880276000 Z
+  invitations_count: 0
+  added: August-14
+  city: Regina, Saskatchewan, Canada
+User_295:
+  id: 295
+  email: kaimanacontact@gmail.com
+  encrypted_password: "$2a$10$haSRwSlQqjr07B6539.R7.prXAO5WJU/KiLMWJpgBHrnxhwrqWdXy"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:08.964252000 Z
+  updated_at: 2016-01-23 23:33:08.964252000 Z
+  name: Kai Mana (Mukthi DJ)
+  confirmed_at: 2016-01-23 23:33:08.963024000 Z
+  invitations_count: 0
+  added: Sept. 27, 2014
+  city: Edmonton, Canada
+User_296:
+  id: 296
+  email: adiem77@gmail.com
+  encrypted_password: "$2a$10$TjHFZezEelNTNfGIQsvlf.6amN4o9/tc3RWj895sB4ijrKmgQ/zQG"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:09.045152000 Z
+  updated_at: 2016-01-23 23:33:09.045152000 Z
+  name: Adrian Mornaila
+  confirmed_at: 2016-01-23 23:33:09.043741000 Z
+  invitations_count: 0
+  added: October-14
+  city: Annerley, Australia
+User_297:
+  id: 297
+  email: mak000@mail.ru
+  encrypted_password: "$2a$10$6jbBV5CegTQI.Z5Z6O2W..JxCo9n3goZY7VWkMq7w7N/I/Mg3YySS"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:09.128382000 Z
+  updated_at: 2016-01-23 23:33:09.128382000 Z
+  name: Mikhail Kozhatkin
+  confirmed_at: 2016-01-23 23:33:09.126903000 Z
+  invitations_count: 0
+  added: March-14
+  city: Moscow,Russia
+User_298:
+  id: 298
+  email: kpense@yahoo.com
+  encrypted_password: "$2a$10$ySrdoyNQspVjpOQL3YZtgeUZ9ak84vrB2GRK5jbAFGIs7Ytm.s4W2"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:09.218791000 Z
+  updated_at: 2016-01-23 23:33:09.218791000 Z
+  name: Kendra Coakley
+  confirmed_at: 2016-01-23 23:33:09.217057000 Z
+  invitations_count: 0
+  added: November-14
+  city: Ohio
+User_299:
+  id: 299
+  email: lindadempsey@hotmail.com
+  encrypted_password: "$2a$10$63UpWBTKaavqDir1ttT2New28lIkDPYwfozHFg5fesMhoxx01qUDi"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:09.308985000 Z
+  updated_at: 2016-01-23 23:33:09.308985000 Z
+  name: Linda Dempsey
+  confirmed_at: 2016-01-23 23:33:09.307756000 Z
+  invitations_count: 0
+  added: October-14
+  city: Cleveland, OH
+User_300:
+  id: 300
+  email: suzanne@familiesact.org
+  encrypted_password: "$2a$10$Iit9QJL5BNS0G40wENnfsuZFzZaZ0MsaMcgDNBMddnBdCo1O4FW82"
+  sign_in_count: 0
+  created_at: 2016-01-23 23:33:09.410186000 Z
+  updated_at: 2016-01-23 23:33:09.410186000 Z
+  name: Suzanne Riordan
+  confirmed_at: 2016-01-23 23:33:09.408743000 Z
+  invitations_count: 0
+  added: 12.13.14
+  city: Santa Barbara, CA
