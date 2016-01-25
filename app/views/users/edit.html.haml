@@ -1,0 +1,15 @@
+.row
+  .col-md-4
+  .col-md-4.authform
+    %h3
+      Edit Info
+    = simple_form_for(@user) do |f|
+      .form-inputs
+        = f.input :name
+        = f.input :city
+        = f.input :country , :as => :string
+        = f.input :info
+        = f.input :link
+
+      .form-actions
+        = f.button :submit
