@@ -9,7 +9,8 @@ class UsersController < ApplicationController
   end
 
   def check_user
-    @user = User.find(params[:id])
+    @user = User.where(:id => params[:id]).first
+    @user = current_user unless @user
     current = current_user
     unless current == @user or current.admin
       return redirect_to :back, :alert => "Access denied."

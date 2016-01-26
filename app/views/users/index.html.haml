@@ -1,7 +1,9 @@
 .row
   .col-md-3
     %div
-      %h1 Users
+      %h1
+        = @user_scope.length.to_s
+        Users
   .col-md-9.m20
     = search_form_for @q, :html => { :class => "form-inline" }, :method => :get do |f|
       .form-group
@@ -24,12 +26,13 @@
           %th= sort_link @q , :city
           %th Country
           %th Info
-          %th= @user_scope.length.to_s + " Users"
       %tbody
         - @users.each do |user|
           %tr{:class => "line-#{cycle("1","2")}"}
             %td= user.name
             %td= user.city
             %td= user.country
-            %td= user.info
+            %td
+              = user.info
+              = link_to( " (edit)" , edit_user_path(user))  if admin?
   = paginate @users
