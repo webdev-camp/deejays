@@ -10,7 +10,7 @@ class ApplicationController < ActionController::Base
       # Fields for sign up
       devise_parameter_sanitizer.for(:sign_up) { |u| u.permit(:name, :email, :password, :city , :country) }
       # Fields for editing an existing account
-#      devise_parameter_sanitizer.for(:account_update) { |u| u.permit(:name, :email,:password, :current_password, :city,:country )}
+      devise_parameter_sanitizer.for(:account_update) { |u| u.permit(:name, :email,:password, :current_password, :city,:country )}
   end
 
 end
