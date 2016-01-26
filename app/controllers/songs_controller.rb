@@ -34,10 +34,10 @@ class SongsController < ApplicationController
       if @song.save
         format.html { redirect_to @song, notice: 'Song was successfully created.' }
         format.json { render :show, status: :created, location: @song }
+        tag_given
       else
         format.html { render :new }
         format.json { render json: @song.errors, status: :unprocessable_entity }
-        tag_given
       end
     end
   end
@@ -52,7 +52,6 @@ class SongsController < ApplicationController
       else
         format.html { render :edit }
         format.json { render json: @song.errors, status: :unprocessable_entity }
-        tag_given
       end
     end
   end
@@ -78,11 +77,12 @@ class SongsController < ApplicationController
       user.save!
     end
 
-    def tag_used
+    def tag_given
       user = current_user
       user.given = Date.today
       user.count = 0
       user.save!
+      # send mail to zach
     end
 
     # Use callbacks to share common setup or constraints between actions.
