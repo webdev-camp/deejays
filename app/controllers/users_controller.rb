@@ -1,6 +1,6 @@
 class UsersController < ApplicationController
   before_action :authenticate_user! , :only => :index
-  before_action :check_user , :only => [:show , :edit , :update]
+  before_action :check_user , :only => [:show , :edit , :update ]
 
   def index
     @q = User.search( params[:q] )
@@ -29,6 +29,17 @@ class UsersController < ApplicationController
         format.json { render json: @user.errors, status: :unprocessable_entity }
         tag_given
       end
+    end
+  end
+
+  def destroy
+    unless current_user.admin
+      return redirect_to :back, :alert => "Access denied."
+    end
+    @user = User.find(params[:id])
+    @user.destroy
+    if @user.destroy
+        redirect_to users_url, notice: "User deleted."
     end
   end
 
