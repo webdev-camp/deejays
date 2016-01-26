@@ -1,5 +1,5 @@
 class SongsController < ApplicationController
-  before_action :set_song, only: [:show, :edit, :update, :destroy]
+  before_action :check_user, only: [:show, :edit, :update, :destroy]
   before_action :authenticate_user! , :only => [:index , :edit , :destroy]
 
   # GET /songs
@@ -85,9 +85,13 @@ class SongsController < ApplicationController
       # send mail to zach
     end
 
-    # Use callbacks to share common setup or constraints between actions.
-    def set_song
-      @song = Song.find(params[:id])
+    def check_user
+      @song = Song.where(:id => params[:id]).first
+      return redirect_to :back, :alert => "Access denied." unless @song
+      current = current_user
+      unless current.id == @song.user_id or current.admin
+        return redirect_to :back, :alert => "Access denied."
+      end
     end
 
     # Never trust parameters from the scary internet, only allow the white list through.

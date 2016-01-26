@@ -48,8 +48,10 @@
                 /
                 song.sub_genre
             %td.title= song.link
-            %td.title= song.info
-            %td= link_to 'Edit', edit_song_path(song)
+            %td.title
+              = song.info
+              -if (admin? or current_user.id == song.user_id)
+                = link_to 'Edit', edit_song_path(song)
 
     = paginate @songs
   %br
