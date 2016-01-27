@@ -1,7 +1,7 @@
 .row
   .col-md-3
     %div
-      %h1 Listing songs
+      %h1= @song_scope.length.to_s + " Songs"
   .col-md-9.m20
     = search_form_for @q, :html => { :class => "form-inline" }, :method => :get do |f|
       .form-group
@@ -32,7 +32,7 @@
           %th= sort_link @q , :main_genre
           %th Link
           %th Info
-          %th= @song_scope.length.to_s + " Songs"
+
       %tbody
         - @songs.each do |song|
           %tr{:class => "line-#{cycle("1","2")}"}
@@ -47,7 +47,8 @@
               - if song.sub_genre
                 /
                 song.sub_genre
-            %td.title= song.link
+            %td.title
+              = link_to "Link" , song.link if song.link
             %td.title
               = song.info
               -if (admin? or current_user.id == song.user_id)
