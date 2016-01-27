@@ -11,10 +11,12 @@
   = @song.album
 %p
   %b Speed:
-  = @song.speed
+  = @song.tempo
 %p
   %b Genre:
-  = @song.genre
+  = @song.main_genre
+  /
+  = @song.sub_genre
 %p
   %b Link:
   = @song.link
