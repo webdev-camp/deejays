@@ -24,3 +24,17 @@ task :fix_links do
     end
   end
 end
+
+desc 'Fix song date around jesus'
+task :fix_dates do
+  Song.all.each do |song|
+    date = song.date_added
+    next unless date
+    if date.year < 30
+      date += 2000.years
+      song.date_added = date
+      song.save!
+      puts date
+    end
+  end
+end
