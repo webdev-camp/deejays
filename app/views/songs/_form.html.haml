@@ -3,6 +3,7 @@
 
   .form-inputs
     -if admin?
+      = f.label "was #{@song.added}"
       = f.input :date_added
     = f.input :title
     = f.input :artist
