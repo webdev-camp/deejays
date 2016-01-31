@@ -3,11 +3,12 @@ FactoryGirl.define do
     sequence(:title) { |n| "Sunshine #{n}" }
     artist "Mc Yogi"
     album "Meditation"
-    speed "medium"
+    tempo "medium"
     factory :song do
-      genre "world"
+      main_genre "world"
       link "http://mcyogi.com"
       info "Mc is a yogi"
+      user { create :user }
     end
   end
 
