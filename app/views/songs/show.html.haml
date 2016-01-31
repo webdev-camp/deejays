@@ -1,6 +1,12 @@
 %p#notice= notice
 
 %p
+  %b User:
+  = @song.user_name
+%p
+  %b Added:
+  = @song.date_added.to_s
+%p
   %b Title:
   = @song.title
 %p
@@ -19,11 +25,9 @@
   = @song.sub_genre
 %p
   %b Link:
-  = @song.link
+  = link_to( link_text(@song) , @song.link , :target => :_blank) if @song.link
 %p
   %b Info:
   = @song.info
 
-= link_to 'Edit', edit_song_path(@song)
-\|
-= link_to 'Back', songs_path
+= link_to 'Back to list', songs_path

@@ -46,7 +46,7 @@
               = song.main_genre
               - if song.sub_genre
                 /
-                song.sub_genre
+                =song.sub_genre
             %td.title
               = link_to( link_text(song) , song.link , :target => :_blank) if song.link
             %td.title
