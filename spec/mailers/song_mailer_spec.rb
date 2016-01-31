@@ -8,13 +8,14 @@ RSpec.describe SongMailer, :type => :mailer do
         expect(mail.subject.to_s).to include( "song")
       end
       it 'renders the receiver email' do
-        expect(mail.to).to eq([User.admin.first])
+        expect(mail.to).to eq([Rails.application.secrets.admin_email])
       end
     end
     describe "song details" do
       it "includes the total price" do
         expect(mail.body).to include(song.id)
         expect(mail.body).to include( song.title)
+        expect(mail.body).to include( song.artist)
       end
     end
   end
@@ -24,7 +25,7 @@ RSpec.describe SongMailer, :type => :mailer do
       it_should_behave_like "an song mail" do
     end
     it "should include song" do
-      expect(mail.body).to include("Song:")
+      expect(mail.body).to include("new Song")
     end
   end
 

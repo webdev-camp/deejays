@@ -5,7 +5,7 @@ FactoryGirl.define do
     sequence( :email) { |n| "test#{n}@test.com" }
     password "please123"
     city "City"
-    country "Coutry"
+    country "Country"
     factory :admin do
       sequence( :email) { |n| "admin#{n}@test.com" }
       admin 1
