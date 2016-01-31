@@ -1,5 +1,14 @@
 <%=@song.user.name %> added a new Song
 ===============================================
 
-Song: <%= @song.title %>
+Added: <%= @song.date_added.to_s %>
+Title: <%= @song.title %>
+Artist:<%= @song.artist %>
+Album: <%= @song.album %>
+Tempo: <%= @song.tempo%>
+Genre: <%= @song.main_genre%>  / <%= @song.sub_genre %>
+Link: <%= link_to( link_text(@song) , @song.link , :target => :_blank) if @song.link %>
+Info: <%= @song.info %>
+
+
 Link: <%= song_url(@song) %>
