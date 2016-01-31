@@ -2,9 +2,15 @@
   = f.error_notification
 
   .form-inputs
-    -if admin?
-      = f.label "was #{@song.added}"
-      = f.input :date_added
+    = f.hidden_field :user_id , :value => current_user.id
+    = f.label "Song added at: #{@song.added_on}" unless @song.new_record?
+    %br
+    -if @song.new_record?
+      = f.hidden_field :user_id , :value => current_user.id
+    -else
+      = f.label "Song added by: #{@song.user_name}"
+      -if admin?
+        = f.input :date_added
     = f.input :title
     = f.input :artist
     = f.input :album
