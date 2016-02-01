@@ -7,6 +7,6 @@ class User < ActiveRecord::Base
          validates :city, :presence => true
          validates :country, :presence => true
 
-  has_many :song
+  has_many :songs
   scope :admin, -> { where(admin: '1') }
 end

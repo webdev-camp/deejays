@@ -48,7 +48,7 @@
                 /
                 =song.sub_genre
             %td.title
-              = link_to( link_text(song) , song.link , :target => :_blank) if song.link
+              = link_to( link_text(song) , song.link , :target => :_blank) unless song.link.blank?
             %td.title
               = song.info
               -if (admin? or current_user.id == song.user_id)

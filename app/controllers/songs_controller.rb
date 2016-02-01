@@ -1,5 +1,6 @@
 class SongsController < ApplicationController
   before_action :check_user, only: [:show, :edit, :update, :destroy]
+  before_action :check_given , :only => [:index ]
   before_action :authenticate_user! , :only => [:index , :edit , :destroy]
 
   # GET /songs
@@ -85,6 +86,13 @@ class SongsController < ApplicationController
       user.count = 0
       user.save!
       # send mail to zach
+    end
+
+    def check_given
+      current = current_user
+      unless ((Date.today - current.given) > 1.month) && ( current.count > 10 )
+        return redirect_to :new_song, :alert => "Read below on the rules of this service."
+      end
     end
 
     def check_user

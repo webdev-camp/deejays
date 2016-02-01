@@ -1,10 +1,12 @@
 
 .row
   .col-md-1
-  .col-md-5
-    %h1 Some text
-    maybe the same as signup?
+  .col-md-4
+    %h1 Give to use
 
+    = render "users/rules"
+
+  .col-md-1
   .col-md-5
     %h1 Add a new song
     = render 'form'
