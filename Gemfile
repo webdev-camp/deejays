@@ -25,7 +25,7 @@ gem 'devise_invitable'
 gem 'haml-rails'
 gem 'high_voltage'
 gem 'simple_form'
-gem 'thin'
+gem 'puma'
 gem 'sucker_punch'
 gem 'devise-async'
 
