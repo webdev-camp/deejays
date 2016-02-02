@@ -14,12 +14,19 @@ feature 'Song add' do
     fill_in 'Main genre', :with => song.main_genre
   end
 
-  scenario 'add a song and see it' do
+  def add_song
     user = signed_user
     fill_song
     click_button 'Create Song'
     expect(page).to have_content("successfully created")
     expect(user.songs.count).to eq 1
+    user
+  end
+
+  scenario 'add a song and see it' do
+    user = add_song
+    user.reload
+    expect(user.given).to be_truthy
   end
 
   scenario 'add a song without tempo and get error' do
@@ -31,4 +38,10 @@ feature 'Song add' do
     expect(user.songs.count).to eq 0
   end
 
+  scenario "add song and view songs" do
+    user = add_song
+    visit songs_path
+    expect(current_path).to eq songs_path
+    expect(page).to have_no_content("Read below")
+  end
 end

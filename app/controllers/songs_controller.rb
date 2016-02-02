@@ -85,12 +85,11 @@ class SongsController < ApplicationController
       user.given = Date.today
       user.count = 0
       user.save!
-      # send mail to zach
     end
 
     def check_given
       current = current_user
-      unless ((Date.today - current.given) > 1.month) && ( current.count > 10 )
+      if ((Date.today - current.given) > 1.month) && ( current.count > 10 )
         return redirect_to :new_song, :alert => "Read below on the rules of this service."
       end
     end
