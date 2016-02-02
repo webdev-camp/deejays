@@ -17,5 +17,12 @@ module Features
       fill_in 'Password', with: password
       click_button 'Sign in'
     end
+
+    def signed_user
+      user = FactoryGirl.create(:user)
+      user.confirm
+      login_as(user, :scope => :user)
+      user
+    end
   end
 end
