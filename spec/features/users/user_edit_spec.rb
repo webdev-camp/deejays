@@ -1,15 +1,9 @@
-include Warden::Test::Helpers
-Warden.test_mode!
 
 # Feature: User edit
 #   As a user
 #   I want to edit my user profile
 #   So I can change my email address
 feature 'User edit', :devise do
-
-  after(:each) do
-    Warden.test_reset!
-  end
 
   # Scenario: User changes email address
   #   Given I am signed in
