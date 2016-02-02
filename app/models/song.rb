@@ -10,7 +10,7 @@ class Song < ActiveRecord::Base
   belongs_to :user
 
   def user_name
-    if self.user_id
+    if self.user_id and self.user
       self.user.name
     else
       self.read_attribute(:user_name)
