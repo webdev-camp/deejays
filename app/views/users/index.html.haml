@@ -25,6 +25,10 @@
           %th= sort_link @q , :name
           %th= sort_link @q , :city
           %th Country
+          -if admin?
+            %th= sort_link @q , :given
+            %th= sort_link @q , :used
+            %th= sort_link @q , :count
           %th Link
           %th Info
       %tbody
@@ -33,6 +37,10 @@
             %td= user.name
             %td= user.city
             %td= user.country
+            -if admin?
+              %td= user.given
+              %td= user.used
+              %td= user.count
             %td
               = link_to( link_text(user) , user.link , :target => :_blank) if user.link
 
