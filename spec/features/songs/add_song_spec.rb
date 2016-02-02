@@ -1,7 +1,4 @@
-# Feature: User edit
-#   As a user
-#   I want to edit my user profile
-#   So I can change my email address
+# Song adding should lead to being able to see the list
 feature 'Song add' do
 
   def fill_song

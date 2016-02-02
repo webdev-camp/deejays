@@ -89,7 +89,8 @@ class SongsController < ApplicationController
 
     def check_given
       current = current_user
-      if ((Date.today - current.given) > 1.month) && ( current.count > 10 )
+      given = current.given
+      if !given or ((Date.today - given) > 1.month) && ( current.count > 5 )
         return redirect_to :new_song, :alert => "Read below on the rules of this service."
       end
     end
