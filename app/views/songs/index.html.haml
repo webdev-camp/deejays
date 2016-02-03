@@ -30,6 +30,7 @@
           %th= sort_link @q , :album
           %th= sort_link @q , :tempo
           %th= sort_link @q , :main_genre
+          %th Sub genre
           %th Link
           %th Info
 
@@ -42,11 +43,8 @@
             %td.title= song.artist
             %td.title= song.album
             %td.title= song.tempo
-            %td.title
-              = song.main_genre
-              - if song.sub_genre
-                /
-                =song.sub_genre
+            %td.title= song.main_genre
+            %td.title= song.sub_genre
             %td.title
               = link_to( link_text(song) , song.link , :target => :_blank) unless song.link.blank?
             %td.title
