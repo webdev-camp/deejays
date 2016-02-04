@@ -8,7 +8,7 @@ RSpec.describe Song, type: :model do
     expect(song.save).to be false
   end
   it "checks all attributes" do
-    ["title","artist", "album","tempo","main_genre"].each do |att|
+    ["title","artist", "album","tempo"].each do |att|
       song = build :song
       song.send "#{att}=".to_sym , ""
       expect(song.save).to be false

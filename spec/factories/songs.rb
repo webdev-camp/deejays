@@ -5,7 +5,7 @@ FactoryGirl.define do
     album "Meditation"
     tempo "medium"
     factory :song do
-      main_genre "world"
+      association :main_genre, factory: :genre
       link "http://mcyogi.com"
       info "Mc is a yogi"
       user { create :user }

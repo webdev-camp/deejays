@@ -43,7 +43,7 @@
             %td.title= song.artist
             %td.title= song.album
             %td.title= song.tempo
-            %td.title= song.main_genre
+            %td.title= song.main_genre.name if song.main_genre
             %td.title= song.sub_genre
             %td.title
               = link_to( link_text(song) , song.link , :target => :_blank) unless song.link.blank?
@@ -54,5 +54,3 @@
 
     = paginate @songs
   %br
-
-  = link_to 'New Song', new_song_path

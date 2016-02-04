@@ -15,7 +15,7 @@
     = f.input :artist
     = f.input :album
     = f.input :tempo
-    = f.input :main_genre
+    = f.association :main_genre , :include_blank => false
     = f.input :sub_genre
     = f.input :link
     = f.input :info

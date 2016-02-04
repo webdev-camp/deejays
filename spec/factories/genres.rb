@@ -1,6 +1,8 @@
 FactoryGirl.define do
   factory :genre do
-    name "MyString"
+    sequence :name do |n|
+       "#{n}Rock"
+     end
   end
 
 end

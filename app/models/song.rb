@@ -3,11 +3,12 @@ class Song < ActiveRecord::Base
   validates :artist, :presence => true
   validates :album, :presence => true
   validates :tempo, :presence => true
-  validates :main_genre, :presence => true
+  validates :main_genre_id, :presence => true
 
   default_scope {order('date_added DESC')}
 
   belongs_to :user
+  belongs_to :main_genre ,  :class_name => 'Genre'
 
   def user_name
     if self.user_id and self.user

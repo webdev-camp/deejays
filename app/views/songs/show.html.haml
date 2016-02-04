@@ -19,9 +19,10 @@
   %b Speed:
   = @song.tempo
 %p
-  %b Genre:
-  = @song.main_genre
-  /
+  %b Main Genre:
+  = @song.main_genre.name if @song.main_genre
+%p
+  %b Sub Genre:
   = @song.sub_genre
 %p
   %b Link:

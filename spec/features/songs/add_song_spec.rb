@@ -2,13 +2,14 @@
 feature 'Song add' do
 
   def fill_song
+    genre = create :genre
     visit new_song_path
     song = create :song
     fill_in 'Title', :with => song.title
     fill_in 'Artist', :with => song.artist
     fill_in 'Album', :with => song.album
     fill_in 'Tempo', :with => song.tempo
-    fill_in 'Main genre', :with => song.main_genre
+    find("option[value='#{genre.id}']").click
   end
 
   def add_song
