@@ -5,3 +5,8 @@
 = link_to 'Show', @genre
 \|
 = link_to 'Back', genres_path
+\|
+
+%br
+%br
+= link_to 'Destroy', @genre, :method => :delete, :data => { :confirm => 'Are you sure?' }

@@ -5,16 +5,16 @@
     %tr
       %th Name
       %th
-      %th
-      %th
+        &nbsp;
+      %th Actions
 
   %tbody
     - @genres.each do |genre|
       %tr
         %td= genre.name
-        %td= link_to 'Show', genre
+        %td
+
         %td= link_to 'Edit', edit_genre_path(genre)
-        %td= link_to 'Destroy', genre, :method => :delete, :data => { :confirm => 'Are you sure?' }
 
 %br
 
