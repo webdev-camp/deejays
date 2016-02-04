@@ -9,7 +9,8 @@
       .form-inputs
         %br
         = f.label "Song added by: #{@song.user_name}"
-        -if admin?
+        = f.label "Song added at: #{@song.added_on}"
+          -if admin?
           = f.input :date_added
       = render 'form_fields' , { :f => f}
     %br
