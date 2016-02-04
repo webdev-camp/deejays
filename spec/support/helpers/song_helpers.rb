@@ -6,6 +6,7 @@ module Features
       song = build :song
       fill_song song , genre
     end
+
     def fill_song song , genre
       fill_in 'Title', :with => song.title
       fill_in 'Artist', :with => song.artist
@@ -13,6 +14,16 @@ module Features
       fill_in 'Tempo', :with => song.tempo
       find("option[value='#{genre.id}']").click
       song
+    end
+
+    def edit_song
+      user = signed_user :given_user
+      song = create :song , :user_id => user.id
+      visit edit_song_path(song)
+      fill_song song , song.main_genre
+      click_button 'Update Song'
+      expect(page).to have_content("successfully updated")
+      user
     end
 
     def add_song

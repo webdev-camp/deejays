@@ -1,10 +1,8 @@
 # Song adding should lead to being able to see the list
 feature 'Song add' do
 
-  scenario 'edit a song as admin' do
-    user = add_song
-    user.reload
-    expect(user.given).to be_truthy
+  scenario 'edit a song as user' do
+    user = edit_song
   end
 
   scenario 'edit a song without tempo and get error' do
