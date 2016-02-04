@@ -9,6 +9,13 @@
   .col-md-1
   .col-md-5
     %h1 Add a new song
-    = render 'form'
+    = simple_form_for(@song) do |f|
+      = f.error_notification
+
+      .form-inputs
+        = f.label "Song added at: #{@song.added_on}"
+        %br
+        = f.hidden_field :user_id , :value => current_user.id
+      = render 'form_fields' , { :f => f}
 
     = link_to 'Cancel', songs_path
