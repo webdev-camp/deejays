@@ -18,8 +18,8 @@ module Features
       click_button 'Sign in'
     end
 
-    def signed_user
-      user = FactoryGirl.create(:user)
+    def signed_user factory = :user
+      user = FactoryGirl.create(factory)
       user.confirm
       login_as(user, :scope => :user)
       user

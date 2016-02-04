@@ -6,7 +6,7 @@ Title: <%= @song.title %>
 Artist:<%= @song.artist %>
 Album: <%= @song.album %>
 Tempo: <%= @song.tempo%>
-Genre: <%= @song.main_genre%>  / <%= @song.sub_genre %>
+Genre: <%= @song.main_genre.name %>  / <%= @song.sub_genre %>
 Link: <%= @song.link unless @song.link.blank? %>
 Info: <%= @song.info %>
 

@@ -4,11 +4,16 @@ FactoryGirl.define do
     artist "Mc Yogi"
     album "Meditation"
     tempo "medium"
-    factory :song do
+    factory :ok_song do
       association :main_genre, factory: :genre
       link "http://mcyogi.com"
       info "Mc is a yogi"
-      user { create :user }
+      factory :song do
+        user { create :user }
+      end
+      factory :given_song do
+        user { create :given_user }
+      end
     end
   end
 
