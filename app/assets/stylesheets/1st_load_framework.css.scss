@@ -1,4 +1,12 @@
 // import the CSS framework
+$primary-color: scale-color(#eee, $lightness: 40%);
+
+$table-bg: scale-color($primary-color, $lightness: 98%);
+$table-even-row-bg: scale-color($primary-color, $lightness: 90%);
+$table-border-color: scale-color($primary-color, $lightness: 85%);
+
+$topbar-bg: $primary-color;
+
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
@@ -35,7 +43,7 @@ img {
 // to make views framework-neutral
 main {
   @extend .container;
-  background-color: #eee;
+  background-color: $primary-color;
   padding-bottom: 80px;
   width: 100%;
   margin-top: 51px; // accommodate the navbar
