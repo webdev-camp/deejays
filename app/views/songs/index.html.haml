@@ -5,11 +5,11 @@
   .col-md-9.m20
     = search_form_for @q, :html => { :class => "form-inline" }, :method => :get do |f|
       .form-group
-        = f.text_field :user_name_cont , :class => "form-control" , :placeholder => "User" , :size => 10
+        = f.text_field :user_name_or_user_full_name_cont , :class => "form-control" , :placeholder => "User" , :size => 10
       .form-group
         = f.text_field :title_cont , :class => "form-control" , :placeholder => "Title"
       .form-group
-        = f.text_field :artist_cont , :class => "form-control" , :placeholder => "Artist" 
+        = f.text_field :artist_cont , :class => "form-control" , :placeholder => "Artist"
       .form-group
         = f.collection_select :main_genre_id_eq, Genre.all, :id, :name, {include_blank: "Genre" }, :class => "form-control"
       .form-group

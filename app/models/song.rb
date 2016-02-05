@@ -12,7 +12,7 @@ class Song < ActiveRecord::Base
 
   def user_name
     if self.user_id and self.user
-      self.user.name
+      self.user.full_name
     else
       self.read_attribute(:user_name)
     end

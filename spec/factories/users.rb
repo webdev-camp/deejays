@@ -1,7 +1,7 @@
 FactoryGirl.define do
   factory :user do
     confirmed_at Time.now
-    name "Test User"
+    full_name "Test User"
     sequence( :email) { |n| "test#{n}@test.com" }
     password "please123"
     city "City"
