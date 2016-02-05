@@ -6,8 +6,8 @@ class SongsController < ApplicationController
   # GET /songs
   # GET /songs.json
   def index
-    @q = Song.search( params[:q] )
-    @song_scope = @q.result(:distinct => true)
+    @q = Song.ransack( params[:q] )
+    @song_scope = @q.result(:distinct => true).includes(:user).includes(:main_genre)
     @songs = @song_scope.paginate( :page => params[:page], :per_page => 20 )
     tag_used
   end
