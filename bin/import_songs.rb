@@ -15,9 +15,7 @@ class ImportSongs
     unn = "unspecified"
     @lines.each do |line|
       parts = line.split("\t")
-      created = parts[0]
-      created = parts[1] unless created.blank?
-      created_date = Chronic.parse( created)
+      created_date = Chronic.parse( parts[1]) unless created_date
       title  = parts[3]
       title = unn if title.blank?
       artist  = parts[4]
@@ -26,7 +24,7 @@ class ImportSongs
       album = unn if album.blank?
       tempo  = parts[6]
       tempo = unn if tempo.blank?
-      song = Song.new(:date_added => created_date , :user_name => parts[2] , :added => created,
+      song = Song.new(:date_added => created_date , :user_name => parts[2] , :added => parts[1],
                       :title =>  title, :artist => artist ,
                       :album => album , :tempo => tempo , :main_genre => @genre ,
                       :sub_genre => parts[7] , :info => parts[8] )

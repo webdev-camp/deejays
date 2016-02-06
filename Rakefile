@@ -37,7 +37,7 @@ task :fix_dates do
       song.save!
       puts date
     end
-    if date.year > 2020
+    if (date.year > 2020) or (date.year < 2000)
       song.date_added = nil
       song.save!
       puts date
