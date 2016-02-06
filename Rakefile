@@ -20,6 +20,7 @@ task :fix_links do
       parts.delete_at(ind)
       song.info = parts.join(" ")
       song.save
+      puts song.link
       break
     end
   end
@@ -33,6 +34,11 @@ task :fix_dates do
     if date.year < 30
       date += 2000.years
       song.date_added = date
+      song.save!
+      puts date
+    end
+    if date.year > 2020
+      song.date_added = nil
       song.save!
       puts date
     end

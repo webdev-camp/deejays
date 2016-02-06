@@ -12,6 +12,8 @@ gem "will_paginate-bootstrap"
 
 gem 'db_fixtures_dump'  , github: "dancinglightning/db_fixtures_dump" #backup
 
+gem "chronic"
+
 group :development, :test do
   gem 'byebug'
 end

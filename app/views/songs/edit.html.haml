@@ -11,7 +11,7 @@
         = f.label "Song added by: #{@song.user_name}"
         = f.label "Song added at: #{@song.added_on}"
           -if admin?
-          = f.input :date_added
+          = f.input :date_added , :label => "Original date: #{@song.added}"
       = render 'form_fields' , { :f => f}
     %br
     -if admin?
