@@ -1,5 +1,6 @@
-<%=@song.user.full_name %> added a new Song
+<%=@song.user.full_name %> added Song no: <%= @song.user.songs.count%>
 ===============================================
+User email: <%= @song.user.email %>
 
 Added: <%= @song.date_added.to_s %>
 Title: <%= @song.title %>
