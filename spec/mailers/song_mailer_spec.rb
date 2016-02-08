@@ -24,8 +24,16 @@ RSpec.describe SongMailer, :type => :mailer do
     let(:mail) { SongMailer.notify(song) }
       it_should_behave_like "an song mail" do
     end
-    it "should include song" do
-      expect(mail.body).to include("new Song")
+    let(:song2) { create( :song , :user => song.user) }
+    let(:mail2) { SongMailer.notify(song2) }
+      it_should_behave_like "an song mail" do
+    end
+    it "should include song no 1" do
+      expect(mail.body).to include("Song no: 1")
+    end
+    it "should include song no 2" do
+      expect(mail.body).to include("Song no: 1")
+      expect(mail2.body).to include("Song no: 2")
     end
   end
 
