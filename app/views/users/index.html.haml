@@ -24,7 +24,7 @@
         %tr
           %th= sort_link @q , :name
           %th= sort_link @q , :city
-          %th Country
+          %th= sort_link @q , :country
           -if admin?
             %th= sort_link @q , :given
             %th= sort_link @q , :used
