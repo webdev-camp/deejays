@@ -1,9 +1,10 @@
 module Features
   module SessionHelpers
-    def sign_up_with(email, password, confirmation)
+    def sign_up_with(email, password, confirmation , state = nil)
       visit new_user_registration_path
       fill_in 'Full name', with: "some name"
       fill_in 'City', with: "some city"
+      fill_in( 'user[state]', with: state) if state
       fill_in 'user[country]', with: "some place"
       fill_in 'Email', with: email
       fill_in 'Password', with: password

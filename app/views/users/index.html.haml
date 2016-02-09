@@ -14,6 +14,9 @@
           = f.text_field :city_cont , :class => "form-control" , :placeholder => "City" , :size => 12
       .form-group
         .input-group
+          = f.text_field :state_cont , :class => "form-control" , :placeholder => "State" , :size => 8
+      .form-group
+        .input-group
           = f.text_field :country_cont , :class => "form-control" , :placeholder => "Country" , :size => 12
       = f.submit "Search", :class => "btn btn-success" , :id => :filter
       = link_to  "Cancel", users_path, :class => "btn btn-warning"
@@ -24,6 +27,7 @@
         %tr
           %th= sort_link @q , :name
           %th= sort_link @q , :city
+          %th= sort_link @q , :state
           %th= sort_link @q , :country
           -if admin?
             %th= sort_link @q , :given
@@ -40,6 +44,7 @@
               -else
                 = user.full_name
             %td= user.city
+            %td= user.state
             %td= user.country
             -if admin?
               %td= user.given
