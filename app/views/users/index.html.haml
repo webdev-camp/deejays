@@ -30,7 +30,7 @@
           %th= sort_link @q , :state
           %th= sort_link @q , :country
           -if admin?
-            %th= sort_link @q , :given
+            %th= sort_link @q , :given , "Latest Song Added"
             %th= sort_link @q , :used
             %th= sort_link @q , :count
           %th Link
