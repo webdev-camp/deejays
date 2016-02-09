@@ -7,9 +7,9 @@
       .form-group
         = f.text_field :user_name_or_user_full_name_cont , :class => "form-control" , :placeholder => "User" , :size => 10
       .form-group
-        = f.text_field :title_cont , :class => "form-control" , :placeholder => "Title"
+        = f.text_field :title_cont , :class => "form-control" , :placeholder => "Title", :size => 10
       .form-group
-        = f.text_field :artist_cont , :class => "form-control" , :placeholder => "Artist"
+        = f.text_field :artist_cont , :class => "form-control" , :placeholder => "Artist", :size => 10
       .form-group
         = f.collection_select :main_genre_id_eq, Genre.all, :id, :name, {include_blank: "Genre" }, :class => "form-control"
       .form-group
