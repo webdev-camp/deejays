@@ -27,7 +27,7 @@
         %tr
           %th= sort_link @q , :name
           %th= sort_link @q , :city
-          %th= sort_link @q , :state
+          %th= sort_link @q , :state , "State/Province"
           %th= sort_link @q , :country
           -if admin?
             %th= sort_link @q , :given , "Latest Song Added"
