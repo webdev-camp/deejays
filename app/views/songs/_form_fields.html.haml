@@ -6,7 +6,8 @@
   = f.association :main_genre , :include_blank => false
   = f.input :sub_genre
   = f.input :link
-  = f.input :info
+  = f.input :info, :label => "Info (for example, is this an instrumental? Notable lyrics? Something unusual about the song? Is there a long intro or outro?"
+  
 
 .form-actions
   = f.button :submit
