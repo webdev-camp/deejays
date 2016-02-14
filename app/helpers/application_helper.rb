@@ -11,11 +11,14 @@ module ApplicationHelper
     current_user.admin != nil
   end
 
-  def link_text song
+  def song_text song
     info = song.link
     return "" unless info
-    txt = info.split(".")[1]
-    txt || ""
+    host = URI.parse(info).host rescue nil
+    return "" unless host
+    parts = host.split(".")
+    parts.delete_at(0) if parts.length == 3
+    parts.join(".")
   end
 
 end
