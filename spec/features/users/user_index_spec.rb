@@ -8,11 +8,12 @@ feature 'User index page', :devise do
   # Scenario: User listed on index page
   #   Given I am signed in
   #   When I visit the user index page
-  #   Then I see my own email address
-  scenario 'user sees own email address' do
+  #   Then I see my own name
+  scenario 'user sees own name in list' do
     user = FactoryGirl.create(:user)
     login_as(user, scope: :user)
     visit users_path
+    expect(page.status_code).to eq(200)
     expect(page).to have_content user.full_name
   end
 

@@ -51,7 +51,7 @@
               %td= user.used
               %td= user.count
             %td
-              = link_to( link_text(user) , user.link , :target => :_blank) if user.link
+              = link_to( song_text(user) , user.link , :target => :_blank) if user.link
 
             %td
               = user.info

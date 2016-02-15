@@ -26,7 +26,7 @@
   = @song.sub_genre
 %p
   %b Link:
-  = link_to( link_text(@song) , @song.link , :target => :_blank) unless @song.link.blank?
+  = link_to( song_text(@song) , @song.link , :target => :_blank) unless @song.link.blank?
 %p
   %b Info:
   = @song.info
