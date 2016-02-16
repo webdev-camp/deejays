@@ -23,4 +23,9 @@ class Song < ActiveRecord::Base
     self.added
   end
 
+  def self.tempo_list
+     ["ambient", "very slow", "slow", "medium-slow", "medium", "medium-fast",
+       "fast", "very fast", "varies"]
+  end
+
 end

@@ -7,10 +7,10 @@ feature 'Song add' do
     expect(user.given).to be_truthy
   end
 
-  scenario 'add a song without tempo and get error' do
+  scenario 'add a song without Artist and get error' do
     user = signed_user
     fill_new_song
-    fill_in 'Tempo', :with => ""
+    fill_in 'Artist', :with => ""
     click_button 'Create Song'
     expect(page).to have_content("review the problems")
     expect(user.songs.count).to eq 0

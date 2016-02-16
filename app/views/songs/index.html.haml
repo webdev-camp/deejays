@@ -11,9 +11,9 @@
       .form-group
         = f.text_field :artist_cont , :class => "form-control" , :placeholder => "Artist", :size => 10
       .form-group
-        = f.collection_select :main_genre_id_eq, Genre.all, :id, :name, {include_blank: "Genre" }, :class => "form-control"
+        = f.collection_select :main_genre_name_or_sub_genre_cont, Genre.all, :name, :name, {include_blank: "Genre" }, :class => "form-control"
       .form-group
-        = f.text_field :sub_genre_cont , :class => "form-control" , :placeholder => "Sub genre", :size => 10
+        = f.collection_select :tempo_cont, Song.tempo_list ,:to_s , :to_s,  {include_blank: "Tempo" }, :class => "form-control"
       = f.submit "Search", :class => "btn btn-success" , :id => :filter
       = link_to  "Cancel", songs_path, :class => "btn btn-warning"
 .row

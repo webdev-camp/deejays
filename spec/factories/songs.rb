@@ -3,7 +3,7 @@ FactoryGirl.define do
     sequence(:title) { |n| "Sunshine #{n}" }
     artist "Mc Yogi"
     album "Meditation"
-    tempo "medium"
+    tempo "fast"
     factory :ok_song do
       association :main_genre, factory: :genre
       link "http://mcyogi.com"

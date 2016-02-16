@@ -11,7 +11,7 @@ module Features
       fill_in 'Title', :with => song.title
       fill_in 'Artist', :with => song.artist
       fill_in 'Album', :with => song.album
-      fill_in 'Tempo', :with => song.tempo
+      find("option[value='#{song.tempo}']").click unless song.tempo.blank?
       find("option[value='#{genre.id}']").click
       song
     end
