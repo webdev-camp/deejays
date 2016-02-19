@@ -1,4 +1,5 @@
 class SongsController < ApplicationController
+  before_action :authenticate_user!
   before_action :check_user, only: [:show, :edit, :update, :destroy]
   before_action :check_given , :only => [:index ]
   before_action :authenticate_user! , :only => [:index , :edit , :destroy]
@@ -89,7 +90,7 @@ class SongsController < ApplicationController
 
     def check_given
       current = current_user
-      return redirect_to :back, :alert => "Access denied." unless current
+      return unless current
       given = current.given
       if !given or ((Date.today - given) > 1.month)  # && ( current.count > 5 )
         return redirect_to :new_song, :alert => "Read below on the rules of this service."
@@ -98,11 +99,10 @@ class SongsController < ApplicationController
 
     def check_user
       @song = Song.where(:id => params[:id]).first
-      return redirect_to :back, :alert => "Access denied." unless @song
       current = current_user
-      return redirect_to :back, :alert => "Access denied." unless current
+      return unless current
       unless current.id == @song.user_id or current.admin
-        return redirect_to :back, :alert => "Access denied."
+        return redirect_to root_path , :alert => "Access denied."
       end
     end
 
