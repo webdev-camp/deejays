@@ -11,4 +11,5 @@ class User < ActiveRecord::Base
 
   has_many :songs
   scope :admin, -> { where(admin: '1') }
+  default_scope {order('full_name ASC')}
 end
