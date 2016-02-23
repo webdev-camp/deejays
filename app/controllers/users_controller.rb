@@ -4,7 +4,7 @@ class UsersController < ApplicationController
 
   def index
     @q = User.search( params[:q] )
-    @q.sorts = 'full_name desc' if @q.sorts.empty?
+    @q.sorts = 'full_name asc' if @q.sorts.empty?
     @user_scope = @q.result(:distinct => true)
     @users = @user_scope.paginate( :page => params[:page], :per_page => 20 )
   end
