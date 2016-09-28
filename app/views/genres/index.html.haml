@@ -1,20 +1,21 @@
 %h1 Listing genres
+.row
+  .col-md-12
+    %table.table.table-condensed.table-striped
+      %thead
+        %tr
+          %th Name
+          %th
+            &nbsp;
+          %th Actions
 
-%table
-  %thead
-    %tr
-      %th Name
-      %th
-        &nbsp;
-      %th Actions
+      %tbody
+        - @genres.each do |genre|
+          %tr
+            %td= genre.name
+            %td
 
-  %tbody
-    - @genres.each do |genre|
-      %tr
-        %td= genre.name
-        %td
-
-        %td= link_to 'Edit', edit_genre_path(genre)
+            %td= link_to 'Edit', edit_genre_path(genre)
 
 %br
 
