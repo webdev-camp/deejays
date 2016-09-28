@@ -20,6 +20,7 @@ feature 'Genre list' do
     genre = build :genre
     fill_in 'Name', :with => genre.name
     fill_in 'Tempo', :with => genre.tempo
+    check 'Vocals'
     click_button 'Create Genre'
     expect(page).to have_content("successfully created")
   end

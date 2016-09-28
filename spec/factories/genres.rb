@@ -4,6 +4,7 @@ FactoryGirl.define do
        "#{n}Rock"
      end
      tempo 11
+     vocals true
   end
 
 end
