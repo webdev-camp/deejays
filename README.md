@@ -28,6 +28,17 @@ This application requires:
 
 Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.html).
 
+Dependencies
+------------
+
+You must install phantomjs (binary) on your machine for the gem 'poltergeist' to run.
+For linux (most distributions):
+```sh
+sudo apt-get install phantomjs
+```
+OR
+See [Github Team Poltergeist](https://github.com/teampoltergeist/poltergeist) for details 
+
 Getting Started
 ---------------
 
