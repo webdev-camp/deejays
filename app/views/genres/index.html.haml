@@ -1,11 +1,12 @@
-%h1 Listing genres
+%h1.title Listing genres
 .row
-  .col-md-12
+  .col-md-10.col-md-offset-1
     %table.table.table-condensed.table-striped
       %thead
         %tr
           %th Name
           %th Tempo
+          %th Vocals
           %th Actions
 
       %tbody
@@ -13,8 +14,9 @@
           %tr
             %td= genre.name
             %td= genre.tempo
+            %td= genre.vocals 
             %td= link_to 'Edit', edit_genre_path(genre)
 
-%br
+            %br
 
-= link_to 'New Genre', new_genre_path
+    = link_to 'New Genre', new_genre_path
