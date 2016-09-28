@@ -6,4 +6,9 @@ RSpec.describe Genre, type: :model do
     genre = build :genre
     expect(genre.save).to be true
   end
+
+  it "validates low values of tempo" do
+    genre = build :genre , :tempo => 5
+    expect(genre.save).to be false
+  end
 end

@@ -1,5 +1,5 @@
 # Song adding should lead to being able to see the list
-feature 'Song add' do
+describe 'Song add' do
 
   scenario 'add a song and see it' do
     user = add_song
