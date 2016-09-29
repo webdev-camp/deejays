@@ -36,3 +36,17 @@ main h1{
     border-color: red;
     border-radius: 5px;
 }
+
+a:active {
+    color: #6495ED;
+}
+
+a:visited {
+    color: #FF7F50;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #8A2BE2;
+    text-decoration: none;
+}
