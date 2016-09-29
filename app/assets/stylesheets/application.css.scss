@@ -25,17 +25,19 @@ h1, h2, h3, h4, h5, h6 {
 .title-adjust { padding-right: 450px;}
 
 main h1{
-    background: green;
+    background: #6495ED;
     font-family: 'Yatra One', cursive;
     text-align: center;
-    color: yellow;
+    color: #FF7F50;
     font-style: italic;
-    border-style: solid;
+    border-style: double;
     border-width: 7px;
     border-left-width: 7px;
     border-right-width: 7px;
-    border-color: red;
+    border-color: #FF7F50;
     border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 15px;
 }
 
 a:active {
