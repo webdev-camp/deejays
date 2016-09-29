@@ -14,10 +14,25 @@
  *= require_self
  */
 
+
 .m20{
   margin-top: 20px;
 }
 
 .title{
   text-align: center;
+}
+
+main h1{
+    background: green;
+    font-family: 'Yatra One', cursive;
+    text-align: center;
+    color: yellow;
+    font-style: italic;
+    border-style: solid;
+    border-width: 7px;
+    border-left-width: 7px;
+    border-right-width: 7px;
+    border-color: red;
+    border-radius: 5px;
 }
