@@ -1,4 +1,18 @@
-.navbar-text-alice a {
+nav a {
+  margin: 0;
+  border: 0;
+  font-variant: small-caps;
+  color: #505050 !important;
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+  border-bottom-style: hidden;
+  font-size: larger;
+  &:hover {
+  color: #6a241a !important;
+  }
+}
+
+a.navbar-brand {
   margin: 0;
   border: 0;
   font-variant: small-caps;
@@ -7,8 +21,7 @@
   padding-right: 30px;
   border-bottom-style: hidden;
   font-size: larger !important;
-}
-
-.navbar-text-alice a:hover {
+  &:hover {
   color: #6a241a !important;
+  }
 }
